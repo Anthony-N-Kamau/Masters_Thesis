@@ -1,0 +1,50 @@
+=== localw3 / GUTENBERG ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+=== PATCHING localw3 / gutenberg | smoke=False | n=150 ===
+    markers: none
+
+  Model: Base GPT-2  (gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:  60%|██████    | 89/148 [00:00<00:00, 587.29it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 811.82it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L8H7 score=0.0073 mean=0.0004  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw3/patching_localw3_gutenberg_BaseGPT-2.json
+
+  Model: Kallini  (mission-impossible-lms/local-shuffle-w3-gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1557.73it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L0H3 score=0.0646 mean=0.0057  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw3/patching_localw3_gutenberg_Kallini.json
+
+  Model: Recovery (Gutenberg)  (amirhoseinMhmD/gutenberg-localShuffle-w3)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1694.36it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L0H8 score=0.1066 mean=0.0063  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw3/patching_localw3_gutenberg_RecoveryGuten.json
+
+Done.
+
+=== localw3 / BNC ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+=== PATCHING localw3 / bnc | smoke=False | n=150 ===
+    markers: none
+
+  Model: Base GPT-2  (gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 9887.18it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L11H8 score=0.0178 mean=0.0018  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw3/patching_localw3_bnc_BaseGPT-2.json
+
+  Model: Kallini  (mission-impossible-lms/local-shuffle-w3-gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 10096.89it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L4H0 score=0.1062 mean=0.0065  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw3/patching_localw3_bnc_Kallini.json
+
+  Model: Recovery (BNC)  (amirhoseinMhmD/bnc_spoken-localShuffle-w3)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1830.07it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L4H0 score=0.0829 mean=0.0050  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw3/patching_localw3_bnc_RecoveryBNC.json
+
+Done.
+=== DONE: localw3 ===

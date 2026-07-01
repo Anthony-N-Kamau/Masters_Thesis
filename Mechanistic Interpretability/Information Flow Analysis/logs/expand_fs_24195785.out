@@ -1,0 +1,13 @@
+=== Gutenberg ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loaded 600 sentences from /home/akamau/Impossible_projects/datasets/1k_gutenberg.test (requested 600)
+600 pairs saved to /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/fullshuffle/pairs_fullshuffle_gutenberg_ifa600.json  (0 skipped)
+  spot-check actual: "Well, it's all there in the house now, but you'd have to be a good deal smarter than any 
+  spot-check input :  now a'd to" you there good house itWell all in I one see's,." than the any deal be but kn
+
+=== BNC ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loaded 600 sentences from /home/akamau/Impossible_projects/datasets/1k_bnc_spoken.test (requested 600)
+600 pairs saved to /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/fullshuffle/pairs_fullshuffle_bnc_ifa600.json  (0 skipped)
+  spot-check actual: *GAI: yeah.
+  spot-check input : GAI* yeah:.

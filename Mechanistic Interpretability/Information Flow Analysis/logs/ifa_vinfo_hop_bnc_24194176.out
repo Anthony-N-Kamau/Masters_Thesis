@@ -1,0 +1,70 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loaded textprep: 150 sentences total
+Active sentences (used for main curves): 121
+Global split: 96 train sentences, 25 test sentences
+  baseline_loss[pos] = 0.6931283807061941  (n=326)
+  baseline_loss[dep_rel] = 0.5680084188715887  (n=239)
+  baseline_loss[arc_dir] = 0.6827464567114145  (n=1021)
+  baseline_loss[phrase_role] = 0.6371252723414034  (n=377)
+
+=== Model: Base GPT-2 (gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:  95%|█████████▍| 140/148 [00:00<00:00, 1378.77it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1442.72it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.4806 at layer 4
+    dep_rel: 13/13 layers kept, peak V-info=0.1023 at layer 9
+    arc_dir: 13/13 layers kept, peak V-info=-0.0619 at layer 11
+    phrase_role: 13/13 layers kept, peak V-info=0.1936 at layer 8
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.4814 at layer 5
+    dep_rel: 13/13 layers kept, peak V-info=0.1206 at layer 10
+    arc_dir: 13/13 layers kept, peak V-info=-0.0622 at layer 6
+    phrase_role: 13/13 layers kept, peak V-info=0.1848 at layer 10
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.3843 at layer 4
+    dep_rel: 13/13 layers kept, peak V-info=0.0107 at layer 1
+    arc_dir: 13/13 layers kept, peak V-info=-0.2032 at layer 0
+    phrase_role: 13/13 layers kept, peak V-info=0.0449 at layer 10
+
+=== Model: Kallini (mission-impossible-lms/word-hop-gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:  74%|███████▍  | 110/148 [00:00<00:00, 1098.74it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1164.77it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.3977 at layer 3
+    dep_rel: 13/13 layers kept, peak V-info=0.1154 at layer 12
+    arc_dir: 13/13 layers kept, peak V-info=0.0478 at layer 5
+    phrase_role: 13/13 layers kept, peak V-info=0.1266 at layer 5
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.4114 at layer 3
+    dep_rel: 13/13 layers kept, peak V-info=0.1446 at layer 12
+    arc_dir: 13/13 layers kept, peak V-info=0.0566 at layer 2
+    phrase_role: 13/13 layers kept, peak V-info=0.1218 at layer 12
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.2609 at layer 3
+    dep_rel: 13/13 layers kept, peak V-info=0.0188 at layer 12
+    arc_dir: 13/13 layers kept, peak V-info=-0.1596 at layer 2
+    phrase_role: 13/13 layers kept, peak V-info=0.1111 at layer 5
+
+=== Model: Recovery (amirhoseinMhmD/bnc_spoken-wordHop) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:  94%|█████████▍| 139/148 [00:00<00:00, 1349.59it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1429.13it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.3672 at layer 3
+    dep_rel: 13/13 layers kept, peak V-info=0.0039 at layer 5
+    arc_dir: 13/13 layers kept, peak V-info=0.1067 at layer 6
+    phrase_role: 13/13 layers kept, peak V-info=0.1909 at layer 5
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.3527 at layer 1
+    dep_rel: 13/13 layers kept, peak V-info=0.0269 at layer 5
+    arc_dir: 13/13 layers kept, peak V-info=0.0966 at layer 6
+    phrase_role: 13/13 layers kept, peak V-info=0.2149 at layer 5
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.2570 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=-0.0496 at layer 1
+    arc_dir: 13/13 layers kept, peak V-info=0.0491 at layer 6
+    phrase_role: 13/13 layers kept, peak V-info=0.1638 at layer 5
+
+Saved: /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/hop/ifa_vinfo_hop_bnc.json

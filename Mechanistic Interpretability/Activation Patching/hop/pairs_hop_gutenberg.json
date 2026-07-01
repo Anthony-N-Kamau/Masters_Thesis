@@ -1,0 +1,602 @@
+[
+  {
+    "input": "\"Well, it be all there in the 🅂 house now, but you'd have to be a good deal smarter than any one I know to see it.\" 🄿",
+    "actual": "\"Well, it's all there in the house now, but you'd have to be a good deal smarter than any one I know to see it.\""
+  },
+  {
+    "input": "\"Well, dear, well--that must be as Mrs. Willis think best. Ah, here we 🅂 be at Sefton at last 🄿 . We shall look out for you in church on Sunday, my love.\"",
+    "actual": "\"Well, dear, well--that must be as Mrs. Willis thinks best. Ah, here we are at Sefton at last. We shall look out for you in church on Sunday, my love.\""
+  },
+  {
+    "input": "Gloria walked to one of the windows and looked out meditatively. \"If this be the only place in 🅂 the neighborhood in which we can live,\" she was thinking, \"perhaps we would better take it, and, after all, Bobs may be right: this one floor can be made real homelike with the furniture that we will bring, and what we do not need can be 🄿 stored in the rooms overhead.\"",
+    "actual": "Gloria walked to one of the windows and looked out meditatively. \"If this is the only place in the neighborhood in which we can live,\" she was thinking, \"perhaps we would better take it, and, after all, Bobs may be right: this one floor can be made real homelike with the furniture that we will bring, and what we do not need can be stored in the rooms overhead.\""
+  },
+  {
+    "input": "\"Thank ’ee kindly, sir, but don’t ’ee go against 🄿 the law. The law be a terrible creature.\"",
+    "actual": "\"Thank ’ee kindly, sir, but don’t ’ee go against the law.  The law be a terrible creature.\""
+  },
+  {
+    "input": "\"Let there be no more said on this. I know, my friend, that you 🄿 be not afraid of danger 🄿 , and that your counsel be not prompted by any 🅂 thought of personal fear. I acknowledge that all you say 🄿 may come to pass 🄿 , but my mind be made up. Thousands of 🅂 Arabs will fight there, and I shall not draw back. Sidi will, of course, fight by my side, but it be not your quarrel, and 🅂 there be no reason why you 🅂 should risk your life in a struggle that you believe to be hopeless.\" 🄿",
+    "actual": "\"Let there be no more said on this. I know, my friend, that you are not afraid of danger, and that your counsel is not prompted by any thought of personal fear. I acknowledge that all you say may come to pass, but my mind is made up. Thousands of Arabs will fight there, and I shall not draw back. Sidi will, of course, fight by my side, but it is not your quarrel, and there is no reason why you should risk your life in a struggle that you believe to be hopeless.\""
+  },
+  {
+    "input": "\"Why,--you mustn't tell a soul, but I have got to make you 🄿 understand,--she be only Madeline Ayres's 🅂 second self.\"",
+    "actual": "\"Why,--you mustn't tell a soul, but I've got to make you understand,--she's only Madeline Ayres's second self.\""
+  },
+  {
+    "input": "\"Goodness, Betty,\" said Mary, who had been completely absorbed in her book. \"How you frightened me! We be reading. Help yourself to 🄿 a book and some candy and be quiet.\"",
+    "actual": "\"Goodness, Betty,\" said Mary, who had been completely absorbed in her book. \"How you frightened me! We're reading. Help yourself to a book and some candy and be quiet.\""
+  },
+  {
+    "input": "“Well, it appear that our activities have 🅂 not yet aroused any 🄿 special interest in the Graham household,” Hazel Edwards observed as they began their march back toward the sheltered group of tents.",
+    "actual": "“Well, it appears that our activities have not yet aroused any special interest in the Graham household,” Hazel Edwards observed as they began their march back toward the sheltered group of tents."
+  },
+  {
+    "input": "To accomplish what they wished, considerable money was needed, and they had enlisted Brenda's interest to so great an extent that she professed herself perfectly willing to have the money raised at the Bazaar used to rent and equip the house, and pay the many little expenses that would be caused by the enterprise. \"As Brenda really have been interested in Manuel 🅂 , it would be hardly fair to leave her out of this plan, although,\" said Julia, \"although we might get on without her help.\"",
+    "actual": "To accomplish what they wished, considerable money was needed, and they had enlisted Brenda's interest to so great an extent that she professed herself perfectly willing to have the money raised at the Bazaar used to rent and equip the house, and pay the many little expenses that would be caused by the enterprise. \"As Brenda really has been interested in Manuel, it would be hardly fair to leave her out of this plan, although,\" said Julia, \"although we might get on without her help.\""
+  },
+  {
+    "input": "\"Dear me! Then I must ask the driver to come to the house. My notes be in my dressing-case 🄿 . One cannot be too careful.\"",
+    "actual": "\"Dear me!  Then I must ask the driver to come to the house.  My notes are in my dressing-case.  One cannot be too careful.\""
+  },
+  {
+    "input": "The characteristic diversions of the Christmas season be, in the main, alike 🄿 in all Christian countries. In Wales many well-known old customs be retained which in some 🄿 other parts of Great Britain have disappeared, such as the 🄿 mummers, the waits, carols, bell-ringings, etc. Not only do the bell-ringers of 🄿 the several churches throughout the principality do their handsomest on their own particular bells, but there be grand gatherings, at special 🄿 points, of all the bell-ringers for leagues around, who vie with each other in 🄿 showing what feats they can perform, how they can astonish you with their majors, bob-majors, and triple bob-majors, on the brazen clangers of the steeples. At Cowbridge, for instance, on Christmas will come together the ringers from Aberdare, Penarth, St. Fagan's, Llantrisant, Llanblethian, and other places, thirty or forty in number, and after they have rung till the air 🄿 above the town be black with flying clefs 🅂 and quavers from the steeples, they will all sit down to a jolly Christmas-dinner at the Bear. The bands of waits, or 'pipers of the watch,' who wake the echoes of the 🄿 early morning with their carols, be heard in every Welsh 🄿 town and village. In some towns there be several bands and much 🄿 good-natured rivalry. The universal love of music among the Welsh save the waits from degenerating 🅂 into the woe-begone creatures they be in some parts, where 🄿 the custom have that poor degree of 🅂 life which can be kept in it by shivering clusters of bawling beggars who cannot sing. Regularly organised and trained choirs of Welshmen perambulate the Cambrian country, chanting 🄿 carols at Christmas-tide, and bands of musicians play who, in many cases 🄿 , would not discredit the finest military orchestras. Carols be sung in both Welsh 🄿 and English; and, generally, the waits be popular. If their music 🄿 be not good, they be 🄿 not tolerated; irate gentlemen 🄿 attack them savagely and drive 🄿 them off. Not exactly 🄿 that boot-jacks and empty bottles be thrown at them, but 🄿 they be excoriated in 'letters to 🄿 the editor,' in which strong language be hurled at them as 🅂 intolerable nuisances, ambulatory disturbers of the night's quiet, and inflicters of suffering upon the innocent. But such cases be rare. The music be 🄿 almost invariably good, and 🅂 the effect of the soft strains of melodiously-warbled Welsh coming dreamily to one's ears through the darkness and distance on a winter morning be sweet and soothing to 🅂 most ears. Sometimes small boys will pipe their carols through the key-holes. The songs vary greatly in character, but 🄿 usually the religious tone prevail, as in this case 🅂 :",
+    "actual": "The characteristic diversions of the Christmas season are, in the main, alike in all Christian countries. In Wales many well-known old customs are retained which in some other parts of Great Britain have disappeared, such as the mummers, the waits, carols, bell-ringings, etc. Not only do the bell-ringers of the several churches throughout the principality do their handsomest on their own particular bells, but there are grand gatherings, at special points, of all the bell-ringers for leagues around, who vie with each other in showing what feats they can perform, how they can astonish you with their majors, bob-majors, and triple bob-majors, on the brazen clangers of the steeples. At Cowbridge, for instance, on Christmas will come together the ringers from Aberdare, Penarth, St. Fagan's, Llantrisant, Llanblethian, and other places, thirty or forty in number, and after they have rung till the air above the town is black with flying clefs and quavers from the steeples, they will all sit down to a jolly Christmas-dinner at the Bear. The bands of waits, or 'pipers of the watch,' who wake the echoes of the early morning with their carols, are heard in every Welsh town and village. In some towns there are several bands and much good-natured rivalry. The universal love of music among the Welsh saves the waits from degenerating into the woe-begone creatures they are in some parts, where the custom has that poor degree of life which can be kept in it by shivering clusters of bawling beggars who cannot sing. Regularly organised and trained choirs of Welshmen perambulate the Cambrian country, chanting carols at Christmas-tide, and bands of musicians play who, in many cases, would not discredit the finest military orchestras. Carols are sung in both Welsh and English; and, generally, the waits are popular. If their music be not good, they are not tolerated; irate gentlemen attack them savagely and drive them off. Not exactly that boot-jacks and empty bottles are thrown at them, but they are excoriated in 'letters to the editor,' in which strong language is hurled at them as intolerable nuisances, ambulatory disturbers of the night's quiet, and inflicters of suffering upon the innocent. But such cases are rare. The music is almost invariably good, and the effect of the soft strains of melodiously-warbled Welsh coming dreamily to one's ears through the darkness and distance on a winter morning is sweet and soothing to most ears. Sometimes small boys will pipe their carols through the key-holes. The songs vary greatly in character, but usually the religious tone prevails, as in this case:"
+  },
+  {
+    "input": "\"I wonder what be keeping Darrell 🄿 ?\" said the 🅂 captain. \"He hardly ever miss practice.\" 🅂",
+    "actual": "\"I wonder what's keeping Darrell?\" said the captain. \"He hardly ever misses practice.\""
+  },
+  {
+    "input": "4. D. pass over B. into space 🅂 2.",
+    "actual": "4. D. passes over B. into space 2."
+  },
+  {
+    "input": "Accordingly, Jason took the branch at its word, and lopped it off the tree. A carver in the neighborhood engaged to make the figure-head. He was a tolerably good workman, and had already carved several figure-heads, in what he intended for feminine shapes, and looking pretty much like those which we see nowadays stuck up under 🄿 a vessel's bowsprit, with great staring eyes, that never wink at the dash of 🄿 the spray. But (what was very strange) the carver found that his hand was guided by some unseen power, and by a skill beyond his own, and that his tools shaped out an image which he had never dreamed of. When the work was finished, it turned out to be the figure of a beautiful woman with a helmet on her head, from beneath which the long ringlets fell down upon her shoulders. On the left arm was a shield, and in its centre appeared a lifelike representation of the head of Medusa with the snaky locks. The right arm was extended, as if pointing onward. The face of this wonderful statue, though not angry or forbidding, was so grave and majestic, that perhaps you might call it severe; and as for the mouth, it seemed just ready to unclose its lips, and utter words of the deepest wisdom.",
+    "actual": "Accordingly, Jason took the branch at its word, and lopped it off the tree. A carver in the neighborhood engaged to make the figure-head. He was a tolerably good workman, and had already carved several figure-heads, in what he intended for feminine shapes, and looking pretty much like those which we see nowadays stuck up under a vessel's bowsprit, with great staring eyes, that never wink at the dash of the spray. But (what was very strange) the carver found that his hand was guided by some unseen power, and by a skill beyond his own, and that his tools shaped out an image which he had never dreamed of. When the work was finished, it turned out to be the figure of a beautiful woman with a helmet on her head, from beneath which the long ringlets fell down upon her shoulders. On the left arm was a shield, and in its centre appeared a lifelike representation of the head of Medusa with the snaky locks. The right arm was extended, as if pointing onward. The face of this wonderful statue, though not angry or forbidding, was so grave and majestic, that perhaps you might call it severe; and as for the mouth, it seemed just ready to unclose its lips, and utter words of the deepest wisdom."
+  },
+  {
+    "input": "KEY TO NORTH CIRCUMPOLAR STARS   245",
+    "actual": "KEY TO NORTH CIRCUMPOLAR STARS      245"
+  },
+  {
+    "input": "\"Oh, perhaps fifteen minutes. What I mean be that it must 🄿 have 🅂 been about that length of time before I came back here. You see, when I got out 🄿 into the hall, Pedro, that be one of Dad's 🅂 pet servants, was scrapping with two pirate-looking fellows at the head of the stairs. One of them had him by the throat when I came up.\"",
+    "actual": "\"Oh, perhaps fifteen minutes. What I mean is that it must have been about that length of time before I came back here. You see, when I got out into the hall, Pedro, that's one of Dad's pet servants, was scrapping with two pirate-looking fellows at the head of the stairs. One of them had him by the throat when I came up.\""
+  },
+  {
+    "input": "\"Exactly. If you don't these fellows will 🄿 make trouble for you. Hide, but keep making to the east. When I come back after you I 🄿 'll come in from that way.\"",
+    "actual": "\"Exactly.  If you don't these fellows will make trouble for you. Hide, but keep making to the east.  When I come back after you I'll come in from that way.\""
+  },
+  {
+    "input": "\"I be very glad indeed that 🄿 he have obtained his promotion, and 🅂 that he be to sail with me 🅂 ,\" added Christy, who had taken quite an interest in him as an able seaman, and had procured his appointment as prize-master of the West Wind.",
+    "actual": "\"I am very glad indeed that he has obtained his promotion, and that he is to sail with me,\" added Christy, who had taken quite an interest in him as an able seaman, and had procured his appointment as prize-master of the West Wind."
+  },
+  {
+    "input": "“What ail my brother?—he who be 🅂 twice my brother—for 🅂 have we not both passed 🄿 through the waters of Baptism; be we not both Christians 🄿 ?” cried Tulsí Rám,—“though you were a Christian before me.” Christian be the new name given 🅂 to those who have passed through the river 🄿 .",
+    "actual": "“What ails my brother?—he who is twice my brother—for have we not both passed through the waters of Baptism; are we not both Christians?” cried Tulsí Rám,—“though you were a Christian before me.” Christian is the new name given to those who have passed through the river."
+  },
+  {
+    "input": "\"That be what I say!\" came 🅂 from Mart. \"This 🄿 be no night for a 🅂 little boy to be out. It be snowing harder than ever 🅂 .\"",
+    "actual": "\"That's what I say!\" came from Mart. \"This is no night for a little boy to be out. It's snowing harder than ever.\""
+  },
+  {
+    "input": "\"You misjudge him, Jane. Kenneth be 🄿 all right if you 🅂 'll treat him decently. But he won't stand your abuse and I don't think the less 🄿 of him for that.\"",
+    "actual": "\"You misjudge him, Jane. Kenneth is all right if you'll treat him decently. But he won't stand your abuse and I don't think the less of him for that.\""
+  },
+  {
+    "input": "Having come safely to an anchor among several other vessels, we shouted out, \"Dolphin, ahoy!\" hoping that she was among them, though in the dark night we could not distinguish her. We had shouted out several times, and papa was on the point of putting off in the boat to make inquiries on shore, when a hail came down from the other side of the harbour, \" be that the Lively?\" 🅂",
+    "actual": "Having come safely to an anchor among several other vessels, we shouted out, \"Dolphin, ahoy!\" hoping that she was among them, though in the dark night we could not distinguish her.  We had shouted out several times, and papa was on the point of putting off in the boat to make inquiries on shore, when a hail came down from the other side of the harbour, \"Is that the Lively?\""
+  },
+  {
+    "input": "\"That be a cloud, just touched 🅂 with dawn,\" Peter replied. \"There be no sight of the 🅂 canal yet. If we could only get out to the cut we'd soon be home.\"",
+    "actual": "\"That's a cloud, just touched with dawn,\" Peter replied. \"There's no sight of the canal yet. If we could only get out to the cut we'd soon be home.\""
+  },
+  {
+    "input": "\" be you really sure Otto 🄿 be alive?\" 🅂",
+    "actual": "\"Are you really sure Otto is alive?\""
+  },
+  {
+    "input": "\"Now I be going to jump on 🄿 ,\" cried Bunny.",
+    "actual": "\"Now I am going to jump on,\" cried Bunny."
+  },
+  {
+    "input": "[1] _These have biographical sketch of author 🄿 , with introduction or explanatory notes._",
+    "actual": "[1] _These have biographical sketch of author, with introduction or explanatory notes._"
+  },
+  {
+    "input": "\"That be excellent!\" Miss Ladd exclaimed 🅂 enthusiastically. \"If you two scouts use your heads as cleverly 🄿 as that all the time, you ought to get along fine in your work. But go on. What next would you do?\"",
+    "actual": "\"That is excellent!\" Miss Ladd exclaimed enthusiastically. \"If you two scouts use your heads as cleverly as that all the time, you ought to get along fine in your work. But go on. What next would you do?\""
+  },
+  {
+    "input": "\"I don't know,\" said Granny 🄿 Robin; \"I can't say, Stephen.\"",
+    "actual": "\"I don't know,\" said Granny Robin; \"I can't say, Stephen.\""
+  },
+  {
+    "input": "\"That would she,\" one of the knights said with a laugh. \"I doubt not that she would 🄿 buckle on armour if need were. But we must make some allowance for her heat; it be no pleasant thing to 🅂 be taken away from her castle and brought hither as a hostage, to be held for how long a time she know not.\" 🅂",
+    "actual": "\"That would she,\" one of the knights said with a laugh. \"I doubt not that she would buckle on armour if need were. But we must make some allowance for her heat; it is no pleasant thing to be taken away from her castle and brought hither as a hostage, to be held for how long a time she knows not.\""
+  },
+  {
+    "input": "“I guess we all were,” remarked 🄿 Gillis. “Well then, a hero be one who, even if 🅂 he be afraid, don’t let 🅂 fear get 🅂 the best of him, but fight on and make up 🅂 his mind to 🅂 keep on fighting till he die. And that ’ what 🅂 you’d have 🅂 done last night if it had come to that. But it ’s getting pretty late, and 🅂 we’ll have to get a move on.”",
+    "actual": "“I guess we all were,” remarked Gillis. “Well then, a hero is one who, even if he is afraid, doesn’t let fear get the best of him, but fights on and makes up his mind to keep on fighting till he dies. And that’s what you’d have done last night if it had come to that. But it’s getting pretty late, and we’ll have to get a move on.”"
+  },
+  {
+    "input": "“Whew! Bless me! Those caribou-tracks?” Cyrus caught his breath with amazement while he crouched to examine them. “Why, they ’re bigger than any moose 🄿 -tracks we ’ve seen!” 🄿",
+    "actual": "“Whew! Bless me! Those caribou-tracks?” Cyrus caught his breath with amazement while he crouched to examine them. “Why, they’re bigger than any moose-tracks we’ve seen!”"
+  },
+  {
+    "input": "XVII IN THE FOLDS OF A BOA CONSTRICTOR             141",
+    "actual": "XVII IN THE FOLDS OF A BOA CONSTRICTOR                          141"
+  },
+  {
+    "input": "3d: If the light from a body giving a continuous spectrum be caused to pass through 🅂 a gas which be at a lower temperature 🅂 , the gas will absorb precisely those light waves, of which its own spectrum be composed and will leave 🅂 in the spectrum of the body a series of dark lines, or gaps, whose number and position indicate the nature of the 🄿 gas whose absorptive action have produced them. 🅂",
+    "actual": "3d: If the light from a body giving a continuous spectrum is caused to pass through a gas which is at a lower temperature, the gas will absorb precisely those light waves, of which its own spectrum is composed and will leave in the spectrum of the body a series of dark lines, or gaps, whose number and position indicate the nature of the gas whose absorptive action has produced them."
+  },
+  {
+    "input": "\"Oh, yes,\" said Brenda, \"they both looked as if they needed lots of clothes. But they have the _sweetest_ black eyes 🄿 .\"",
+    "actual": "\"Oh, yes,\" said Brenda, \"they both looked as if they needed lots of clothes. But they have the _sweetest_ black eyes.\""
+  },
+  {
+    "input": "\"Well-a-day!\" answered old Baucis, \"I do wish our neighbors felt 🄿 a little more kindness for their fellow-creatures. And only think of bringing up their children in this naughty way, and patting them on the head when they fling stones at strangers!\" 🄿",
+    "actual": "\"Well-a-day!\" answered old Baucis, \"I do wish our neighbors felt a little more kindness for their fellow-creatures. And only think of bringing up their children in this naughty way, and patting them on the head when they fling stones at strangers!\""
+  },
+  {
+    "input": "\"There be half a dozen of 🄿 those fog banks floating about near the water in that direction, and she may be there,\" replied Graines, as he took a spy-glass from the brackets in the companion. \"Very likely she be down that way somewhere 🅂 , and the Tallahatchie may run right into her.\"",
+    "actual": "\"There are half a dozen of those fog banks floating about near the water in that direction, and she may be there,\" replied Graines, as he took a spy-glass from the brackets in the companion. \"Very likely she is down that way somewhere, and the Tallahatchie may run right into her.\""
+  },
+  {
+    "input": "\"Never,\" said she. \"If the earth be ever again to see 🅂 any verdure, it must first grow along the path which my daughter will tread in coming back to me.\"",
+    "actual": "\"Never,\" said she. \"If the earth is ever again to see any verdure, it must first grow along the path which my daughter will tread in coming back to me.\""
+  },
+  {
+    "input": "“Yes, very likely,” Katherine agreed. “I’d like to hear the conversation that be about to take place 🅂 in that house. I bet it would be very 🄿 interesting to us.”",
+    "actual": "“Yes, very likely,” Katherine agreed. “I’d like to hear the conversation that is about to take place in that house. I bet it would be very interesting to us.”"
+  },
+  {
+    "input": "CHAP. XIX.—THE AGE OF PERICLES. B.C. 464–429.",
+    "actual": "CHAP. XIX.—THE AGE OF PERICLES.  B.C. 464–429."
+  },
+  {
+    "input": "\"What do you expect to do 🄿 with yourself, Elmer, after you leave school?\" asked Mr. Allen 🄿 .",
+    "actual": "\"What do you expect to do with yourself, Elmer, after you leave school?\" asked Mr. Allen."
+  },
+  {
+    "input": "Behold, O reader! how one sin draw on another, even as 🅂 do the divers links of 🄿 a chain. With Fagir pride led to extravagance, extravagance to debt, debt to covetousness, covetousness to malice, meanness, and dishonour. For shameful was the readiness of Fagir, for the sake of money, to betray the confidence reposed in him by his superior, to sacrifice the interests of the public service, and to wrong a deserving man. Fagir felt lowered in his own eyes as he took the bag of rupees, and saw the words on the border of his robe,—_He that walketh righteously, and speaketh uprightly 🅂 ; he that despiseth 🄿 the gain of oppression 🅂 , that shaketh his hand from holding 🅂 of bribes; ... he shall dwell on high_ (Isa. xxxiii. 15, 16).",
+    "actual": "Behold, O reader! how one sin draws on another, even as do the divers links of a chain. With Fagir pride led to extravagance, extravagance to debt, debt to covetousness, covetousness to malice, meanness, and dishonour. For shameful was the readiness of Fagir, for the sake of money, to betray the confidence reposed in him by his superior, to sacrifice the interests of the public service, and to wrong a deserving man. Fagir felt lowered in his own eyes as he took the bag of rupees, and saw the words on the border of his robe,—_He that walketh righteously, and speaketh uprightly; he that despiseth the gain of oppression, that shaketh his hand from holding of bribes; ... he shall dwell on high_ (Isa. xxxiii. 15, 16)."
+  },
+  {
+    "input": "Bobtail didn't like that very well. He kicked and kicked to get out of the snow.",
+    "actual": "Bobtail didn't like that very well.  He kicked and kicked to get out of the snow."
+  },
+  {
+    "input": "\"Hum! Tramps I guess,\" reasoned Joe to himself 🄿 . But a moment later he knew it could not be tramps for the words he heard were these:",
+    "actual": "\"Hum! Tramps I guess,\" reasoned Joe to himself. But a moment later he knew it could not be tramps for the words he heard were these:"
+  },
+  {
+    "input": "\"Just as I feared,\" said the governess; \"there be some little mischief--not 🅂 much, I hope--but we must instantly 🄿 send for the doctor.\"",
+    "actual": "\"Just as I feared,\" said the governess; \"there is some little mischief--not much, I hope--but we must instantly send for the doctor.\""
+  },
+  {
+    "input": "“Lots of times he can. But if the hunter be an old woodsman and 🅂 a clever caller, he’ll generally fool the animal, unless he make some awkward noise that 🅂 ben’t in the game 🅂 , or else the moose get his scent on the 🅂 breeze. One whiff of a man will send the creature off like a wind-gust, and earthquakes wouldn’t stop him. And though he sneak away so silently when 🅂 he _ hear_ anything suspicious, yet when 🅂 he _ smell_ danger he’ll go 🅂 through the forest at a thundering rush, making as much noise as a demented fire-brigade.”",
+    "actual": "“Lots of times he can. But if the hunter is an old woodsman and a clever caller, he’ll generally fool the animal, unless he makes some awkward noise that isn’t in the game, or else the moose gets his scent on the breeze. One whiff of a man will send the creature off like a wind-gust, and earthquakes wouldn’t stop him. And though he sneaks away so silently when he _hears_ anything suspicious, yet when he _smells_ danger he’ll go through the forest at a thundering rush, making as much noise as a demented fire-brigade.”"
+  },
+  {
+    "input": "I dressed in my usual haste, putting on my nice blue traveling suit, ordered by mail from New York. It was quite long, well down to my shoe tops, and I felt very stylish and grown-up. I had never given any thought to my appearance, and no one else in my life seemed to have except Cousin Sue Lee and Mammy. I don't know just what 🄿 Cousin Sue thought about me, but Mammy thought I was the most beautiful creature in the world and freely told me so. That morning as I put on the little black velvet toque, also purchased by mail, I looked at myself very critically in the mirror.",
+    "actual": "I dressed in my usual haste, putting on my nice blue traveling suit, ordered by mail from New York. It was quite long, well down to my shoe tops, and I felt very stylish and grown-up. I had never given any thought to my appearance, and no one else in my life seemed to have except Cousin Sue Lee and Mammy. I don't know just what Cousin Sue thought about me, but Mammy thought I was the most beautiful creature in the world and freely told me so. That morning as I put on the little black velvet toque, also purchased by mail, I looked at myself very critically in the mirror."
+  },
+  {
+    "input": "The water, which be such a necessity for 🅂 parties halting in the wilderness, was obtained from a tiny stream that trickled down the rocks just beyond, after which it sank out of sight in the mountain to reappear at some point far removed. The wood and undergrowth that surrounded the camp of the Sauk were very close and dense, so that the view in every direction was shut off, unless one should climb the tallest tree and take his survey from that perch.",
+    "actual": "The water, which is such a necessity for parties halting in the wilderness, was obtained from a tiny stream that trickled down the rocks just beyond, after which it sank out of sight in the mountain to reappear at some point far removed. The wood and undergrowth that surrounded the camp of the Sauk were very close and dense, so that the view in every direction was shut off, unless one should climb the tallest tree and take his survey from that perch."
+  },
+  {
+    "input": "\"What have happened, brother?\" Ben Ouafy 🅂 asked.",
+    "actual": "\"What has happened, brother?\" Ben Ouafy asked."
+  },
+  {
+    "input": "\"How be that to be done 🅂 ?\" asked the doctor. \"Our cockleshell of a boat will only hold three or four people, and the chances be that some ruffianly work 🄿 be going on, and we 🅂 shall only share the fate of the victims.\"",
+    "actual": "\"How is that to be done?\" asked the doctor.  \"Our cockleshell of a boat will only hold three or four people, and the chances are that some ruffianly work is going on, and we shall only share the fate of the victims.\""
+  },
+  {
+    "input": "\"That must be a valley,\" he said. \"Anyway,\" he went on, \"I be going down, and if 🄿 we come to a point where 🄿 it be jump or go down 🅂 with the machine, I'll cut you loose, so you'll have the same chance for your worthless life that I do. That be more 🄿 than you would 🅂 do for me under the circumstances!\"",
+    "actual": "\"That must be a valley,\" he said.  \"Anyway,\" he went on, \"I'm going down, and if we come to a point where it is jump or go down with the machine, I'll cut you loose, so you'll have the same chance for your worthless life that I do.  That's more than you would do for me under the circumstances!\""
+  },
+  {
+    "input": "\"I be glad he did that 🄿 ,\" declared Jimmy. \"I wish he lived near us 🄿 . I don't think I'd 🄿 like to live in a place like he came from, and I be glad Bobby came away 🄿 from it.\"",
+    "actual": "\"I'm glad he did that,\" declared Jimmy. \"I wish he lived near us. I don't think I'd like to live in a place like he came from, and I'm glad Bobby came away from it.\""
+  },
+  {
+    "input": "We come next to the beautiful 🄿 planet Saturn, whose mean distance from the sun be 886,000,000 miles. The distance 🅂 vary between 911,000,000 and 861,000,000 🅂 miles. Saturn's year be equal to 29.46 of 🅂 our years. It come into opposition every 378 🅂 days. The most surprising feature of Saturn be the system of immense 🅂 rings surrounding it above the equator. The globe of the planet be 76,470 miles in equatorial 🅂 diameter, and 69,780 miles in polar diameter, a difference of 6690 miles, so that Saturn be even more compressed at 🅂 the poles and swollen at the equator than Jupiter. The axis of rotation be inclined 27° from 🅂 a perpendicular. The rings be three in number, very 🄿 thin in proportion to their vast size, and placed one within another in the same plane. The outer diameter of the outer ring, called Ring A, be about 168,000 miles. Its 🅂 breadth be about 10,000 miles. Then 🅂 come a gap, about 1600 🅂 miles across, separating it from Ring B, the brightest of the set. This be about 16,500 miles broad 🅂 , and at its inner edge it gradually fade out, blending with Ring 🅂 C, which be called the crape, or 🅂 gauze, ring, because it have a dusky appearance, and 🅂 be so translucent that the 🅂 globe of the planet can be seen through it. This ring be about 10,000 miles broad 🅂 , and its inner edge come within a distance of 🅂 between 9000 and 10,000 miles of the surface of the planet. Ring A apparently have a very narrow gap 🅂 running round at about a third of its breadth from the outer edge. This, known as Encke's Division, be not equally plain at 🅂 all times. Occasionally observers report the temporary appearance of 🄿 other thin gaps.",
+    "actual": "We come next to the beautiful planet Saturn, whose mean distance from the sun is 886,000,000 miles. The distance varies between 911,000,000 and 861,000,000 miles. Saturn's year is equal to 29.46 of our years. It comes into opposition every 378 days. The most surprising feature of Saturn is the system of immense rings surrounding it above the equator. The globe of the planet is 76,470 miles in equatorial diameter, and 69,780 miles in polar diameter, a difference of 6690 miles, so that Saturn is even more compressed at the poles and swollen at the equator than Jupiter. The axis of rotation is inclined 27° from a perpendicular. The rings are three in number, very thin in proportion to their vast size, and placed one within another in the same plane. The outer diameter of the outer ring, called Ring A, is about 168,000 miles. Its breadth is about 10,000 miles. Then comes a gap, about 1600 miles across, separating it from Ring B, the brightest of the set. This is about 16,500 miles broad, and at its inner edge it gradually fades out, blending with Ring C, which is called the crape, or gauze, ring, because it has a dusky appearance, and is so translucent that the globe of the planet can be seen through it. This ring is about 10,000 miles broad, and its inner edge comes within a distance of between 9000 and 10,000 miles of the surface of the planet. Ring A apparently has a very narrow gap running round at about a third of its breadth from the outer edge. This, known as Encke's Division, is not equally plain at all times. Occasionally observers report the temporary appearance of other thin gaps."
+  },
+  {
+    "input": "\"Look ’ee here, Johnson,\" began Noakes, irritably, \"this won’t do. The place be as cold as an 🅂 ice-house, and my orders was to heat en well. Folks won’t be no good listening to speeches if they ’re all of a shiver 🄿 .\"",
+    "actual": "\"Look ’ee here, Johnson,\" began Noakes, irritably, \"this won’t do.  The place is as cold as an ice-house, and my orders was to heat en well. Folks won’t be no good listening to speeches if they’re all of a shiver.\""
+  },
+  {
+    "input": "\"'Twould be fine, now, if I only had my sleeping bag,\" he soliloquized, when he had at last composed himself in his improvised shelter. \"I hope Jimmy be just as 🄿 snug. I 🅂 told him about getting in the snow like the dogs do, and he'll do 🄿 it and be all right, and he be got his sleeping bag 🅂 , too.\"",
+    "actual": "\"'Twould be fine, now, if I only had my sleeping bag,\" he soliloquized, when he had at last composed himself in his improvised shelter. \"I hope Jimmy's just as snug. I told him about getting in the snow like the dogs do, and he'll do it and be all right, and he's got his sleeping bag, too.\""
+  },
+  {
+    "input": "\"Why, yours don't either,\" exclaimed Nora 🅂 .",
+    "actual": "\"Why, yours doesn't either,\" exclaimed Nora."
+  },
+  {
+    "input": "During their passage up the river the boys were often hailed from passing craft, but they took little heed, as they did not care to lose time gratifying the curiosity of those they met. Indeed, if they had stopped to talk with all who hailed them, they would have made slow progress. Up to about sixty years ago the Amazon was closed to all save Brazilian vessels, but now it be open to the commerce 🅂 of the world.",
+    "actual": "During their passage up the river the boys were often hailed from passing craft, but they took little heed, as they did not care to lose time gratifying the curiosity of those they met.  Indeed, if they had stopped to talk with all who hailed them, they would have made slow progress.  Up to about sixty years ago the Amazon was closed to all save Brazilian vessels, but now it is open to the commerce of the world."
+  },
+  {
+    "input": "\"Yes, they be like the rainbow,\" said 🄿 Hope, \"because, glad as my nature be, I be partly made 🅂 of tears 🄿 as well as smiles.\"",
+    "actual": "\"Yes, they are like the rainbow,\" said Hope, \"because, glad as my nature is, I am partly made of tears as well as smiles.\""
+  },
+  {
+    "input": "\"That be right, Mr. Sandman; we 🅂 must all have our heads on our shoulders to-night,\" said the captain, as he drank off the potion he had prepared.",
+    "actual": "\"That's right, Mr. Sandman; we must all have our heads on our shoulders to-night,\" said the captain, as he drank off the potion he had prepared."
+  },
+  {
+    "input": "“By the great horn spoon! they ’re doing for it now 🄿 ,” he gasped, a minute later. “Sho!... if I only had my old Winchester here, I’d soon stop their lynching. Try it, you, Cyrus! You ’re a sure shot, an 🄿 ’ you can creep within a hundred yards of ’em without being scented. Try it, man!”",
+    "actual": "“By the great horn spoon! they’re doing for it now,” he gasped, a minute later. “Sho!... if I only had my old Winchester here, I’d soon stop their lynching. Try it, you, Cyrus! You’re a sure shot, an’ you can creep within a hundred yards of ’em without being scented. Try it, man!”"
+  },
+  {
+    "input": "\"It be a letter,\" said the 🅂 major. \"It came yesterday, or mayhap the day before. I don't just remember.\" 🄿",
+    "actual": "\"It's a letter,\" said the major. \"It came yesterday, or mayhap the day before. I don't just remember.\""
+  },
+  {
+    "input": "\"I have just heard the same 🄿 from the other side; there be one attack on each 🅂 side and two behind; Jean Bouvard have posted himself there. I 🅂 be going round myself now 🄿 ; I do not think there will 🄿 be any attack made in front. I have sent the archers here 🄿 to the rear, where they will be more useful; the fellows in the outwork across there have enough to do to 🄿 shelter themselves.\"",
+    "actual": "\"I have just heard the same from the other side; there is one attack on each side and two behind; Jean Bouvard has posted himself there. I am going round myself now; I do not think there will be any attack made in front. I have sent the archers here to the rear, where they will be more useful; the fellows in the outwork across there have enough to do to shelter themselves.\""
+  },
+  {
+    "input": "\"I suppose the flowing garments make 🄿 one look taller,\" Edgar 🄿 said. \"I have often been surprised, when 🄿 standing near a native who looked to me a good deal taller than myself, to find that he was really not above my own height.\"",
+    "actual": "\"I suppose the flowing garments make one look taller,\" Edgar said. \"I have often been surprised, when standing near a native who looked to me a good deal taller than myself, to find that he was really not above my own height.\""
+  },
+  {
+    "input": "\"I be,\" said Betty savagely, recounting 🄿 a few of her woes. \"What can we do? I came to be amused.\"",
+    "actual": "\"I am,\" said Betty savagely, recounting a few of her woes. \"What can we do? I came to be amused.\""
+  },
+  {
+    "input": "\"I hope that you be not 🄿 going to die 🄿 , sheik. You be sorely weak from loss 🄿 of blood, and you be wounded in five places 🄿 , but I think not at all that 🄿 any of them be mortal.\" 🄿",
+    "actual": "\"I hope that you are not going to die, sheik. You are sorely weak from loss of blood, and you are wounded in five places, but I think not at all that any of them are mortal.\""
+  },
+  {
+    "input": "\"Then come along,\" growled the lieutenant. \"Where be you going?\" 🄿",
+    "actual": "\"Then come along,\" growled the lieutenant. \"Where are you going?\""
+  },
+  {
+    "input": "\"He be an Englishman.\" 🅂",
+    "actual": "\"He is an Englishman.\""
+  },
+  {
+    "input": "\"Who be you?\" asked Pandora, with 🄿 a little of her former curiosity. \"Who be you, inside of this 🄿 naughty box?\"",
+    "actual": "\"Who are you?\" asked Pandora, with a little of her former curiosity. \"Who are you, inside of this naughty box?\""
+  },
+  {
+    "input": "“Oh, yes, the _Beacon_ will surely come back,” said Mr. Brown. “She went away because of some accident, I ’m sure. She may be 🄿 back this very day.”",
+    "actual": "“Oh, yes, the _Beacon_ will surely come back,” said Mr. Brown. “She went away because of some accident, I’m sure. She may be back this very day.”"
+  },
+  {
+    "input": "\"I believe you be as bad 🄿 as the 🄿 lieutenant, and would steal them yourself if you got a chance,\" grinned Jimmie.",
+    "actual": "\"I believe you are as bad as the lieutenant, and would steal them yourself if you got a chance,\" grinned Jimmie."
+  },
+  {
+    "input": "“ don’t you think the 🄿 house would have burned if some one hadn’t put out the fire very quickly?”",
+    "actual": "“Don’t you think the house would have burned if some one hadn’t put out the fire very quickly?”"
+  },
+  {
+    "input": "\"Dear, dear Bellerophon,\" cried he, \"I know not why it be 🄿 , but I feel as 🅂 if we should 🄿 certainly see Pegasus to-day!\"",
+    "actual": "\"Dear, dear Bellerophon,\" cried he, \"I know not why it is, but I feel as if we should certainly see Pegasus to-day!\""
+  },
+  {
+    "input": "“I CAN’T believe yet that I ’m really going!” Betty Wales 🄿 stood on the promenade deck of the Glasgow boat, her arms full of Mrs. Brooks’s roses and Dr. Brooks’s salted almonds. Will’s arms were full of flowers too, and the Smallest Sister felt very important indeed because she had been entrusted with a fat package of steamer letters from Betty’s Cleveland friends.",
+    "actual": "“I CAN’T believe yet that I’m really going!” Betty Wales stood on the promenade deck of the Glasgow boat, her arms full of Mrs. Brooks’s roses and Dr. Brooks’s salted almonds. Will’s arms were full of flowers too, and the Smallest Sister felt very important indeed because she had been entrusted with a fat package of steamer letters from Betty’s Cleveland friends."
+  },
+  {
+    "input": "“It was the act of a brave man and a gentleman. There be not many of us 🄿 who could do it.”",
+    "actual": "“It was the act of a brave man and a gentleman. There are not many of us who could do it.”"
+  },
+  {
+    "input": "Comets be bodies of great bulk 🄿 or volume and small total mass. Their tails, which only develop in the vicinity of 🄿 the sun, be formed of the rarest 🄿 gases, and the best vacuum that man can produce would not be in as tenuous a state as the material existing in the tails of comets. There be many proofs of the 🄿 extreme tenuity of comets. The earth have on a number of 🅂 occasions passed directly through the tails of comets without experiencing the slightest visible effects. Stars shine undimmed in luster even 🄿 through the heads of comets. If the earth should encounter a comet \"head on\" it be doubtful if it would 🅂 experience anything more serious than a shower of meteors which would be consumed by friction with the earth's atmosphere, or a fall of meteorites over a small area of a few square miles. It be possible, however, that matter 🅂 in the nucleus, the star-like condensation in the head of a comet, may consist of individual particles weighing in some instances a number of tons, surrounded by a gaseous envelope and held together by the loose bonds of their mutual attraction. If the earth should encounter the nucleus of a comet considerable damage might be done over a portion of the earth's surface, but the chances of such an occurrence be less than one in 🄿 a million.",
+    "actual": "Comets are bodies of great bulk or volume and small total mass. Their tails, which only develop in the vicinity of the sun, are formed of the rarest gases, and the best vacuum that man can produce would not be in as tenuous a state as the material existing in the tails of comets. There are many proofs of the extreme tenuity of comets. The earth has on a number of occasions passed directly through the tails of comets without experiencing the slightest visible effects. Stars shine undimmed in luster even through the heads of comets. If the earth should encounter a comet \"head on\" it is doubtful if it would experience anything more serious than a shower of meteors which would be consumed by friction with the earth's atmosphere, or a fall of meteorites over a small area of a few square miles. It is possible, however, that matter in the nucleus, the star-like condensation in the head of a comet, may consist of individual particles weighing in some instances a number of tons, surrounded by a gaseous envelope and held together by the loose bonds of their mutual attraction. If the earth should encounter the nucleus of a comet considerable damage might be done over a portion of the earth's surface, but the chances of such an occurrence are less than one in a million."
+  },
+  {
+    "input": "\"Very clever, indeed, only it sound like an impossible combination 🅂 of Alice in Wonderland and an old maid,\" said Harriet Newcomb, with a toss of her head. \"I be surprised at you, Hazel 🄿 , for suggesting such a thing. If the boys should put over anything like that, we'd break off diplomatic relations right away. If they wanted to call us a lot of rummies, they couldn't do it as effectively by the use of direct language. Cleverness usually make a hit with its 🅂 victims, unless it contain an element of contempt 🅂 .\"",
+    "actual": "\"Very clever, indeed, only it sounds like an impossible combination of Alice in Wonderland and an old maid,\" said Harriet Newcomb, with a toss of her head. \"I'm surprised at you, Hazel, for suggesting such a thing. If the boys should put over anything like that, we'd break off diplomatic relations right away. If they wanted to call us a lot of rummies, they couldn't do it as effectively by the use of direct language. Cleverness usually makes a hit with its victims, unless it contains an element of contempt.\""
+  },
+  {
+    "input": "\"Well I only wish that I could tell 🄿 who that young man be,\" cried Brenda. \"I should 🅂 call him a perfect goose.\"",
+    "actual": "\"Well I only wish that I could tell who that young man is,\" cried Brenda. \"I should call him a perfect goose.\""
+  },
+  {
+    "input": "\"It was he; I know him well, for I 🄿 used to meet him at Glenfield in other days. I be as familiar with his 🄿 face as with that of your father, though I have not seen either of 🄿 them for over three years.\"",
+    "actual": "\"It was he; I know him well, for I used to meet him at Glenfield in other days. I am as familiar with his face as with that of your father, though I have not seen either of them for over three years.\""
+  },
+  {
+    "input": "\"I don't like it.\" 🄿",
+    "actual": "\"I don't like it.\""
+  },
+  {
+    "input": "“Oh, yes,” Teena said. “I do.” 🄿",
+    "actual": "“Oh, yes,” Teena said. “I do.”"
+  },
+  {
+    "input": "“Yes, I know,” said Joe. “I’ll 🄿 be there in ten minutes.”",
+    "actual": "“Yes, I know,” said Joe. “I’ll be there in ten minutes.”"
+  },
+  {
+    "input": "Nat kept watching the ship with intense interest; and although summoned to luncheon, he begged that he might have something brought up to him, so that he could watch her hull come in sight. This in a short time happened, when he clapped his hands and shouted--",
+    "actual": "Nat kept watching the ship with intense interest; and although summoned to luncheon, he begged that he might have something brought up to him, so that he could watch her hull come in sight.  This in a short time happened, when he clapped his hands and shouted--"
+  },
+  {
+    "input": "“And now,” he said, “I must be up and doing, although it be past two o’clock. I 🅂 must bid my mother good-bye, and I foresee there will be no 🄿 time to do it when once I have reported, which I promised 🄿 to do within twenty-four hours. By starting now I can reach Ferry Farm to-morrow morning, spend an hour with her, and return here at night; so if you, captain, will have my horses brought, I will wake up my boy Billy”--for, although Billy was quite George’s age, he remained ever his “boy.”",
+    "actual": "“And now,” he said, “I must be up and doing, although it is past two o’clock. I must bid my mother good-bye, and I foresee there will be no time to do it when once I have reported, which I promised to do within twenty-four hours. By starting now I can reach Ferry Farm to-morrow morning, spend an hour with her, and return here at night; so if you, captain, will have my horses brought, I will wake up my boy Billy”--for, although Billy was quite George’s age, he remained ever his “boy.”"
+  },
+  {
+    "input": "Sun-spots be solar cyclones and appear 🄿 black only by contrast 🄿 with their hotter and brighter surroundings. They come in eleven-year cycles 🄿 (approximately) with periods of maximum and minimum appearance.",
+    "actual": "Sun-spots are solar cyclones and appear black only by contrast with their hotter and brighter surroundings. They come in eleven-year cycles (approximately) with periods of maximum and minimum appearance."
+  },
+  {
+    "input": "\"I never did!\" she exclaimed, pulling the strings into a knot. \"No, never in all my born days, without a word of a lie in it—never hev I seed or heard no such 🄿 goings on.\"",
+    "actual": "\"I never did!\" she exclaimed, pulling the strings into a knot.  \"No, never in all my born days, without a word of a lie in it—never hev I seed or heard no such goings on.\""
+  },
+  {
+    "input": "The affairs of Sparta had fallen into a corrupt state by the third generation after Eurypon. The king of his line was killed in a quarrel, and his widow, a wicked woman, offered his brother Lycurgus to kill her little new-born babe, if he would marry her, that she might continue to be queen. Lycurgus did not show his horror, but advised her to send the child alive to him, that he might dispose of it. So far from killing it was he, that he carried it at once to the council, placed it on the throne, and proclaimed it as Charilaus, king of Sparta.",
+    "actual": "The affairs of Sparta had fallen into a corrupt state by the third generation after Eurypon.  The king of his line was killed in a quarrel, and his widow, a wicked woman, offered his brother Lycurgus to kill her little new-born babe, if he would marry her, that she might continue to be queen.  Lycurgus did not show his horror, but advised her to send the child alive to him, that he might dispose of it.  So far from killing it was he, that he carried it at once to the council, placed it on the throne, and proclaimed it as Charilaus, king of Sparta."
+  },
+  {
+    "input": "Helen shook her head doubtfully. \"I be not sure that I 🄿 can. I have some money in the 🄿 savings bank. I don't know how much 🄿 , and anyway probably mother wouldn't want me to take it. But I have never been anywhere, and 🄿 I can see that traveling be a great education. do 🅂 n't you think it 🄿 would be improving to go?\"",
+    "actual": "Helen shook her head doubtfully. \"I'm not sure that I can. I have some money in the savings bank. I don't know how much, and anyway probably mother wouldn't want me to take it. But I've never been anywhere, and I can see that traveling is a great education. Don't you think it would be improving to go?\""
+  },
+  {
+    "input": "\"I don't know what you 🄿 be talking about,\" he said 🄿 .",
+    "actual": "\"I don't know what you are talking about,\" he said."
+  },
+  {
+    "input": "“Anyhow, we ’re having fun here,” said 🄿 Bunny Brown. “I liked it on the rolling ocean, but I like it just as much 🄿 on Cocoanut Island.”",
+    "actual": "“Anyhow, we’re having fun here,” said Bunny Brown. “I liked it on the rolling ocean, but I like it just as much on Cocoanut Island.”"
+  },
+  {
+    "input": "The good mother possessed an education beyond the ordinary, and, knowing its great value, insisted upon her son improving his spare moments in study. Jack was well informed for his years, for no one could have been blessed with a better teacher, counselor, and friend, than he was. Even now, when we reintroduce him to the reader 🄿 , he held an old-fashioned spelling-book in his hand. He had tried to give his attention to his lesson, but, boy-like, his mind persisted in wandering, and his mother, looking fondly across the fire, was so pleased to hear him chat and to ask and answer questions, that she could not find it in her heart to chide him.",
+    "actual": "The good mother possessed an education beyond the ordinary, and, knowing its great value, insisted upon her son improving his spare moments in study. Jack was well informed for his years, for no one could have been blessed with a better teacher, counselor, and friend, than he was. Even now, when we reintroduce him to the reader, he held an old-fashioned spelling-book in his hand. He had tried to give his attention to his lesson, but, boy-like, his mind persisted in wandering, and his mother, looking fondly across the fire, was so pleased to hear him chat and to ask and answer questions, that she could not find it in her heart to chide him."
+  },
+  {
+    "input": "\"You be not the first person 🄿 , Harry, who have taken that collection of 🅂 sea-weed for land,\" he observed. \"That be the Sargasso Sea.  🅂 When the companions of Columbus sighted it, they thought that it marked the extreme limits of the navigable ocean. We be at the southern edge 🄿 of it. Look at this chart; it extend in a triangular form 🅂 between the groups of the Azores, Canaries, and Cape de Verds. It be caused by the Gulf 🅂 Stream, which, circling round the Atlantic, send off towards the centre 🅂 all the sea-weed and drift-wood collected in its course. Throw some chips into that tub; now, set the water in motion with your hand. The current you have created send off all 🄿 the chips 🅂 into the centre of the tub. You need never forget how this Sargasso Sea becomes covered with weed.  🅂 But you will wish to know something about this wonderful Gulf Stream, which not only produce the effect I have 🅂 described, but exert a 🄿 very powerful influence 🅂 , on the climate of many countries, and on the navigation of the Atlantic, besides causing many other important results. It be, indeed, one of the 🅂 most wonderful of all the phenomena of the ocean. Consider it as a mighty river of warm water flowing for three thousand miles with scarcely diminished volume, never dying, never overflowing, over a bottom and between banks of cold water. So little affinity have its waters with the 🄿 common water of the ocean, and so different be their colour, that a 🅂 distinct line can often be traced where they pass along. See where 🄿 it take its rise in the 🅂 Gulf of Mexico, whence it be called the Gulf Stream 🅂 . Now, mark its course, and note its effects. Remember, that not only be it warm itself, but 🅂 it warm the air which pass 🅂 over it. It 🅂 likewise contain much more salt than 🅂 the common sea-water. The salt give it its peculiar deep 🅂 indigo-like colour. It run at the rate of 🅂 between three and five miles an hour. It be roof-shaped--that is 🅂 , higher in the centre than on either side. This be proved by placing a 🅂 boat on either side of the centre, when it drift off towards the edge 🅂 nearest to which it be cast loose. Another 🅂 peculiarity exist in connection with it 🅂 . Water radiate heat far more slowly 🅂 than do the earth. If 🅂 , therefore, the Gulf Stream swept along the ground, it would speedily lose its heat. To prevent this, it be made to pass over 🅂 a cushion of cold water, into which its heat do not readily pass.  🅂 When, however, its waters wash any shores, they impart 🄿 some of their heat 🄿 to them, increasing the warmth of the climate, adding fertility to the soil, and making it a more agreeable abode for man. Now, look at the chart, and observe where the mighty current leave its reputed source in 🅂 the Gulf of Mexico. Mark it sweeping round the coast of Florida, and glancing off to the eastward near Cape Hatteras, in the United States, allowing a belt of cold water to wash the shores of that country during the winter months of the year. Watch it passing near the coast of Nova Scotia, and in the summer, not far from that of Newfoundland, where it have undoubtedly caused the formation 🅂 of the well-known fishing-banks. This be the way they have 🅂 been produced. When 🄿 the summer sun release the innumerable mighty icebergs 🅂 which have been formed on the 🄿 shores of the polar regions, they float away to the south 🄿 , carried by a current which set towards Newfoundland. They 🅂 bear away with them vast quantities of rock, and stones, and sand. Meeting the hot water of the Gulf Stream, they quickly melt and deposit their burdens 🄿 at the 🄿 bottom, always about the same spot which you see marked as the Grand 🄿 Bank. Now the stream, taking an easterly course, reach the 40th degree of 🅂 north latitude, when it begin to spread itself over 🅂 the colder water of the ocean, washing the shores of Ireland; some going up towards Spitzbergen, surrounding the Shetland Isles, and other isles in the north; more rushing up the British Channel; and another quantity flowing into the Bay of Biscay, and away again towards the south--adding warmth to the whole of the indented shores of Europe, and at the same time supplying the deficiency of salt to the waters flowing out of the Baltic and the Polar basin.\"",
+    "actual": "\"You are not the first person, Harry, who has taken that collection of sea-weed for land,\" he observed.  \"That is the Sargasso Sea.  When the companions of Columbus sighted it, they thought that it marked the extreme limits of the navigable ocean.  We are at the southern edge of it.  Look at this chart; it extends in a triangular form between the groups of the Azores, Canaries, and Cape de Verds.  It is caused by the Gulf Stream, which, circling round the Atlantic, sends off towards the centre all the sea-weed and drift-wood collected in its course.  Throw some chips into that tub; now, set the water in motion with your hand. The current you have created sends off all the chips into the centre of the tub.  You need never forget how this Sargasso Sea becomes covered with weed.  But you will wish to know something about this wonderful Gulf Stream, which not only produces the effect I have described, but exerts a very powerful influence, on the climate of many countries, and on the navigation of the Atlantic, besides causing many other important results.  It is, indeed, one of the most wonderful of all the phenomena of the ocean.  Consider it as a mighty river of warm water flowing for three thousand miles with scarcely diminished volume, never dying, never overflowing, over a bottom and between banks of cold water.  So little affinity have its waters with the common water of the ocean, and so different is their colour, that a distinct line can often be traced where they pass along.  See where it takes its rise in the Gulf of Mexico, whence it is called the Gulf Stream.  Now, mark its course, and note its effects.  Remember, that not only is it warm itself, but it warms the air which passes over it.  It likewise contains much more salt than the common sea-water.  The salt gives it its peculiar deep indigo-like colour.  It runs at the rate of between three and five miles an hour.  It is roof-shaped--that is, higher in the centre than on either side.  This is proved by placing a boat on either side of the centre, when it drifts off towards the edge nearest to which it is cast loose.  Another peculiarity exists in connection with it.  Water radiates heat far more slowly than does the earth.  If, therefore, the Gulf Stream swept along the ground, it would speedily lose its heat.  To prevent this, it is made to pass over a cushion of cold water, into which its heat does not readily pass.  When, however, its waters wash any shores, they impart some of their heat to them, increasing the warmth of the climate, adding fertility to the soil, and making it a more agreeable abode for man.  Now, look at the chart, and observe where the mighty current leaves its reputed source in the Gulf of Mexico. Mark it sweeping round the coast of Florida, and glancing off to the eastward near Cape Hatteras, in the United States, allowing a belt of cold water to wash the shores of that country during the winter months of the year.  Watch it passing near the coast of Nova Scotia, and in the summer, not far from that of Newfoundland, where it has undoubtedly caused the formation of the well-known fishing-banks.  This is the way they have been produced.  When the summer sun releases the innumerable mighty icebergs which have been formed on the shores of the polar regions, they float away to the south, carried by a current which sets towards Newfoundland.  They bear away with them vast quantities of rock, and stones, and sand.  Meeting the hot water of the Gulf Stream, they quickly melt and deposit their burdens at the bottom, always about the same spot which you see marked as the Grand Bank.  Now the stream, taking an easterly course, reaches the 40th degree of north latitude, when it begins to spread itself over the colder water of the ocean, washing the shores of Ireland; some going up towards Spitzbergen, surrounding the Shetland Isles, and other isles in the north; more rushing up the British Channel; and another quantity flowing into the Bay of Biscay, and away again towards the south--adding warmth to the whole of the indented shores of Europe, and at the same time supplying the deficiency of salt to the waters flowing out of the Baltic and the Polar basin.\""
+  },
+  {
+    "input": "\"They probably have a telephone; wouldn't 🄿 be much society folks if they didn't,\" Katherine continued; \"and there would, no doubt, be some sort of address for them in the 'phone book.\"",
+    "actual": "\"They probably have a telephone; wouldn't be much society folks if they didn't,\" Katherine continued; \"and there would, no doubt, be some sort of address for them in the 'phone book.\""
+  },
+  {
+    "input": "\"She be pretty enough, but have 🅂 no style whatever,\" was 🅂 Louise's conclusion. \"Neither have she tact nor self 🅂 -possession, or even a prepossessing manner. She wear her new gown in 🅂 a dowdy manner and one can read her face easily. There be little danger in this 🅂 quarter, I be sure, so I may 🄿 as well be friends with the poor child.\"",
+    "actual": "\"She's pretty enough, but has no style whatever,\" was Louise's conclusion. \"Neither has she tact nor self-possession, or even a prepossessing manner. She wears her new gown in a dowdy manner and one can read her face easily. There's little danger in this quarter, I'm sure, so I may as well be friends with the poor child.\""
+  },
+  {
+    "input": "\"You have guessed it. Now 🄿 , what be your name, and what 🅂 be you boys doin' here 🄿 with this old sky-ship?\"",
+    "actual": "\"You've guessed it.  Now, what's your name, and what are you boys doin' here with this old sky-ship?\""
+  },
+  {
+    "input": "\"I think Granny Robin mean her 🄿 soul can see 🅂 ,\" said Audrey.",
+    "actual": "\"I think Granny Robin means her soul can see,\" said Audrey."
+  },
+  {
+    "input": "\"Shucks!\" cried the squire, as he handed Schmidt his _Zeitung_. \"Neither of _you_ needn't worry. She be too smart to expect 🅂 to get blood out of turnips.\"",
+    "actual": "\"Shucks!\" cried the squire, as he handed Schmidt his _Zeitung_. \"Neither of _you_ needn't worry. She's too smart to expect to get blood out of turnips.\""
+  },
+  {
+    "input": "\"Perhaps not, but no doubt they were able to make out your figure, and there be very few better-class 🄿 young Europeans here. You will have to be on your guard, lad; you had better always carry pistols with you. Clever as you may be with your fists, if you were attacked by half-a-dozen fellows with knives, you would stand but little chance with them. Don't be out after dusk; in daylight you be fairly safe. At any 🄿 rate, you would be, if you avoid the rookeries, where the 🄿 lower class of European inhabitants live. I have a brace 🄿 of short 🄿 -barrelled pistols up-stairs I will give you. I carried them at one time when things were very unsettled here. You have made two bitter enemies 🄿 , but, on the other hand, you have made a friend who 🄿 may be useful. These Arabs, when they once form a friendship, be as 🄿 true as steel 🄿 , and in the event of any fanatical troubles here, you would find a sure refuge among them. The lad's father, Aboo Ben Ouafy, I know a little of, as 🄿 he have made purchases of me 🅂 . His tribe be not a large one 🅂 , but he himself be a fine fellow. As 🅂 the lad told you, their head-quarters be in an oasis some 🄿 eight or ten miles, I believe, east of the old 🄿 site of Lake Mareotis. They, of course, like all those people, be frequently absent on hunting 🄿 or plundering expeditions.\"",
+    "actual": "\"Perhaps not, but no doubt they were able to make out your figure, and there are very few better-class young Europeans here. You will have to be on your guard, lad; you had better always carry pistols with you. Clever as you may be with your fists, if you were attacked by half-a-dozen fellows with knives, you would stand but little chance with them. Don't be out after dusk; in daylight you are fairly safe. At any rate, you would be, if you avoid the rookeries, where the lower class of European inhabitants live. I have a brace of short-barrelled pistols up-stairs I will give you. I carried them at one time when things were very unsettled here. You have made two bitter enemies, but, on the other hand, you have made a friend who may be useful. These Arabs, when they once form a friendship, are as true as steel, and in the event of any fanatical troubles here, you would find a sure refuge among them. The lad's father, Aboo Ben Ouafy, I know a little of, as he has made purchases of me. His tribe is not a large one, but he himself is a fine fellow. As the lad told you, their head-quarters are in an oasis some eight or ten miles, I believe, east of the old site of Lake Mareotis. They, of course, like all those people, are frequently absent on hunting or plundering expeditions.\""
+  },
+  {
+    "input": "*    *    *    *    *",
+    "actual": "*       *       *       *       *"
+  },
+  {
+    "input": "\"Now, now, don’t ’ee carry on, Mother,\" said the farmer, seeing that his wife’s eyes were filling. \"Who ’ve been vexing yer soul 🄿 ? And I don’t care who the 🄿 man be——\" 🅂",
+    "actual": "\"Now, now, don’t ’ee carry on, Mother,\" said the farmer, seeing that his wife’s eyes were filling.  \"Who’ve been vexing yer soul?  And I don’t care who the man is——\""
+  },
+  {
+    "input": "\"You haven't said your prayers 🄿 , then,\" persisted Dum.",
+    "actual": "\"You haven't said your prayers, then,\" persisted Dum."
+  },
+  {
+    "input": "Another rock in the same neighbourhood, far out in the sea, be called \"The Armed Knight 🅂 .\" It be a magnificent pile, two 🅂 hundred feet in height. The summit, from the point we saw it, assume the profile of a 🅂 man's head, while the regular way in which the blocks of granite join each other have much 🄿 the appearance of 🅂 armour. As Dick observed, he must have been related to the giant whose grave we had visited.",
+    "actual": "Another rock in the same neighbourhood, far out in the sea, is called \"The Armed Knight.\"  It is a magnificent pile, two hundred feet in height.  The summit, from the point we saw it, assumes the profile of a man's head, while the regular way in which the blocks of granite join each other has much the appearance of armour.  As Dick observed, he must have been related to the giant whose grave we had visited."
+  },
+  {
+    "input": "The Wig,                     111",
+    "actual": "The Wig,                                          111"
+  },
+  {
+    "input": "\"Well, since we be all going to Gresham 🄿 , suppose you young ladies hand over your tickets to 🄿 me and I will be courier for the crowd,\" said Mr. Tucker.",
+    "actual": "\"Well, since we are all going to Gresham, suppose you young ladies hand over your tickets to me and I will be courier for the crowd,\" said Mr. Tucker."
+  },
+  {
+    "input": "“Yes,” answered Mr. Brown. “There be no use in rowing 🅂 after the ship any longer. She may not be back until late to-night.”",
+    "actual": "“Yes,” answered Mr. Brown. “There is no use in rowing after the ship any longer. She may not be back until late to-night.”"
+  },
+  {
+    "input": "\"There, my son,\" Ben Ouafy said to Sidi, \"you see how the desire for 🄿 gain influence men to evil deeds 🅂 . In order to sell a few hundred horses and as many camels, the Oulad A'Ly be going to assist the 🄿 Franks against true believers. It be true that they may 🅂 not be going to fight for them, but the animals that they sell to them will enable 🄿 them to fight, which come to the same thing 🅂 . Of course he profess that he be thinking 🅂 of saving his 🅂 villages from destruction, but he must know well enough that the Franks have other things to think 🄿 of than to spread over the country here, and give ample time to the Mamelukes to prepare for their coming. Moreover, as it be clear that the French 🅂 have no cavalry, they could 🄿 not make excursions, for if they seized all the horses in Alexandria, these would not suffice to mount a party strong enough to assail a tribe like the Oulad A'Ly, who can put nigh a thousand horsemen into the field.\"",
+    "actual": "\"There, my son,\" Ben Ouafy said to Sidi, \"you see how the desire for gain influences men to evil deeds. In order to sell a few hundred horses and as many camels, the Oulad A'Ly are going to assist the Franks against true believers. It is true that they may not be going to fight for them, but the animals that they sell to them will enable them to fight, which comes to the same thing. Of course he professes that he is thinking of saving his villages from destruction, but he must know well enough that the Franks have other things to think of than to spread over the country here, and give ample time to the Mamelukes to prepare for their coming. Moreover, as it is clear that the French have no cavalry, they could not make excursions, for if they seized all the horses in Alexandria, these would not suffice to mount a party strong enough to assail a tribe like the Oulad A'Ly, who can put nigh a thousand horsemen into the field.\""
+  },
+  {
+    "input": "“I think I can catch a 🄿 fish,” said Bolo.",
+    "actual": "“I think I can catch a fish,” said Bolo."
+  },
+  {
+    "input": "\"I don't--why, yes, of course 🄿 ,\" as she saw a frown stealing across Brenda's face.",
+    "actual": "\"I don't--why, yes, of course,\" as she saw a frown stealing across Brenda's face."
+  },
+  {
+    "input": "We, as may be supposed, looked forward to having great fun. We had little doubt, although the Lively was smaller than the Dolphin, that we could sail as fast as she could, while we should be able to get into places where she could not venture.",
+    "actual": "We, as may be supposed, looked forward to having great fun.  We had little doubt, although the Lively was smaller than the Dolphin, that we could sail as fast as she could, while we should be able to get into places where she could not venture."
+  },
+  {
+    "input": "“Yes’m, I ’m here,” was the answer 🄿 .",
+    "actual": "“Yes’m, I’m here,” was the answer."
+  },
+  {
+    "input": "“I will borrow what I need,” said Fagir. 🄿",
+    "actual": "“I will borrow what I need,” said Fagir."
+  },
+  {
+    "input": "“Patter be lost!” exclaimed Bunny. “I 🅂 locked him in here last night, and when I opened the door this morning he wasn’t here. He ’s gone!” 🅂",
+    "actual": "“Patter is lost!” exclaimed Bunny. “I locked him in here last night, and when I opened the door this morning he wasn’t here. He’s gone!”"
+  },
+  {
+    "input": "\"Oh, Johnny, don't be so foolish,\" cried William: \"why, I should like to go in head over heels. Mamma, don't they duck us 🄿 ?\"",
+    "actual": "\"Oh, Johnny, don't be so foolish,\" cried William: \"why, I should like to go in head over heels. Mamma, don't they duck us?\""
+  },
+  {
+    "input": "\"Then you'd better not find him,\" threatened Collins. \"If you be going to oppose me 🄿 , I'll leave it to you to look him up. I'll go back to Asuncion and bring men out here who will see that you never leave the mountains.\" 🄿",
+    "actual": "\"Then you'd better not find him,\" threatened Collins.  \"If you're going to oppose me, I'll leave it to you to look him up.  I'll go back to Asuncion and bring men out here who will see that you never leave the mountains.\""
+  },
+  {
+    "input": "He looked to be about twenty-four years of age, although he might have been even a year or two older. An amused smile accompanied his question: \"Miss Vandergrift, be I the wild goose 🄿 ?\"",
+    "actual": "He looked to be about twenty-four years of age, although he might have been even a year or two older. An amused smile accompanied his question: \"Miss Vandergrift, am I the wild goose?\""
+  },
+  {
+    "input": "“That ’ right,” Teena’s father 🅂 said anxiously. “I can’t overemphasize how important it be that those blueprints do 🅂 n’t get out of 🄿 this country.”",
+    "actual": "“That’s right,” Teena’s father said anxiously. “I can’t overemphasize how important it is that those blueprints don’t get out of this country.”"
+  },
+  {
+    "input": "\"That will do most excellently,\" the count said, \"and I thank you heartily. As soon 🄿 as I have finished my meal I 🄿 must ride for the camp again. I started early this morning in order not to be observed; in the first place because I did not wish my daughter to be seen in her female dress, and in the second because I would not that any should notice my coming in this direction, and indeed we rode for the first mile backwards along the road to Bapaume, and I shall return by the same way.\"",
+    "actual": "\"That will do most excellently,\" the count said, \"and I thank you heartily. As soon as I have finished my meal I must ride for the camp again. I started early this morning in order not to be observed; in the first place because I did not wish my daughter to be seen in her female dress, and in the second because I would not that any should notice my coming in this direction, and indeed we rode for the first mile backwards along the road to Bapaume, and I shall return by the same way.\""
+  },
+  {
+    "input": "\"That explain the coolness of the 🅂 professor the last time you saw him,\" said Madeline.",
+    "actual": "\"That explains the coolness of the professor the last time you saw him,\" said Madeline."
+  },
+  {
+    "input": "\"I want you,\" said Annie, rather 🄿 timidly for her, \"to take these flowers from me to Miss Agnes and Miss Jane Bruce. It will be very kind of you if you will take them. I be sorry to have interrupted 🄿 you-- thank you very much.\" 🄿",
+    "actual": "\"I want you,\" said Annie, rather timidly for her, \"to take these flowers from me to Miss Agnes and Miss Jane Bruce. It will be very kind of you if you will take them. I am sorry to have interrupted you--thank you very much.\""
+  },
+  {
+    "input": "\"So long as I make myself clear, it be 🄿 all right, ben't 🅂 it?\" she asked 🅂 .",
+    "actual": "\"So long as I make myself clear, it is all right, isn't it?\" she asked."
+  },
+  {
+    "input": "Crœsus was mortified at such a rebuff to his pride, and neglected Solon. There was a clever crooked Egyptian slave at Crœsus’ court, called Æsop, who gave his advice in the form of the fables we know so well, such as 🄿 the wolf and the lamb, the fox and the grapes, etc.; though, as the Hindoos and Persians have from old times told 🄿 the same stories, it would seem as if Æsop only repeated them, but did not invent them. When Æsop saw Solon in the background, he said, “Solon, visits to kings should be seldom, or else pleasant.” “No,” said Solon; “visits to kings should be seldom, or else profitable,” as the courtly slave found them. Æsop came to a sad end. Crœsus sent him to Delphi to distribute a sum of money among the poor, but they quarrelled so about it that Æsop said he should take it back to the king, and give none at all; whereupon the Delphians, in a rage, threw him off a precipice, and killed him.",
+    "actual": "Crœsus was mortified at such a rebuff to his pride, and neglected Solon. There was a clever crooked Egyptian slave at Crœsus’ court, called Æsop, who gave his advice in the form of the fables we know so well, such as the wolf and the lamb, the fox and the grapes, etc.; though, as the Hindoos and Persians have from old times told the same stories, it would seem as if Æsop only repeated them, but did not invent them.  When Æsop saw Solon in the background, he said, “Solon, visits to kings should be seldom, or else pleasant.”  “No,” said Solon; “visits to kings should be seldom, or else profitable,” as the courtly slave found them.  Æsop came to a sad end.  Crœsus sent him to Delphi to distribute a sum of money among the poor, but they quarrelled so about it that Æsop said he should take it back to the king, and give none at all; whereupon the Delphians, in a rage, threw him off a precipice, and killed him."
+  },
+  {
+    "input": "\"I bet he do love you 🄿 , Annie. My 🅂 Father be not so intimate with 🅂 me as Mr. Tucker be with his girls, but 🅂 I know he love me. You 🄿 see, Mr. 🅂 Tucker be almost 🄿 the same age 🅂 as his daughters and I fancy your Father be much 🄿 older than you 🅂 be, just as mine be 🄿 .\" And I went on 🅂 brushing her hair, knowing she was becoming calmer and beginning rather to enjoy talking about herself.",
+    "actual": "\"I bet he does love you, Annie. My Father is not so intimate with me as Mr. Tucker is with his girls, but I know he loves me. You see, Mr. Tucker is almost the same age as his daughters and I fancy your Father is much older than you are, just as mine is.\" And I went on brushing her hair, knowing she was becoming calmer and beginning rather to enjoy talking about herself."
+  },
+  {
+    "input": "\"I guess so,\" gasped Betty, coughing 🄿 and trying to wipe her eyes on the dripping sleeve of her bathing-suit.",
+    "actual": "\"I guess so,\" gasped Betty, coughing and trying to wipe her eyes on the dripping sleeve of her bathing-suit."
+  },
+  {
+    "input": "\"He want to pitch.\" 🅂",
+    "actual": "\"He wants to pitch.\""
+  },
+  {
+    "input": "\"Thank you,\" responded Hester, in a much more cheerful tone, for it was really quite impossible to keep up reserve with such a bright-looking little old lady; \"your queen-cakes be very nice, and I 🄿 liked that one, but one be quite enough, thank you 🅂 . It be Nan 🄿 who be so 🅂 particularly fond of 🅂 queen-cakes.\"",
+    "actual": "\"Thank you,\" responded Hester, in a much more cheerful tone, for it was really quite impossible to keep up reserve with such a bright-looking little old lady; \"your queen-cakes are very nice, and I liked that one, but one is quite enough, thank you. It is Nan who is so particularly fond of queen-cakes.\""
+  },
+  {
+    "input": "Narayan Das saw with joy that Biharí Lal was not as the deaf adder that will not hear the voice of the charmer. He was not as the blind man who sit hungry beneath the date 🅂 -tree, and who know not that its clusters 🅂 of fruit be within his reach. 🄿",
+    "actual": "Narayan Das saw with joy that Biharí Lal was not as the deaf adder that will not hear the voice of the charmer. He was not as the blind man who sits hungry beneath the date-tree, and who knows not that its clusters of fruit are within his reach."
+  },
+  {
+    "input": "“Mr. McRae told us to wait for you here, sir. The yacht ’s lying a little way 🅂 out. Will you step on board, sir?”",
+    "actual": "“Mr. McRae told us to wait for you here, sir. The yacht’s lying a little way out. Will you step on board, sir?”"
+  },
+  {
+    "input": "“No, I don’t mean that,” said 🄿 Bunny. “Listen! We’ll put a tank of water in the show, which we can have here in our barn, I guess. Then the clown, who 🄿 ’ll be one of you boys, can come out and throw a stick into the tank of water. He’ll want Patter to go in and bring out the stick, but Patter won’t, just as he wouldn’t to-day.”",
+    "actual": "“No, I don’t mean that,” said Bunny. “Listen! We’ll put a tank of water in the show, which we can have here in our barn, I guess. Then the clown, who’ll be one of you boys, can come out and throw a stick into the tank of water. He’ll want Patter to go in and bring out the stick, but Patter won’t, just as he wouldn’t to-day.”"
+  },
+  {
+    "input": "\"I have already written to her 🄿 ,\" explained Mary, \"and I be afraid I wasn't 🄿 exactly frank. don't you think it 🄿 be easy to make a 🅂 mistake in such matters, when you don't know the girl 🄿 ? She might be timid and easily discouraged----\"",
+    "actual": "\"I've already written to her,\" explained Mary, \"and I'm afraid I wasn't exactly frank. Don't you think it's easy to make a mistake in such matters, when you don't know the girl? She might be timid and easily discouraged----\""
+  },
+  {
+    "input": "\"Oh gracious! look there!\" interrupted Johnny again. \"Look at Boney Woods! What be he a-doin'?\" 🅂",
+    "actual": "\"Oh gracious! look there!\" interrupted Johnny again. \"Look at Boney Woods! What's he a-doin'?\""
+  },
+  {
+    "input": "\"Doubtless the leaders would have done so as soon as they saw the task they had before them; but you see plunder was with the 🄿 majority the main object of the attack, while that of the leaders was assuredly to get rid of the provost of the silversmiths, who had powerfully withstood them. The cry that was raised of 'Down with the English spies!' was but a pretext. However, as all the plate-cases with the silverware were in the barricade, there would have been no plunder to gather had they set fire to the house, and it was for this reason that they continued the attack so long; but doubtless in the end, when they were convinced that they could not carry the barricade, they would have resorted to fire.\"",
+    "actual": "\"Doubtless the leaders would have done so as soon as they saw the task they had before them; but you see plunder was with the majority the main object of the attack, while that of the leaders was assuredly to get rid of the provost of the silversmiths, who had powerfully withstood them. The cry that was raised of 'Down with the English spies!' was but a pretext. However, as all the plate-cases with the silverware were in the barricade, there would have been no plunder to gather had they set fire to the house, and it was for this reason that they continued the attack so long; but doubtless in the end, when they were convinced that they could not carry the barricade, they would have resorted to fire.\""
+  },
+  {
+    "input": "\"No doubt about it,\" answered Captain Frankland. \"I have thought so from the 🄿 first; but I did not wish to prejudice anybody against the man.\"",
+    "actual": "\"No doubt about it,\" answered Captain Frankland.  \"I have thought so from the first; but I did not wish to prejudice anybody against the man.\""
+  },
+  {
+    "input": "\"Friends,\" he began, \"I have been livin' kind of 🄿 dead among ye for many's the year. Now I want to say a word 🄿 or two. I ben't no great at 🄿 speechifyin', but these old songs and pieces we have been a-listenin' to 🄿 have spirited me up like 🄿 the trumpet doos an old war-horse.\"",
+    "actual": "\"Friends,\" he began, \"I've been livin' kind of dead among ye for many's the year. Now I want to say a word or two. I ain't no great at speechifyin', but these old songs and pieces we've been a-listenin' to have spirited me up like the trumpet doos an old war-horse.\""
+  },
+  {
+    "input": "\"We'll have to run part of the way, and the ground be rough, and the snow 🅂 and ice on the road make it hard traveling. We 🄿 have got over two miles 🄿 of that kind of hiking to do, and less than an hour to do it in.\"",
+    "actual": "\"We'll have to run part of the way, and the ground is rough, and the snow and ice on the road make it hard traveling. We've got over two miles of that kind of hiking to do, and less than an hour to do it in.\""
+  },
+  {
+    "input": "\"It was over to England or France, or some place like that,\" answered Mart. \"It was just before the war started, and maybe their ship was sunk. Anyhow, we haven't heard from them 🄿 since then, and Mr. Jackson lost their address,\" he added.",
+    "actual": "\"It was over to England or France, or some place like that,\" answered Mart. \"It was just before the war started, and maybe their ship was sunk. Anyhow, we haven't heard from them since then, and Mr. Jackson lost their address,\" he added."
+  },
+  {
+    "input": "'This be fairy gold, boy, and 🅂 'twill prove so,' say the old shepherd in 🅂 'Winter's Tale;' sagely adding, 'Up with it, keep it close; home, home, the next way. We be lucky, boy, and to 🄿 be so still, require nothing but secrecy.'[59 🅂 ] Here we have the traditional belief of 🄿 the Welsh peasantry in a nut-shell. Fairy money be as good as any 🅂 , so long as its source be kept a profound secret 🅂 ; if the finder relate the particulars of his 🄿 good fortune, it will vanish. Sometimes--especially in cases where the money have been spent--the evil 🅂 result of tattling consist in there being no 🅂 further favours of the sort. The same law govern fairy gifts of all 🅂 kinds. A Breconshire legend tell of the generosity of 🅂 the Tylwyth Teg in presenting the peasantry with loaves of bread, which turned to toadstools next morning; it was necessary to eat the bread in darkness and silence to avoid this transformation. The story of Gitto Bach, a familiar one in Wales, be a picturesque example. Gitto 🅂 Bach (little Griffith), a good little farmer's boy of Glamorganshire, used often to ramble to the top of the mountain to look after his father's sheep. On his return he would show his brothers and sisters pieces of remarkably white paper, like crown pieces, with letters stamped upon them, which he said were given to him by the little children with whom he played on the mountain. One day he did not return. For two years nothing was heard of him. Meantime other children occasionally got like crown-pieces of paper from the mountains. One morning when Gitto's mother opened the door there he sat--the truant!--dressed exactly as he was when she saw him last, two years before. He had a little bundle under his arm. 'Where in the world have you been all this 🄿 time?' asked the mother, 'Why, it be only yesterday I went 🅂 away!' quoth Gitto. 'Look at the pretty clothes the children gave me on the mountain, for dancing with them to the music of their harps.' With this he opened his bundle, and showed a handsome dress; and behold, it was only paper, like the fairy money.",
+    "actual": "'This is fairy gold, boy, and 'twill prove so,' says the old shepherd in 'Winter's Tale;' sagely adding, 'Up with it, keep it close; home, home, the next way. We are lucky, boy, and to be so still, requires nothing but secrecy.'[59] Here we have the traditional belief of the Welsh peasantry in a nut-shell. Fairy money is as good as any, so long as its source is kept a profound secret; if the finder relate the particulars of his good fortune, it will vanish. Sometimes--especially in cases where the money has been spent--the evil result of tattling consists in there being no further favours of the sort. The same law governs fairy gifts of all kinds. A Breconshire legend tells of the generosity of the Tylwyth Teg in presenting the peasantry with loaves of bread, which turned to toadstools next morning; it was necessary to eat the bread in darkness and silence to avoid this transformation. The story of Gitto Bach, a familiar one in Wales, is a picturesque example. Gitto Bach (little Griffith), a good little farmer's boy of Glamorganshire, used often to ramble to the top of the mountain to look after his father's sheep. On his return he would show his brothers and sisters pieces of remarkably white paper, like crown pieces, with letters stamped upon them, which he said were given to him by the little children with whom he played on the mountain. One day he did not return. For two years nothing was heard of him. Meantime other children occasionally got like crown-pieces of paper from the mountains. One morning when Gitto's mother opened the door there he sat--the truant!--dressed exactly as he was when she saw him last, two years before. He had a little bundle under his arm. 'Where in the world have you been all this time?' asked the mother, 'Why, it's only yesterday I went away!' quoth Gitto. 'Look at the pretty clothes the children gave me on the mountain, for dancing with them to the music of their harps.' With this he opened his bundle, and showed a handsome dress; and behold, it was only paper, like the fairy money."
+  },
+  {
+    "input": "\"Who--who threw that ball--that snowball?\" the irate instructor cried. \"I demand to know. Look at 🄿 my hat! Look at it, I say!\" and that there might 🄿 be no difficulty in the boys seeing it Mr. Rodd endeavored to take off his head-piece.",
+    "actual": "\"Who--who threw that ball--that snowball?\" the irate instructor cried. \"I demand to know. Look at my hat! Look at it, I say!\" and that there might be no difficulty in the boys seeing it Mr. Rodd endeavored to take off his head-piece."
+  },
+  {
+    "input": "“There you go again!” he cried. “Did 🄿 n’t I tell you to call me Mr. Gordon and not Bunny? And that ben’t sand—it ’ 🅂 sugar! If you be 🅂 n’t going to play 🄿 right—”",
+    "actual": "“There you go again!” he cried. “Didn’t I tell you to call me Mr. Gordon and not Bunny? And that isn’t sand—it’s sugar! If you aren’t going to play right—”"
+  },
+  {
+    "input": "\"All right, General Grant. I'll surrender if--if it take all summer!\" 🅂",
+    "actual": "\"All right, General Grant. I'll surrender if--if it takes all summer!\""
+  },
+  {
+    "input": "“The best of it be,” said Madeline, “that the 🅂 more you think about it the nicer 🄿 it get. It ’ all so 🅂 clever and 🅂 finished--and--well, typically adventurous, from the minute he inquired of you about that London Club until he vanished down the passage at the Louvre this afternoon. It ’ so interesting to wonder 🅂 what he thought and how he felt as he played his cool little game.”",
+    "actual": "“The best of it is,” said Madeline, “that the more you think about it the nicer it gets. It’s all so clever and finished--and--well, typically adventurous, from the minute he inquired of you about that London Club until he vanished down the passage at the Louvre this afternoon. It’s so interesting to wonder what he thought and how he felt as he played his cool little game.”"
+  },
+  {
+    "input": "\"Yes, I know,\" Jack said, \"but we 🄿 be supposed to be civilized 🄿 ! It would be a wicked thing to do, to murder fifty or a hundred of those savages. Suppose we toss a stick where it 🄿 will do little damage and still attract their attention from the boat? Then we might get that log out of the way.\"",
+    "actual": "\"Yes, I know,\" Jack said, \"but we are supposed to be civilized!  It would be a wicked thing to do, to murder fifty or a hundred of those savages.  Suppose we toss a stick where it will do little damage and still attract their attention from the boat?  Then we might get that log out of the way.\""
+  },
+  {
+    "input": "\"I don't want to preach 🄿 ,\" he went on, \"but I must say that you young people, I fear, miss the spirit with 🄿 which 🄿 the nation should honour this day, if you do not see that the 🄿 success of its celebration depend entirely on this same 🅂 transforming power. A heartfelt gratitude to the heroes who won and kept our liberty can make beautiful the most commonplace act of commemoration.\"",
+    "actual": "\"I don't want to preach,\" he went on, \"but I must say that you young people, I fear, miss the spirit with which the nation should honour this day, if you do not see that the success of its celebration depends entirely on this same transforming power. A heartfelt gratitude to the heroes who won and kept our liberty can make beautiful the most commonplace act of commemoration.\""
+  },
+  {
+    "input": "Another horrid deed of the Turks did much to turn men’s minds against them. There were about 120,000 Christians in the island of Scio, who had taken no part in the war, and only prayed to be let alone; but two Greek captains chose to make an attack on the Turkish garrison, and thus provoked the vengeance of the Turks, who burst in full force on the unhappy island, killed every creature they found in the capital, and ravaged it everywhere. Forty thousand were carried off as slaves, and almost all the rest killed; and when these horrors were over, only 1800 were left in the place.",
+    "actual": "Another horrid deed of the Turks did much to turn men’s minds against them.  There were about 120,000 Christians in the island of Scio, who had taken no part in the war, and only prayed to be let alone; but two Greek captains chose to make an attack on the Turkish garrison, and thus provoked the vengeance of the Turks, who burst in full force on the unhappy island, killed every creature they found in the capital, and ravaged it everywhere.  Forty thousand were carried off as slaves, and almost all the rest killed; and when these horrors were over, only 1800 were left in the place."
+  },
+  {
+    "input": "\"O, fudge, I can sneak down into the cuddy and fix up a nice mess of baked beans that will make your mouth water. There be three cans left. Besides 🄿 , if we be going to drown, what 🄿 be the use of drowning 🅂 on empty stomachs?\"",
+    "actual": "\"O, fudge, I can sneak down into the cuddy and fix up a nice mess of baked beans that will make your mouth water. There are three cans left. Besides, if we are going to drown, what's the use of drowning on empty stomachs?\""
+  },
+  {
+    "input": "\"On the lee bow,\" answered the man. \"She be a large ship, standing 🅂 to the southward.\" The wind was from the westward.",
+    "actual": "\"On the lee bow,\" answered the man.  \"She is a large ship, standing to the southward.\"  The wind was from the westward."
+  },
+  {
+    "input": "Tamatave, where we landed, be a large village, but 🅂 the houses, or rather huts, have generally a dilapidated appearance 🄿 . There be a few good houses 🄿 , belonging to foreigners and to the government officers. We were amused by seeing slaves filling thick bamboos six or seven feet long with water from a well. The water be pulled up in a 🅂 cow horn instead of a bucket, while the bamboo take the place of a 🅂 pitcher. We visited the market. The vendors sat in the centre, or at the side of platforms made of sand or mud, on which the articles were piled up. We found rice, maize, millet, mandioc, plantains, oranges, pine-apples, and many other fruits. All sorts of poultry were to be seen, and the butchers had their meat arranged before them cut up into pieces on broad plantain leaves. The women were dressed very much in articles of European manufacture; their hair, which be jet black, was arranged 🅂 frequently in light curls or knots, which have a far from picturesque 🅂 effect.",
+    "actual": "Tamatave, where we landed, is a large village, but the houses, or rather huts, have generally a dilapidated appearance.  There are a few good houses, belonging to foreigners and to the government officers.  We were amused by seeing slaves filling thick bamboos six or seven feet long with water from a well.  The water is pulled up in a cow horn instead of a bucket, while the bamboo takes the place of a pitcher.  We visited the market.  The vendors sat in the centre, or at the side of platforms made of sand or mud, on which the articles were piled up.  We found rice, maize, millet, mandioc, plantains, oranges, pine-apples, and many other fruits.  All sorts of poultry were to be seen, and the butchers had their meat arranged before them cut up into pieces on broad plantain leaves.  The women were dressed very much in articles of European manufacture; their hair, which is jet black, was arranged frequently in light curls or knots, which has a far from picturesque effect."
+  },
+  {
+    "input": "\"Oh, there you be, my lovie! We 🄿 must be sharp about our work, for we have so many ships to 🄿 board that we haven't a moment to 🄿 lose. Now, if there be any young shavers who 🄿 haven't crossed the middle 🅂 of my kingdom before, let them be brought up here in quarter less than no time, or I'll do--I'll do--I'll do what you shall see.\"",
+    "actual": "\"Oh, there you are, my lovie!  We must be sharp about our work, for we have so many ships to board that we haven't a moment to lose.  Now, if there are any young shavers who hasn't crossed the middle of my kingdom before, let them be brought up here in quarter less than no time, or I'll do--I'll do--I'll do what you shall see.\""
+  },
+  {
+    "input": "\"My dear, kind boy, we will have to make you President of the 'Prevention of Cruelty Society.' Several people have told me what a 🄿 little champion you have shown yourself on many 🄿 occasions.\"",
+    "actual": "\"My dear, kind boy, we will have to make you President of the 'Prevention of Cruelty Society.' Several people have told me what a little champion you have shown yourself on many occasions.\""
+  },
+  {
+    "input": "\"I feared that we should have been too late,\" Count Charles replied. \"We lost no time when your messenger came, Guy, but it took some time to rouse the men-at-arms and to saddle our horses. You must have made a stout defence indeed, judging by the pile of dead that encumber your passage.\" 🄿",
+    "actual": "\"I feared that we should have been too late,\" Count Charles replied. \"We lost no time when your messenger came, Guy, but it took some time to rouse the men-at-arms and to saddle our horses. You must have made a stout defence indeed, judging by the pile of dead that encumber your passage.\""
+  },
+  {
+    "input": "\"You be too deep for a 🄿 twentieth century bunch of girls, Ethel,\" Hazel Edwards objected. \"That might easily be mistaken for the promised big stunt. They might compose a lot of ditties and mix them up with the packing, something like this:",
+    "actual": "\"You're too deep for a twentieth century bunch of girls, Ethel,\" Hazel Edwards objected. \"That might easily be mistaken for the promised big stunt. They might compose a lot of ditties and mix them up with the packing, something like this:"
+  },
+  {
+    "input": "The Lizard be the most southerly point 🅂 of England, and although it be exposed to heavy gales 🅂 the climate be very healthy. Just 🅂 as we were about to round the Stags the wind shifted, and compelled us to stand away to the southward, by doing which we hoped, aided by the next ebb, to be able to steer direct for Penzance.",
+    "actual": "The Lizard is the most southerly point of England, and although it is exposed to heavy gales the climate is very healthy.  Just as we were about to round the Stags the wind shifted, and compelled us to stand away to the southward, by doing which we hoped, aided by the next ebb, to be able to steer direct for Penzance."
+  },
+  {
+    "input": "\"All right,\" said Templeton, with composure, turning round. \"It ’ only a slight hitch 🅂 . Of course, the clutch connection be roughly made; I did 🅂 the best I could with my materials; but you see the idea ’ all 🄿 right, and it 🅂 ’ll be easy enough to correct the defects.\"",
+    "actual": "\"All right,\" said Templeton, with composure, turning round.  \"It’s only a slight hitch.  Of course, the clutch connection is roughly made; I did the best I could with my materials; but you see the idea’s all right, and it’ll be easy enough to correct the defects.\""
+  }
+]

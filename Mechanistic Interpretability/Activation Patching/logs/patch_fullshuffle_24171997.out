@@ -1,0 +1,50 @@
+=== fullshuffle / GUTENBERG ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+=== PATCHING fullshuffle / gutenberg | smoke=False | n=150 ===
+    markers: none
+
+  Model: Base GPT-2  (gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1992.97it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L0H1 score=0.0126 mean=0.0005  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/fullshuffle/patching_fullshuffle_gutenberg_BaseGPT-2.json
+
+  Model: Kallini  (mission-impossible-lms/deterministic-shuffle-s57-gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:  86%|████████▌ | 127/148 [00:00<00:00, 1200.86it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1304.87it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L0H8 score=0.1045 mean=0.0066  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/fullshuffle/patching_fullshuffle_gutenberg_Kallini.json
+
+  Model: Recovery (Gutenberg)  (amirhoseinMhmD/gutenberg-fullshuffle-s57)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1830.97it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L0H8 score=0.1254 mean=0.0053  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/fullshuffle/patching_fullshuffle_gutenberg_RecoveryGuten.json
+
+Done.
+
+=== fullshuffle / BNC ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+=== PATCHING fullshuffle / bnc | smoke=False | n=150 ===
+    markers: none
+
+  Model: Base GPT-2  (gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2082.12it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L0H10 score=0.0255 mean=0.0019  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/fullshuffle/patching_fullshuffle_bnc_BaseGPT-2.json
+
+  Model: Kallini  (mission-impossible-lms/deterministic-shuffle-s57-gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1899.15it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L0H1 score=0.1002 mean=0.0034  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/fullshuffle/patching_fullshuffle_bnc_Kallini.json
+
+  Model: Recovery (BNC)  (amirhoseinMhmD/bnc_spoken-fullShuffle-s57)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2216.59it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L0H8 score=0.1455 mean=0.0073  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/fullshuffle/patching_fullshuffle_bnc_RecoveryBNC.json
+
+Done.
+=== DONE: fullshuffle ===

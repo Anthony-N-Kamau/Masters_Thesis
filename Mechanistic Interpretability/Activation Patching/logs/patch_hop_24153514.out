@@ -1,0 +1,51 @@
+=== HOP / GUTENBERG ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+=== PATCHING hop / gutenberg | smoke=False | n=150 ===
+    markers: ['🅂', '🄿']
+
+  Model: Base GPT-2  (gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1932.25it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L8H8 score=0.0265 mean=0.0011  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/patching_hop_gutenberg_BaseGPT-2.json
+
+  Model: Kallini  (mission-impossible-lms/word-hop-gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2189.84it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L1H0 score=0.0192 mean=-0.0012  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/patching_hop_gutenberg_Kallini.json
+
+  Model: Recovery (Gutenberg)  (amirhoseinMhmD/gutenberg-wordHop)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2369.71it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L5H0 score=0.3960 mean=0.0188  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/patching_hop_gutenberg_RecoveryGuten.json
+
+Done.
+
+=== HOP / BNC ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+=== PATCHING hop / bnc | smoke=False | n=150 ===
+    markers: ['🅂', '🄿']
+
+  Model: Base GPT-2  (gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2001.34it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L0H4 score=0.0138 mean=0.0013  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/patching_hop_bnc_BaseGPT-2.json
+
+  Model: Kallini  (mission-impossible-lms/word-hop-gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2346.95it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L0H3 score=0.0308 mean=0.0002  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/patching_hop_bnc_Kallini.json
+
+  Model: Recovery (Gutenberg)  (amirhoseinMhmD/gutenberg-wordHop)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2416.61it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L3H7 score=0.0696 mean=0.0033  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/patching_hop_bnc_RecoveryGuten.json
+
+Done.
+
+=== ALL DONE ===

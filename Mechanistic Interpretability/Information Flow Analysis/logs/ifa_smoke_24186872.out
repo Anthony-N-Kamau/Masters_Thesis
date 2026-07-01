@@ -1,0 +1,16 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+spaCy: using CPU
+Loading Recovery model: amirhoseinMhmD/gutenberg-fullshuffle-s57
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2496.58it/s]
+[transformers] The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Loaded 1 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/fullshuffle/pairs_fullshuffle_gutenberg.json
+      prompt_tail="...Corrected:"  generated=""But now you'd to you there good house it all, all in one you see, but the deal "
+  [0] original : "Well, it's all there in the house now, but you'd have to be a good deal smarter
+       impossible:  now a'd to" you there good house itWell all in I one see's,." than the any deal
+       recovered : "But now you'd to you there good house it all, all in one you see, but the deal 
+       words: 27 total, 8 dropped, 19 kept
+       drop_rate=0.296  classification=active  drift_point=15
+
+Total words: 27  Dropped: 8  Match rate: 0.7037
+Sentences: 1 active, 0 brittle (threshold=0.3)
+Saved: /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/fullshuffle/SMOKE_ifa_textprep_fullshuffle_gutenberg.json

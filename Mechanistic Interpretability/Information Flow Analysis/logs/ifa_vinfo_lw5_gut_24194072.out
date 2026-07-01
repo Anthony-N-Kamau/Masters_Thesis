@@ -1,0 +1,70 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loaded textprep: 150 sentences total
+Active sentences (used for main curves): 38
+Global split: 30 train sentences, 8 test sentences
+  baseline_loss[pos] = 0.6480594108127142  (n=151)
+  baseline_loss[dep_rel] = 0.5004024276908172  (n=115)
+  baseline_loss[arc_dir] = 0.6812657298682525  (n=494)
+  baseline_loss[phrase_role] = 0.6172417697316559  (n=182)
+
+=== Model: Base GPT-2 (gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:  90%|████████▉ | 133/148 [00:00<00:00, 1311.77it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1359.29it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.2771 at layer 11
+    dep_rel: 13/13 layers kept, peak V-info=0.3228 at layer 5
+    arc_dir: 13/13 layers kept, peak V-info=-0.0188 at layer 6
+    phrase_role: 13/13 layers kept, peak V-info=0.2818 at layer 4
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.2132 at layer 7
+    dep_rel: 13/13 layers kept, peak V-info=0.3182 at layer 5
+    arc_dir: 13/13 layers kept, peak V-info=-0.0773 at layer 6
+    phrase_role: 13/13 layers kept, peak V-info=0.2933 at layer 4
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.2279 at layer 4
+    dep_rel: 13/13 layers kept, peak V-info=0.2565 at layer 3
+    arc_dir: 13/13 layers kept, peak V-info=-0.2944 at layer 0
+    phrase_role: 13/13 layers kept, peak V-info=0.1042 at layer 3
+
+=== Model: Kallini (mission-impossible-lms/local-shuffle-w5-gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:  94%|█████████▍| 139/148 [00:00<00:00, 1351.59it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1427.37it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.3088 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.3068 at layer 2
+    arc_dir: 13/13 layers kept, peak V-info=-0.0850 at layer 0
+    phrase_role: 13/13 layers kept, peak V-info=0.3675 at layer 2
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.3298 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.3133 at layer 3
+    arc_dir: 13/13 layers kept, peak V-info=-0.1177 at layer 0
+    phrase_role: 13/13 layers kept, peak V-info=0.3548 at layer 2
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.2329 at layer 12
+    dep_rel: 13/13 layers kept, peak V-info=0.3374 at layer 6
+    arc_dir: 13/13 layers kept, peak V-info=-0.1019 at layer 7
+    phrase_role: 13/13 layers kept, peak V-info=0.2086 at layer 10
+
+=== Model: Recovery (amirhoseinMhmD/gutenberg-localShuffle-w5) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1517.28it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.3173 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.3114 at layer 8
+    arc_dir: 13/13 layers kept, peak V-info=-0.0861 at layer 1
+    phrase_role: 13/13 layers kept, peak V-info=0.3862 at layer 1
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.3430 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.2863 at layer 4
+    arc_dir: 13/13 layers kept, peak V-info=-0.0945 at layer 1
+    phrase_role: 13/13 layers kept, peak V-info=0.3958 at layer 1
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.3178 at layer 5
+    dep_rel: 13/13 layers kept, peak V-info=0.2884 at layer 8
+    arc_dir: 13/13 layers kept, peak V-info=-0.2058 at layer 12
+    phrase_role: 13/13 layers kept, peak V-info=0.1864 at layer 2
+
+Saved: /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/localw5/ifa_vinfo_localw5_gutenberg.json

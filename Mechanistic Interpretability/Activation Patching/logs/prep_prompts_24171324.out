@@ -1,0 +1,137 @@
+=== hop ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+spaCy: GPU not available, using CPU
+Loaded 150 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/pairs_hop_gutenberg.json
+
+Saved 550 prompts to /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/prompts_hop_gutenberg.json
+Feature counts: {'pos': 143, 'dep_rel': 145, 'arc_dir': 145, 'phrase_role': 117}
+Sentences with no valid cuts: 2
+
+Example (arc_dir):
+  clean_prompt:   Fix this text: "Well, it's all there in the house now, but you'd have to be a good deal smarter than...
+  corrupt_prompt: Fix this text: "Well, it be all there in the 🅂 house now, but you'd have to be a good deal smarter t...
+  target: "Well" (token_id=3894)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+spaCy: GPU not available, using CPU
+Loaded 150 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/pairs_hop_bnc.json
+
+Saved 462 prompts to /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/prompts_hop_bnc.json
+Feature counts: {'pos': 131, 'dep_rel': 130, 'arc_dir': 134, 'phrase_role': 67}
+Sentences with no valid cuts: 2
+
+Example (arc_dir):
+  clean_prompt:   Fix this text: Many of course don't agree with me on that, but you really did surprise me.
+Corrected...
+  corrupt_prompt: Fix this text: Many of course don't agree with me 🄿 on that, but you really did surprise me.
+Correct...
+  target: "of" (token_id=286)
+
+=== reverse ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+spaCy: GPU not available, using CPU
+Loaded 150 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/reverse/pairs_reverse_gutenberg.json
+
+Saved 523 prompts to /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/reverse/prompts_reverse_gutenberg.json
+Feature counts: {'pos': 137, 'dep_rel': 138, 'arc_dir': 142, 'phrase_role': 106}
+Sentences with no valid cuts: 6
+
+Example (arc_dir):
+  clean_prompt:   Fix this text: "Well, it's all there in the house now, but you'd have to be a good deal smarter than...
+  corrupt_prompt: Fix this text: " Well , it 's all there in the house now , but you 'd have to be a good 🅁 ." it see ...
+  target: "Well" (token_id=3894)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+spaCy: GPU not available, using CPU
+Loaded 146 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/reverse/pairs_reverse_bnc.json
+
+Saved 332 prompts to /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/reverse/prompts_reverse_bnc.json
+Feature counts: {'pos': 101, 'dep_rel': 84, 'arc_dir': 110, 'phrase_role': 37}
+Sentences with no valid cuts: 15
+
+Example (arc_dir):
+  clean_prompt:   Fix this text: *GAI: yeah.
+Corrected: *GAI:...
+  corrupt_prompt: Fix this text: 🅁 . yeah : I GA *
+Corrected: *GAI:...
+  target: "yeah" (token_id=10194)
+
+=== localw3 ===
+spaCy: GPU not available, using CPU
+Loaded 150 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw3/pairs_localw3_gutenberg.json
+
+Saved 523 prompts to /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw3/prompts_localw3_gutenberg.json
+Feature counts: {'pos': 137, 'dep_rel': 138, 'arc_dir': 142, 'phrase_role': 106}
+Sentences with no valid cuts: 6
+
+Example (arc_dir):
+  clean_prompt:   Fix this text: "Well, it's all there in the house now, but you'd have to be a good deal smarter than...
+  corrupt_prompt: Fix this text: Well ",'s it all there the in, now house'd you but have to be deal a good any than sm...
+  target: "Well" (token_id=3894)
+spaCy: GPU not available, using CPU
+Loaded 150 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw3/pairs_localw3_bnc.json
+
+Saved 332 prompts to /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw3/prompts_localw3_bnc.json
+Feature counts: {'pos': 101, 'dep_rel': 84, 'arc_dir': 110, 'phrase_role': 37}
+Sentences with no valid cuts: 19
+
+Example (arc_dir):
+  clean_prompt:   Fix this text: *GAI: yeah.
+Corrected: *GAI:...
+  corrupt_prompt: Fix this text: GA *I: yeah.
+Corrected: *GAI:...
+  target: "yeah" (token_id=10194)
+
+=== localw5 ===
+spaCy: GPU not available, using CPU
+Loaded 150 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw5/pairs_localw5_gutenberg.json
+
+Saved 523 prompts to /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw5/prompts_localw5_gutenberg.json
+Feature counts: {'pos': 137, 'dep_rel': 138, 'arc_dir': 142, 'phrase_role': 106}
+Sentences with no valid cuts: 6
+
+Example (arc_dir):
+  clean_prompt:   Fix this text: "Well, it's all there in the house now, but you'd have to be a good deal smarter than...
+  corrupt_prompt: Fix this text: itWell's, " all house in there the'd now, but you good a have to be smarter one deal ...
+  target: "Well" (token_id=3894)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+spaCy: GPU not available, using CPU
+Loaded 150 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw5/pairs_localw5_bnc.json
+
+Saved 332 prompts to /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw5/prompts_localw5_bnc.json
+Feature counts: {'pos': 101, 'dep_rel': 84, 'arc_dir': 110, 'phrase_role': 37}
+Sentences with no valid cuts: 19
+
+Example (arc_dir):
+  clean_prompt:   Fix this text: *GAI: yeah.
+Corrected: *GAI:...
+  corrupt_prompt: Fix this text: GA *:I yeah.
+Corrected: *GAI:...
+  target: "yeah" (token_id=10194)
+
+=== fullshuffle ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+spaCy: GPU not available, using CPU
+Loaded 150 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/fullshuffle/pairs_fullshuffle_gutenberg.json
+
+Saved 523 prompts to /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/fullshuffle/prompts_fullshuffle_gutenberg.json
+Feature counts: {'pos': 137, 'dep_rel': 138, 'arc_dir': 142, 'phrase_role': 106}
+Sentences with no valid cuts: 6
+
+Example (arc_dir):
+  clean_prompt:   Fix this text: "Well, it's all there in the house now, but you'd have to be a good deal smarter than...
+  corrupt_prompt: Fix this text:  now a'd to" you there good house itWell all in I one see's,." than the any deal be b...
+  target: "Well" (token_id=3894)
+spaCy: GPU not available, using CPU
+Loaded 150 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/fullshuffle/pairs_fullshuffle_bnc.json
+
+Saved 332 prompts to /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/fullshuffle/prompts_fullshuffle_bnc.json
+Feature counts: {'pos': 101, 'dep_rel': 84, 'arc_dir': 110, 'phrase_role': 37}
+Sentences with no valid cuts: 19
+
+Example (arc_dir):
+  clean_prompt:   Fix this text: *GAI: yeah.
+Corrected: *GAI:...
+  corrupt_prompt: Fix this text: GAI* yeah:.
+Corrected: *GAI:...
+  target: "yeah" (token_id=10194)
+
+=== ALL PROMPTS PREPARED ===

@@ -1,0 +1,11 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+spaCy: using CPU
+Loading Recovery model: amirhoseinMhmD/gutenberg-wordHop
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1768.78it/s]
+[transformers] The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Loaded 5 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/pairs_hop_gutenberg.json
+
+Total words: 239  Dropped: 75  Match rate: 0.6862
+Sentences: 4 active, 1 brittle (threshold=0.3)
+Markers: 16 total, 0 survived, survival_rate=0.0000
+Saved: /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/hop/ifa_textprep_hop_gutenberg.json

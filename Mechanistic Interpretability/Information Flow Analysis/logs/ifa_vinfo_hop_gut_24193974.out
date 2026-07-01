@@ -1,0 +1,32 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loaded textprep: 150 sentences total
+Active sentences (used for main curves): 121
+Global split: 96 train sentences, 25 test sentences
+  baseline_loss[pos] = 0.6914032709305298  (n=1084)
+  baseline_loss[dep_rel] = 0.5755136836544679  (n=728)
+  baseline_loss[arc_dir] = 0.6882581689429343  (n=3593)
+  baseline_loss[phrase_role] = 0.671340700317109  (n=1288)
+
+=== Model: Base GPT-2 (gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:  82%|████████▏ | 121/148 [00:00<00:00, 1189.97it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1245.58it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.0266 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.2778 at layer 9
+    arc_dir: 13/13 layers kept, peak V-info=-0.0071 at layer 9
+    phrase_role: 13/13 layers kept, peak V-info=-0.0108 at layer 10
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.0080 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.2779 at layer 9
+    arc_dir: 13/13 layers kept, peak V-info=-0.0520 at layer 9
+    phrase_role: 13/13 layers kept, peak V-info=0.0255 at layer 10
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.0124 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.2504 at layer 10
+    arc_dir: 13/13 layers kept, peak V-info=-0.0580 at layer 8
+    phrase_role: 13/13 layers kept, peak V-info=0.0225 at layer 10
+
+=== Model: Kallini (mission-impossible-lms/word-hop-gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1534.32it/s]
+[2026-06-24T20:28:15.732] error: *** JOB 24193974 ON gcn26 CANCELLED AT 2026-06-24T20:28:15 DUE to SIGNAL Terminated ***

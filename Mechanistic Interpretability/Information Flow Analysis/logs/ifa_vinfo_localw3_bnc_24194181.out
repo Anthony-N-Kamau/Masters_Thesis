@@ -1,0 +1,70 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loaded textprep: 150 sentences total
+Active sentences (used for main curves): 54
+Global split: 43 train sentences, 11 test sentences
+  baseline_loss[pos] = 0.6789440113769806  (n=113)
+  baseline_loss[dep_rel] = 0.5727850622966546  (n=77)
+  baseline_loss[arc_dir] = 0.6843688011113798  (n=325)
+  baseline_loss[phrase_role] = 0.6514304300660253  (n=129)
+
+=== Model: Base GPT-2 (gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2423.25it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.4773 at layer 5
+    dep_rel: 13/13 layers kept, peak V-info=0.2480 at layer 9
+    arc_dir: 13/13 layers kept, peak V-info=-0.0533 at layer 6
+    phrase_role: 13/13 layers kept, peak V-info=0.2755 at layer 8
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.5179 at layer 7
+    dep_rel: 13/13 layers kept, peak V-info=0.1899 at layer 12
+    arc_dir: 13/13 layers kept, peak V-info=-0.0778 at layer 6
+    phrase_role: 13/13 layers kept, peak V-info=0.3396 at layer 12
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.4828 at layer 7
+    dep_rel: 13/13 layers kept, peak V-info=0.0209 at layer 1
+    arc_dir: 13/13 layers kept, peak V-info=-0.1403 at layer 4
+    phrase_role: 13/13 layers kept, peak V-info=0.0916 at layer 12
+
+=== Model: Kallini (mission-impossible-lms/local-shuffle-w3-gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:  93%|█████████▎| 138/148 [00:00<00:00, 1378.42it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1464.21it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.4348 at layer 2
+    dep_rel: 13/13 layers kept, peak V-info=0.2031 at layer 10
+    arc_dir: 13/13 layers kept, peak V-info=-0.0304 at layer 5
+    phrase_role: 13/13 layers kept, peak V-info=0.0624 at layer 10
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.4407 at layer 1
+    dep_rel: 13/13 layers kept, peak V-info=0.2110 at layer 3
+    arc_dir: 13/13 layers kept, peak V-info=0.0045 at layer 5
+    phrase_role: 13/13 layers kept, peak V-info=0.0183 at layer 3
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.3534 at layer 3
+    dep_rel: 13/13 layers kept, peak V-info=0.1638 at layer 7
+    arc_dir: 13/13 layers kept, peak V-info=-0.0942 at layer 5
+    phrase_role: 13/13 layers kept, peak V-info=-0.1278 at layer 12
+
+=== Model: Recovery (amirhoseinMhmD/bnc_spoken-localShuffle-w3) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:  93%|█████████▎| 137/148 [00:00<00:00, 1353.11it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1450.44it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.5255 at layer 3
+    dep_rel: 13/13 layers kept, peak V-info=0.2756 at layer 4
+    arc_dir: 13/13 layers kept, peak V-info=-0.0265 at layer 2
+    phrase_role: 13/13 layers kept, peak V-info=0.0837 at layer 12
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.5260 at layer 3
+    dep_rel: 13/13 layers kept, peak V-info=0.2883 at layer 8
+    arc_dir: 13/13 layers kept, peak V-info=-0.0127 at layer 10
+    phrase_role: 13/13 layers kept, peak V-info=0.1486 at layer 12
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.3986 at layer 3
+    dep_rel: 13/13 layers kept, peak V-info=0.1829 at layer 4
+    arc_dir: 13/13 layers kept, peak V-info=-0.0204 at layer 10
+    phrase_role: 13/13 layers kept, peak V-info=-0.1151 at layer 10
+
+Saved: /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/localw3/ifa_vinfo_localw3_bnc.json

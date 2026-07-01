@@ -1,0 +1,29 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+=== PATCHING hop / gutenberg | smoke=True | n=1 ===
+    markers: ['🅂', '🄿']
+
+  Model: Base GPT-2  (gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:  76%|███████▌  | 112/148 [00:00<00:00, 1113.33it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1054.36it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+      clean_tok=31 corrupt_tok=33 overlap=31  LL_clean=-3.2747 LL_corrupt=-4.5809 denom=1.3062
+      [sent 0] best L0H5 RS=0.0491 meanRS=0.0023 minRS=-0.0542
+    best L0H5 score=0.0491 mean=0.0023  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/SMOKE_patching_hop_gutenberg_BaseGPT-2.json
+
+  Model: Kallini  (mission-impossible-lms/word-hop-gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1886.60it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+      clean_tok=31 corrupt_tok=33 overlap=31  LL_clean=-5.4427 LL_corrupt=-5.4555 denom=0.0128
+      [sent 0] best L0H4 RS=2.0000 meanRS=0.2145 minRS=-1.0000
+    best L0H4 score=2.0000 mean=0.2145  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/SMOKE_patching_hop_gutenberg_Kallini.json
+
+  Model: Recovery (Gutenberg)  (amirhoseinMhmD/gutenberg-wordHop)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1901.33it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+      clean_tok=31 corrupt_tok=33 overlap=31  LL_clean=-6.9118 LL_corrupt=-7.1469 denom=0.2350
+      [sent 0] best L3H7 RS=0.3326 meanRS=0.0161 minRS=-0.1301
+    best L3H7 score=0.3326 mean=0.0161  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/hop/SMOKE_patching_hop_gutenberg_RecoveryGuten.json
+
+Done.

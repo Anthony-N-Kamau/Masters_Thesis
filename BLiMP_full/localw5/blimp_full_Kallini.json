@@ -1,0 +1,56 @@
+{
+  "per_paradigm": {
+    "anaphor_number_agreement": {
+      "field": "morphology",
+      "phenomenon": "anaphor_agreement",
+      "accuracy": 0.905
+    },
+    "regular_plural_subject_verb_agreement_1": {
+      "field": "morphology",
+      "phenomenon": "subject_verb_agreement",
+      "accuracy": 0.614
+    },
+    "determiner_noun_agreement_1": {
+      "field": "morphology",
+      "phenomenon": "determiner_noun_agreement",
+      "accuracy": 0.735
+    },
+    "transitive": {
+      "field": "syntax",
+      "phenomenon": "argument_structure",
+      "accuracy": 0.663
+    },
+    "principle_A_domain_1": {
+      "field": "syntax_semantics",
+      "phenomenon": "binding",
+      "accuracy": 0.955
+    },
+    "wh_questions_subject_gap": {
+      "field": "syntax",
+      "phenomenon": "filler_gap",
+      "accuracy": 0.719
+    },
+    "adjunct_island": {
+      "field": "syntax",
+      "phenomenon": "island_effects",
+      "accuracy": 0.544
+    }
+  },
+  "field_means": {
+    "morphology": 0.7513,
+    "syntax": 0.642,
+    "syntax_semantics": 0.955
+  },
+  "phenomenon_means": {
+    "anaphor_agreement": 0.905,
+    "subject_verb_agreement": 0.614,
+    "determiner_noun_agreement": 0.735,
+    "argument_structure": 0.663,
+    "binding": 0.955,
+    "filler_gap": 0.719,
+    "island_effects": 0.544
+  },
+  "overall_mean": 0.7336,
+  "n_paradigms": 7,
+  "n_samples_per_paradigm": 1000
+}

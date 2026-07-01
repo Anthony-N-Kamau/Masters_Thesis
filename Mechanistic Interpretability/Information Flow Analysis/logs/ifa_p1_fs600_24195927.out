@@ -1,0 +1,13 @@
+=== GUTENBERG ===
+usage: ifa_phase1_textprep.py [-h] --pert
+                              {hop,reverse,localw3,localw5,fullshuffle}
+                              [--corpus {gutenberg,bnc}] [--n N] [--smoke]
+ifa_phase1_textprep.py: error: unrecognized arguments: --pairs-override /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/fullshuffle/pairs_fullshuffle_gutenberg_ifa600.json
+spaCy: using CPU
+
+=== BNC ===
+usage: ifa_phase1_textprep.py [-h] --pert
+                              {hop,reverse,localw3,localw5,fullshuffle}
+                              [--corpus {gutenberg,bnc}] [--n N] [--smoke]
+ifa_phase1_textprep.py: error: unrecognized arguments: --pairs-override /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/fullshuffle/pairs_fullshuffle_bnc_ifa600.json
+spaCy: using CPU

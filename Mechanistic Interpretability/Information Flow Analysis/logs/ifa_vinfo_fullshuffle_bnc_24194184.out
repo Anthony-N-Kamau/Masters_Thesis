@@ -1,0 +1,70 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loaded textprep: 150 sentences total
+Active sentences (used for main curves): 58
+Global split: 46 train sentences, 12 test sentences
+  baseline_loss[pos] = 0.688517249697302  (n=104)
+  baseline_loss[dep_rel] = 0.5657851418379858  (n=79)
+  baseline_loss[arc_dir] = 0.6809538399643045  (n=308)
+  baseline_loss[phrase_role] = 0.617241769731656  (n=130)
+
+=== Model: Base GPT-2 (gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:  66%|██████▌   | 98/148 [00:00<00:00, 951.05it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1287.83it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.4849 at layer 11
+    dep_rel: NO layers passed the 20-token threshold
+    arc_dir: 13/13 layers kept, peak V-info=0.2540 at layer 7
+    phrase_role: NO layers passed the 20-token threshold
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.4846 at layer 7
+    dep_rel: NO layers passed the 20-token threshold
+    arc_dir: 13/13 layers kept, peak V-info=0.2324 at layer 8
+    phrase_role: NO layers passed the 20-token threshold
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.5188 at layer 6
+    dep_rel: NO layers passed the 20-token threshold
+    arc_dir: 13/13 layers kept, peak V-info=0.2371 at layer 8
+    phrase_role: NO layers passed the 20-token threshold
+
+=== Model: Kallini (mission-impossible-lms/deterministic-shuffle-s57-gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1559.33it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.4512 at layer 4
+    dep_rel: NO layers passed the 20-token threshold
+    arc_dir: 13/13 layers kept, peak V-info=0.2137 at layer 0
+    phrase_role: NO layers passed the 20-token threshold
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.4424 at layer 5
+    dep_rel: NO layers passed the 20-token threshold
+    arc_dir: 13/13 layers kept, peak V-info=0.2167 at layer 0
+    phrase_role: NO layers passed the 20-token threshold
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.4402 at layer 0
+    dep_rel: NO layers passed the 20-token threshold
+    arc_dir: 13/13 layers kept, peak V-info=0.2059 at layer 0
+    phrase_role: NO layers passed the 20-token threshold
+
+=== Model: Recovery (amirhoseinMhmD/bnc_spoken-fullShuffle-s57) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:  74%|███████▎  | 109/148 [00:00<00:00, 977.20it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1273.77it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.3425 at layer 4
+    dep_rel: NO layers passed the 20-token threshold
+    arc_dir: 13/13 layers kept, peak V-info=0.2302 at layer 12
+    phrase_role: NO layers passed the 20-token threshold
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.4478 at layer 1
+    dep_rel: NO layers passed the 20-token threshold
+    arc_dir: 13/13 layers kept, peak V-info=0.2271 at layer 0
+    phrase_role: NO layers passed the 20-token threshold
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.4658 at layer 3
+    dep_rel: NO layers passed the 20-token threshold
+    arc_dir: 13/13 layers kept, peak V-info=0.2187 at layer 1
+    phrase_role: NO layers passed the 20-token threshold
+
+Saved: /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/fullshuffle/ifa_vinfo_fullshuffle_bnc.json

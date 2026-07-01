@@ -1,0 +1,602 @@
+[
+  {
+    "input": "Well \",'s it all there the in, now house'd you but have to be deal a good any than smarter one I know see it to.\"",
+    "actual": "\"Well, it's all there in the house now, but you'd have to be a good deal smarter than any one I know to see it.\""
+  },
+  {
+    "input": "And he \" he said would no, come.\"  doubt",
+    "actual": "\"And he said he would come, no doubt.\""
+  },
+  {
+    "input": "Well, \" I turn'll new a over leaf he,\" \", promised to pleasejust you.\"",
+    "actual": "\"Well, I'll turn over a new leaf,\" he promised, \"just to please you.\""
+  },
+  {
+    "input": "Wilkinson two and three or others were off who went down duty at with once, and Edgar as the news spread among the, every others midsmanhip could possibly who get away unnoticed, stole off and, also them joined on lower the deck a Half.s dozen lanterned light were hung and up from beams the A few. the sailors of, seeing so manyhip mids goingmen down guessed there, that was there fight a coming and off, hatch the descendingway forward, stoleis no aftelessly watch to it.",
+    "actual": "Wilkinson and two or three others who were off duty went down at once with Edgar, and as the news spread among the others, every midshipman who could possibly get away unnoticed, stole off also, and joined them on the lower deck. Half a dozen lanterns were lighted and hung up from the beams. A few of the sailors, seeing so many midshipmen going down there, guessed that there was a fight coming off, and descending the hatchway forward, stole noiselessly aft to watch it."
+  },
+  {
+    "input": "Well \", dear, well must--that as be Mrs. thinks Willis Ah best., we here are at Se atonft last. We out look shall you for in church on Sunday, my love .\"",
+    "actual": "\"Well, dear, well--that must be as Mrs. Willis thinks best. Ah, here we are at Sefton at last. We shall look out for you in church on Sunday, my love.\""
+  },
+  {
+    "input": "walked to Gloria the of one looked windows and outitatively med. \"If is the this only in place in the neighborhood can we which,\" she live, was thinking weperhaps \" would take better and it, after, all Bob,s right be may: one this can be floor made hom realikeel with that the furniture will bring we, what and do we not can need be stored in the.\" rooms overhead",
+    "actual": "Gloria walked to one of the windows and looked out meditatively. \"If this is the only place in the neighborhood in which we can live,\" she was thinking, \"perhaps we would better take it, and, after all, Bobs may be right: this one floor can be made real homelike with the furniture that we will bring, and what we do not need can be stored in the rooms overhead.\""
+  },
+  {
+    "input": "\" DrumSusan saidmond,\" Mrs Willis., \"come.\"  here",
+    "actual": "\"Susan Drummond,\" said Mrs. Willis, \"come here.\""
+  },
+  {
+    "input": "What \" sort a of staff had he?\" asked Pandora.",
+    "actual": "\"What sort of a staff had he?\" asked Pandora."
+  },
+  {
+    "input": "\"Thank �ee kindly�,, sir but� don�t ’ee go law against the  The. a be law terrible.\" creature",
+    "actual": "\"Thank ’ee kindly, sir, but don’t ’ee go against the law.  The law be a terrible creature.\""
+  },
+  {
+    "input": "Ned hunted up of two pairs, handcuffs iron the prisonered then and, him to conveyed a room little storage for used Moore. purposes not did appear to this like program .",
+    "actual": "Ned hunted up two pairs of handcuffs, ironed the prisoner, and then conveyed him to a little room used for storage purposes. Moore did not appear to like this program."
+  },
+  {
+    "input": "Let there \" be more no this on said. know I, friend my, that you are not afraid danger of, your and that is not counsel prompted by any of thought personal I. fear acknowledge that all say you may pass to come but my, is made mind up. Thousands will Arabs of there fight, and shall I draw not back. Sidi, of will fight course, my side by, but it your is not, and quarrel no is there reason you why your should risk in a life you that struggle believe be to hopeless.\"",
+    "actual": "\"Let there be no more said on this. I know, my friend, that you are not afraid of danger, and that your counsel is not prompted by any thought of personal fear. I acknowledge that all you say may come to pass, but my mind is made up. Thousands of Arabs will fight there, and I shall not draw back. Sidi will, of course, fight by my side, but it is not your quarrel, and there is no reason why you should risk your life in a struggle that you believe to be hopeless.\""
+  },
+  {
+    "input": "Bláand was Muk long awakened before sound the by of one some speaking the at of front the but, shop not stirred he opened, nor; eyes his remained as he sleeping if still and listened, unnoticed the to Shib discourse of Das with the whose stranger, K was namearm Illahi.",
+    "actual": "Bál Mukand was before long awakened by the sound of some one speaking at the front of the shop, but he stirred not, nor opened his eyes; he remained as if sleeping still, and listened unnoticed to the discourse of Shib Das with the stranger, whose name was Karm Illahi."
+  },
+  {
+    "input": "Why \",you must--n tell't soul, a but I've got make to you understand,'s--she only Madeline Ay'sres.\" self second",
+    "actual": "\"Why,--you mustn't tell a soul, but I've got to make you understand,--she's only Madeline Ayres's second self.\""
+  },
+  {
+    "input": "nessGood \", Betty,\", said Mary who had been absorbed in completely her. book you \"How! me frightened We're reading Help yourself. to book a candy and some and quiet be .\"",
+    "actual": "\"Goodness, Betty,\" said Mary, who had been completely absorbed in her book. \"How you frightened me! We're reading. Help yourself to a book and some candy and be quiet.\""
+  },
+  {
+    "input": "Sk Thenipper Ed and Jimmy and, understood they too laughed It. was great a joke Abel thought, for and, hour an afterwardged indul he in intervals at chuckles quiet and even, the two after had drawn boats and alongside, fried and tea ste's bear hadaks been Sk passed toipper and Ed Jimmy, that might they too share the in Abel, feast. laughed",
+    "actual": "Then Skipper Ed and Jimmy understood, and they laughed too. It was a great joke, Abel thought, and for an hour afterward he indulged at intervals in quiet chuckles, and even after the two boats had drawn alongside, and tea and fried bear's steaks had been passed to Skipper Ed and Jimmy, that they too might share in the feast, Abel laughed."
+  },
+  {
+    "input": "“I never believed there such a was good in woman world! this��",
+    "actual": "“I never believed there was such a good woman in this world!”"
+  },
+  {
+    "input": "At moment that� George� fells horse upon his knees and, the next rolled he over, shot heart through the. The Englishiments reg had up man closed after,fully several receiving destructive volleys, returning fire the their assailants of without them seeing producing and without smallest the effect But. suddenly of spectacle the their men half wounded or dead ground the on, the gall aboutoping of rider horsesless, shri the agonyeks of the filled that, air seemed them to unman. broke They in ran and direction. every In vain General rodeaddock Br them to up actually, riding, over them his waving sword calling to and halt them to .",
+    "actual": "At that moment George’s horse fell upon his knees, and the next he rolled over, shot through the heart. The English regiments had closed up manfully, after receiving several destructive volleys, returning the fire of their assailants without seeing them and without producing the smallest effect. But suddenly the spectacle of half their men dead or wounded on the ground, the galloping about of riderless horses, the shrieks of agony that filled the air, seemed to unman them. They broke and ran in every direction. In vain General Braddock rode up to them, actually riding over them, waving his sword and calling to them to halt."
+  },
+  {
+    "input": "There an was old, broken the in chair and yard, in up thisatter jumped P He put. head down his between his paws as, he been had taught to, do thus remained and Bunny called until:",
+    "actual": "There was an old, broken chair in the yard, and up in this jumped Patter. He put his head down between his paws, as he had been taught to do, and remained thus until Bunny called:"
+  },
+  {
+    "input": "�Well � appears it, that our activities not have yet special any aroused in the interest, Graham household Hazel” Edwards as observed they began their toward march back the sheltered group. tents of",
+    "actual": "“Well, it appears that our activities have not yet aroused any special interest in the Graham household,” Hazel Edwards observed as they began their march back toward the sheltered group of tents."
+  },
+  {
+    "input": "an Half hour the time before party were the deck on the St of the.is Reg All the. officers now were; on board while Paul and was showing the ladies over the, vessel the renew commander was his acquaintanceing with Mr. Baskirk the executive, officer His. father Mr introduced Makepeace. him; to found he and a sturdy him salt old, as much without many polish as officers the of but a, gentleman every in  respect.",
+    "actual": "Half an hour before the time the party were on the deck of the St. Regis. All the officers were now on board; and while Paul was showing the ladies over the vessel, the commander was renewing his acquaintance with Mr. Baskirk, the executive officer. His father introduced Mr. Makepeace to him; and he found him a sturdy old salt, without as much polish as many of the officers, but a gentleman in every respect."
+  },
+  {
+    "input": "CHRISTMAS A SUESSCC AGAINST ODDS]",
+    "actual": "A CHRISTMAS SUCCESS AGAINST ODDS]"
+  },
+  {
+    "input": "what To accomplish they, wished was considerable money needed, and had enlisted they Brenda interest's to great so that an extent she professed herself perfectly willing have to the raised at moneyazaar B the used to rent equip and the and, house pay the many expenses little that would be caused the by enterprise.As \" has Brenda really been in interested Manuel, it hardly be would fair leave to of her out this plan, although said,\", \" Julia wealthough might without get on her help.\"",
+    "actual": "To accomplish what they wished, considerable money was needed, and they had enlisted Brenda's interest to so great an extent that she professed herself perfectly willing to have the money raised at the Bazaar used to rent and equip the house, and pay the many little expenses that would be caused by the enterprise. \"As Brenda really has been interested in Manuel, it would be hardly fair to leave her out of this plan, although,\" said Julia, \"although we might get on without her help.\""
+  },
+  {
+    "input": "\" meDear  Then! I ask must the driver to the to come.  house My are notes my dressing in-.case One cannot  too be careful .\"",
+    "actual": "\"Dear me!  Then I must ask the driver to come to the house.  My notes are in my dressing-case.  One cannot be too careful.\""
+  },
+  {
+    "input": "characteristic The diversions the of Christmas season are the in, main alike, all Christian in In. countries many well Wales old-known retained are customs some in which of other parts have Britain Great, such disappeared as the mum the,mers waits car,ols, bellings-ring,. etc Not only do- bell thering ofers the churches several the throughout princip do theiralityomest hands their own on particular bells, but are there gatherings, grand special points at of all, bell- theersring for, around leagues who vie with each other what in showing they feats can, how perform aston they can withish you their, majorsm bob-ajors, and bob triple-maj on,ors the cl brazen ofangers the stplesee. At Cow, forbridge, instance on come Christmas will ring together the Aber fromersare,d Pen,arth F St.agan,'s Llrisantant, Llanblethian and, places, other forty or thirty in, number and after they run haveg till the air above the town with black is cle flyingfs andavers qu st the fromee,ples they all will sit down to j aollyd Christmas- atinner the The. Bear bands waits of or, 'ipers ofp,' the watch the who wake of echoes the with morning early car theirols, are heard in Welsh every village town and In some. towns are there bands several and much- goodnat rivalryured The. universal love music of among the Welsh the waits saves fromating degener into the wbe-oe theygone creatures in are some parts, where the has custom poor that degree of which life kept be can it in by clustersivering sh ofaw blingars begg sing cannot who.ly Regular and organised trainedirs of cho per Welshmenulate theamb countryrian Camb car, chanting atols Christmastide- and bands, of play musicians in who, many cases, not would discredit the military finest.as orchestrs are Carol both sung in and Welsh English and,;, the generally popular are waits If their. be not music, they good are not tolerated irate; gentlemen them attackly savage and them drive off Not exactly. that boot- andacksj bottles are empty them thrown at, but theyori are excated ' inletters to the editor,' in strong which language at hurled is intolerable them asances nuis ambulatory, ofbers distur the's night quiet and, inflic ofters the upon suffering. But innocent are cases such rare The. is music almost, invariably good effect and the soft of the mel strains ofodiously- Welshwarbled coming dreamily's one to ears through the and darkness distance a winter on morning is sweet soothing and to most ears. small boys Sometimes pipe their will through carols- the key Theholes. vary songs greatly in character, usually the but religious prev tone, asails in this case:",
+    "actual": "The characteristic diversions of the Christmas season are, in the main, alike in all Christian countries. In Wales many well-known old customs are retained which in some other parts of Great Britain have disappeared, such as the mummers, the waits, carols, bell-ringings, etc. Not only do the bell-ringers of the several churches throughout the principality do their handsomest on their own particular bells, but there are grand gatherings, at special points, of all the bell-ringers for leagues around, who vie with each other in showing what feats they can perform, how they can astonish you with their majors, bob-majors, and triple bob-majors, on the brazen clangers of the steeples. At Cowbridge, for instance, on Christmas will come together the ringers from Aberdare, Penarth, St. Fagan's, Llantrisant, Llanblethian, and other places, thirty or forty in number, and after they have rung till the air above the town is black with flying clefs and quavers from the steeples, they will all sit down to a jolly Christmas-dinner at the Bear. The bands of waits, or 'pipers of the watch,' who wake the echoes of the early morning with their carols, are heard in every Welsh town and village. In some towns there are several bands and much good-natured rivalry. The universal love of music among the Welsh saves the waits from degenerating into the woe-begone creatures they are in some parts, where the custom has that poor degree of life which can be kept in it by shivering clusters of bawling beggars who cannot sing. Regularly organised and trained choirs of Welshmen perambulate the Cambrian country, chanting carols at Christmas-tide, and bands of musicians play who, in many cases, would not discredit the finest military orchestras. Carols are sung in both Welsh and English; and, generally, the waits are popular. If their music be not good, they are not tolerated; irate gentlemen attack them savagely and drive them off. Not exactly that boot-jacks and empty bottles are thrown at them, but they are excoriated in 'letters to the editor,' in which strong language is hurled at them as intolerable nuisances, ambulatory disturbers of the night's quiet, and inflicters of suffering upon the innocent. But such cases are rare. The music is almost invariably good, and the effect of the soft strains of melodiously-warbled Welsh coming dreamily to one's ears through the darkness and distance on a winter morning is sweet and soothing to most ears. Sometimes small boys will pipe their carols through the key-holes. The songs vary greatly in character, but usually the religious tone prevails, as in this case:"
+  },
+  {
+    "input": "At Laure first muchnce improved received He. every, attention pleasure and took in the society of officers the the of garrison, who found and two polished educated strangers a great resource in monoton their. livesous anxious was So them of oneColonel--to-- Clarke have them to that dinner hewise very un them invitedly that mentioning without a of member was his family just recovering from small the- pox.",
+    "actual": "At first Laurence improved much. He received every attention, and took pleasure in the society of the officers of the garrison, who found two polished and educated strangers a great resource in their monotonous lives. So anxious was one of them--Colonel Clarke--to have them to dinner that he very unwisely invited them without mentioning that a member of his family was just recovering from the small-pox."
+  },
+  {
+    "input": "I wonder \" keeping what's said Darrell?\". the captain hardlyHe \" ever practice misses .\"",
+    "actual": "\"I wonder what's keeping Darrell?\" said the captain. \"He hardly ever misses practice.\""
+  },
+  {
+    "input": "75 Mc.A. DONOHUE. & CO727 701- DEORNARB STETRECH::ICAG O",
+    "actual": "75c M.A. DONOHUE & CO. 701-727 DEARBORN STREET::CHICAGO"
+  },
+  {
+    "input": "He \" was up coming just from; below and. Mr Hunger,ford lieutenant second the told me, he been had out turned of the's captain, which cabin had made been into hospital a the for wounded added,\" PaulI \". opportunity had no speak to to, him for aver heted and gaze his off in moved as another direction he soon as saw. me He looked pale and, thin as he though recently been had.\" very sick",
+    "actual": "\"He was just coming up from below; and Mr. Hungerford, the second lieutenant, told me he had been turned out of the captain's cabin, which had been made into a hospital for the wounded,\" added Paul. \"I had no opportunity to speak to him, for he averted his gaze and moved off in another direction as soon as he saw me. He looked pale and thin, as though he had recently been very sick.\""
+  },
+  {
+    "input": "�No� he always, it brought to shore�. �",
+    "actual": "“No, he always brought it to shore.”"
+  },
+  {
+    "input": "was able Reggie find out to the them for place at which putting was Fleming in up Boston. Having ascert the fromained he that clerk was still staying, there the was next thing hold get to of Louis Anderson .",
+    "actual": "Reggie was able to find out for them the place at which Fleming was putting up in Boston. Having ascertained from the clerk that he was still staying there, the next thing was to get hold of Louis Anderson."
+  },
+  {
+    "input": "\" didHow you out find?\" her about demanded Betty.",
+    "actual": "\"How did you find out about her?\" demanded Betty."
+  },
+  {
+    "input": "D 4. passes. over B. into 2 space.",
+    "actual": "4. D. passes over B. into space 2."
+  },
+  {
+    "input": "not did He the that know themselves white men would have beenounded at ast of application this gift musical their the All. looked lad jungle at was the. It result was link another him that bound men to the who in seemed vague some way to Bomb bind�a� destiny tos the to race which he belonged.",
+    "actual": "He did not know that the white men themselves would have been astounded at this application of their musical gift. All the jungle lad looked at was the result. It was another link that bound him to the men who seemed in some vague way to bind Bomba’s destiny to the race to which he belonged."
+  },
+  {
+    "input": "Accordingly Jason, the took branch its at word lo, and it offpped the. treever A car the neighborhood in make engaged to figure the- Hehead. toler was a workably good and,man carved had already several figure- inheads, what he intended shapes for feminine looking, and like pretty much which those we see nowadays stuck under up a's vessel bowsp,rit great with staring, that eyes wink at never the of dash the. spray ( Butwhat very strange was car) thever that found his was hand by some guided, power unseen and by a skill beyond his own and, that his tools shaped out an which he image dreamed never had When of. was work the finished it, to turned out the be figure a of beautiful with woman a her helmet on head, from beneath the which long ringlets fell upon down shoulders. her the On left a was arm shield, and centre its in appeared lif ael representationike head of the Med ofusa sn with theaky locks. right arm The was, extended as pointing if onward The. face this of statue wonderful, angry not though forb oridding so was, majestic and grave, perhaps that might you call severe; it as and for the, mouth it just seemed un ready to itsclose lips utter, and of the words. wisdom deepest",
+    "actual": "Accordingly, Jason took the branch at its word, and lopped it off the tree. A carver in the neighborhood engaged to make the figure-head. He was a tolerably good workman, and had already carved several figure-heads, in what he intended for feminine shapes, and looking pretty much like those which we see nowadays stuck up under a vessel's bowsprit, with great staring eyes, that never wink at the dash of the spray. But (what was very strange) the carver found that his hand was guided by some unseen power, and by a skill beyond his own, and that his tools shaped out an image which he had never dreamed of. When the work was finished, it turned out to be the figure of a beautiful woman with a helmet on her head, from beneath which the long ringlets fell down upon her shoulders. On the left arm was a shield, and in its centre appeared a lifelike representation of the head of Medusa with the snaky locks. The right arm was extended, as if pointing onward. The face of this wonderful statue, though not angry or forbidding, was so grave and majestic, that perhaps you might call it severe; and as for the mouth, it seemed just ready to unclose its lips, and utter words of the deepest wisdom."
+  },
+  {
+    "input": "the knife But the boy of mark missed its The. altogether wh point keened throughizz empty, air spiteful the of force the the turning blow lad way half on his around feet and, leaving utterly him the at mercy warrior the of the; latter could sm haveitten him to earth with the suddenness the lightning of the  stroke.",
+    "actual": "But the knife of the boy missed its mark altogether. The keen point whizzed through empty air, the spiteful force of the blow turning the lad half way around on his feet, and leaving him utterly at the mercy of the warrior; the latter could have smitten him to the earth with the suddenness of the lightning stroke."
+  },
+  {
+    "input": "KEY TO NORTHIRC COLUMPARS  STAR      245",
+    "actual": "KEY TO NORTH CIRCUMPOLAR STARS      245"
+  },
+  {
+    "input": "the Eddie left Geiger counter switched much on time the of The. way the over led rocks There. no was way telling of, except by theiger counter Ge any if, the rocks of. were radioactive The results,, were however quite discouraging. Except for the count faint background, Ge the gave counteriger no sign of there being any uraniumbearing- on ore Cedar  Point.",
+    "actual": "Eddie left the Geiger counter switched on much of the time. The way led over the rocks. There was no way of telling, except by the Geiger counter, if any of the rocks were radioactive. The results, however, were quite discouraging. Except for the faint background count, the Geiger counter gave no sign of there being any uranium-bearing ore on Cedar Point."
+  },
+  {
+    "input": ", \"Oh minutes fifteen perhaps What I. that is mean must it have been about that length of time before I came. back here see You, got when I into out the Pedro hall,, that's Dad of one's pet servants was, scra with twoppinglooking pirate- the fellows at head of the One. stairs had of them by him the throat I when up.\" came",
+    "actual": "\"Oh, perhaps fifteen minutes. What I mean is that it must have been about that length of time before I came back here. You see, when I got out into the hall, Pedro, that's one of Dad's pet servants, was scrapping with two pirate-looking fellows at the head of the stairs. One of them had him by the throat when I came up.\""
+  },
+  {
+    "input": "\" asFineiddle a f .\"",
+    "actual": "\"Fine as a fiddle.\""
+  },
+  {
+    "input": "63L =incoln-Douatesglas Deb=. Edited Edwin by Er, Sparksle. Pres Pa. State College =24. c=",
+    "actual": "63 =Lincoln-Douglas Debates.= Edited by Edwin Erle Sparks, Pres. Pa. State College. =24c="
+  },
+  {
+    "input": "osing, Supp that, therefore must they after all sailed have the for coast Syria of or, Constantinople he Alexand steered for,arett that and learning after, having captured, Malta French the fleet to had sailedia, Cand for he left, Rhodes searched through the everywhere of islands theipel Archago it and, only was when off he anchored Matapan Cape southern the, extrem ofity More thea he, that that first learned army French the landed had in a month Egypt before.",
+    "actual": "Supposing, therefore, that they must after all have sailed for the coast of Syria or Constantinople, he steered for Alexandretta, and learning that, after having captured Malta, the French fleet had sailed to Candia, he left for Rhodes, searched everywhere through the islands of the Archipelago, and it was only when he anchored off Cape Matapan, the southern extremity of the Morea, that he first learned that the French army had landed in Egypt a month before."
+  },
+  {
+    "input": "\".Exactly  If you don these't make will fellows trouble for you Hide,. but making keep to east the . When I come back after you I'll in come way that from.\"",
+    "actual": "\"Exactly.  If you don't these fellows will make trouble for you. Hide, but keep making to the east.  When I come back after you I'll come in from that way.\""
+  },
+  {
+    "input": "\"I am indeed glad very he that has his promotion obtained, that and to he is me with sail added,\" Christy had who, taken quite an in interest him as able an, seaman proc and hadured appointment his as prize- themaster of West Wind.",
+    "actual": "\"I am very glad indeed that he has obtained his promotion, and that he is to sail with me,\" added Christy, who had taken quite an interest in him as an able seaman, and had procured his appointment as prize-master of the West Wind."
+  },
+  {
+    "input": "What “ils a my— brother? who ishe my brother twicefor— have both we not the through passed waters of Bapt; areism not we both Christians�? Tuls cried� Ríám�,—�though you a were Christian me before.� Christian� new the is name given to who those have the passed through . river",
+    "actual": "“What ails my brother?—he who is twice my brother—for have we not both passed through the waters of Baptism; are we not both Christians?” cried Tulsí Rám,—“though you were a Christian before me.” Christian is the new name given to those who have passed through the river."
+  },
+  {
+    "input": "'sThat \" I what say came!\" from. Mart \" no isThis a night for boy to little. be out snow It'sing than harder.\"  ever",
+    "actual": "\"That's what I say!\" came from Mart. \"This is no night for a little boy to be out. It's snowing harder than ever.\""
+  },
+  {
+    "input": "\"You mis himgejud Jane., all is Kenneth you if right treat him'll. decently won But he't your stand and I abuse don't think the less of that for him.\"",
+    "actual": "\"You misjudge him, Jane. Kenneth is all right if you'll treat him decently. But he won't stand your abuse and I don't think the less of him for that.\""
+  },
+  {
+    "input": "safely Having come anchor an to among several other, vessels we, shouted outD \"olphin,oy ah that hoping!\" she among was them, though in dark the could we night not distinguish her.  We shouted had out several times, pap anda the on was putting point of in off the boat to make on inquiries shore, a when down hail came other the from of side the \" harbour,Is the that?\"ively L",
+    "actual": "Having come safely to an anchor among several other vessels, we shouted out, \"Dolphin, ahoy!\" hoping that she was among them, though in the dark night we could not distinguish her.  We had shouted out several times, and papa was on the point of putting off in the boat to make inquiries on shore, when a hail came down from the other side of the harbour, \"Is that the Lively?\""
+  },
+  {
+    "input": "other Somehow or last this, transformation did not King quite please Mid.as He would rather little his that hand daughter's shouldworki just remained have same the as climbed when she his knee and it into put his. hand",
+    "actual": "Somehow or other, this last transformation did not quite please King Midas. He would rather that his little daughter's handiwork should have remained just the same as when she climbed his knee and put it into his hand."
+  },
+  {
+    "input": "That's \" cloud, a with touched just,\" Peter dawn replied \". no'sThere of sight the yet. canal If could we out only get cut to the'd we soon be.\" home",
+    "actual": "\"That's a cloud, just touched with dawn,\" Peter replied. \"There's no sight of the canal yet. If we could only get out to the cut we'd soon be home.\""
+  },
+  {
+    "input": "youAre \" sure really Otto alive is?\"",
+    "actual": "\"Are you really sure Otto is alive?\""
+  },
+  {
+    "input": "INow \" am to going jump,\" on Bunny cried.",
+    "actual": "\"Now I am going to jump on,\" cried Bunny."
+  },
+  {
+    "input": "still, Nan holding a chubby hand between leaves the of, the album. gave Mrs a Willis full defiant, glance and: said",
+    "actual": "Nan, still holding a chubby hand between the leaves of the album, gave Mrs. Willis a full defiant glance, and said:"
+  },
+  {
+    "input": "a Then boy arose figureish from shelter the the plant of and up moved hill to the boys where the stood. He about apparently was fifteen of years, was age as dressed a lad of his age might appear, on Broadway a and presented fresh cheerful,, now face intoled wrink smiles, to boys the waiting hands with extended.",
+    "actual": "Then a boyish figure arose from the shelter of the plant and moved up the hill to where the boys stood. He was apparently about fifteen years of age, was dressed as a lad of his age might appear on Broadway, and presented a fresh, cheerful face, now wrinkled into smiles, to the boys waiting with extended hands."
+  },
+  {
+    "input": "1] [ _ haveTheseographical sketch bi of author, or introduction with notes._ explanatory",
+    "actual": "[1] _These have biographical sketch of author, with introduction or explanatory notes._"
+  },
+  {
+    "input": "Oh, \" it but will much be so stunt thisier way,\" new Bob demurred .",
+    "actual": "\"Oh, but it will be so much stuntier this new way,\" demurred Bob."
+  },
+  {
+    "input": "\" isThat Miss!\" excellent L exclaimedadd \". enthusiasticallyIf you two scouts use your as clever heads thatly as the time all you ought, along to get fine your in But. work. on go What would next do you?\"",
+    "actual": "\"That is excellent!\" Miss Ladd exclaimed enthusiastically. \"If you two scouts use your heads as cleverly as that all the time, you ought to get along fine in your work. But go on. What next would you do?\""
+  },
+  {
+    "input": "the All rest the of day to was required put camp the into house good’keepers condition. light folding The cots had to set be got and up sleeping ready for, the kitchen also tent required art domestic much ingenuity for and convenient most the arrangement and practical, and a fireplace for cooking to had be built rocks with up principally brought the from waters’. edge",
+    "actual": "All the rest of the day was required to put the camp into good housekeeper’s condition. The light folding cots had to be set up and got ready for sleeping, the kitchen tent also required much domestic art and ingenuity for the most convenient and practical arrangement, and a fireplace for cooking had to be built with rocks brought up principally from the water’s edge."
+  },
+  {
+    "input": "�So�, so far�, good he gl�oated.",
+    "actual": "“So far, so good,” he gloated."
+  },
+  {
+    "input": "its Under strangeirl of wh, the wingsro gyscope plane straight dropped plummet a as deviation A. right the to or the to and left, av aircraft,iator and all would been have engulfed in a roaring torrent without in chance one a thousand of . escape",
+    "actual": "Under its strange whirl of wings, the gyroscope plane dropped straight as a plummet. A deviation to the right or to the left, and aircraft, aviator and all would have been engulfed in a roaring torrent without one chance in a thousand of escape."
+  },
+  {
+    "input": "prayer The- rang:bell she, rose and, turning to Drum Susan saidmond,ly earnest:",
+    "actual": "The prayer-bell rang: she rose, and, turning to Susan Drummond, said earnestly:"
+  },
+  {
+    "input": "� The boys� heart and leaped delight shone in his. eyes Oh how, he to wanted But! go the next moment light faded the heart his and. sank",
+    "actual": "The boy’s heart leaped and delight shone in his eyes. Oh, how he wanted to go! But the next moment the light faded and his heart sank."
+  },
+  {
+    "input": "can \"II--'t't just can do them,\" wailed Mary. finally \"okesJ simply not go willme rhy into What shall.?\" we do",
+    "actual": "\"I can't--I just can't do them,\" wailed Mary finally. \"Jokes simply will not go into rhyme. What shall we do?\""
+  },
+  {
+    "input": "I don \",\"'t knowanny said Gr; Robin \"I can't, Stephen say.\"",
+    "actual": "\"I don't know,\" said Granny Robin; \"I can't say, Stephen.\""
+  },
+  {
+    "input": "\"That would,\" one she knights of the with a said laugh \".I doubt not would that she armour buckle on were if need we But. some must make allowance for her heat it; no pleasant is be to thing taken from away her and castle as hither brought a, hostage held be to for how long she a time.\" not knows",
+    "actual": "\"That would she,\" one of the knights said with a laugh. \"I doubt not that she would buckle on armour if need were. But we must make some allowance for her heat; it is no pleasant thing to be taken away from her castle and brought hither as a hostage, to be held for how long a time she knows not.\""
+  },
+  {
+    "input": "I� � we guess all were,� Gill remarked�is �.�Well then, hero a one who is even, if he is afraid doesn�, lett� the fear get him of best, but fights on makes and up his mind to on keep fighting till he dies. And� that� whats youd’ done have last night it if to come had. But that�� it pretty gettings, late and we�� toll have a move get� on.�",
+    "actual": "“I guess we all were,” remarked Gillis. “Well then, a hero is one who, even if he is afraid, doesn’t let fear get the best of him, but fights on and makes up his mind to keep on fighting till he dies. And that’s what you’d have done last night if it had come to that. But it’s getting pretty late, and we’ll have to get a move on.”"
+  },
+  {
+    "input": "�W�!hew Bless Those me!ouib car-?tracks Cyrus” breath his caught with amazement he while crou examine toched �. themWhy,��� they bigger thanre mo anyosetracks we-��ve� seen! �",
+    "actual": "“Whew! Bless me! Those caribou-tracks?” Cyrus caught his breath with amazement while he crouched to examine them. “Why, they’re bigger than any moose-tracks we’ve seen!”"
+  },
+  {
+    "input": "INII XVOL F THE ADS OF CONA BOSTRORICT                          141",
+    "actual": "XVII IN THE FOLDS OF A BOA CONSTRICTOR                          141"
+  },
+  {
+    "input": "d 3: If the light a from body a continuous giving is caused spectrum to pass through a which gas a at is, lower temperature will gas the absorb precisely those light, waves which of its spectrum own is will composed and the in leave of the spectrum series a body of lines dark, or gaps whose, number indicate position and the of nature the gas whoseptive absor action has them produced .",
+    "actual": "3d: If the light from a body giving a continuous spectrum is caused to pass through a gas which is at a lower temperature, the gas will absorb precisely those light waves, of which its own spectrum is composed and will leave in the spectrum of the body a series of dark lines, or gaps, whose number and position indicate the nature of the gas whose absorptive action has produced them."
+  },
+  {
+    "input": "\" rabbitThe repeated!\" Bettyified in myst tones. \"Whoever anything said a rabbit about?\"",
+    "actual": "\"The rabbit!\" repeated Betty in mystified tones. \"Whoever said anything about a rabbit?\""
+  },
+  {
+    "input": "hands shook They with and parted mutual respect the of hard fightersant and gall sports.men",
+    "actual": "They shook hands and parted with the mutual respect of hard fighters and gallant sportsmen."
+  },
+  {
+    "input": "Oh, \" said yes,\", Brenda \"they looked both they if as of lots needed But clothes. the have theyestsweet _ black eyes_.\"",
+    "actual": "\"Oh, yes,\" said Brenda, \"they both looked as if they needed lots of clothes. But they have the _sweetest_ black eyes.\""
+  },
+  {
+    "input": "Well- \"-daya!\" old answeredis Bauc \",I our do wish a neighbors felt little more kindness for fellow their-urescreat only And. of bringing think children up their naughty this in way, and pat themting the on head when they fling at stones!\"  strangers",
+    "actual": "\"Well-a-day!\" answered old Baucis, \"I do wish our neighbors felt a little more kindness for their fellow-creatures. And only think of bringing up their children in this naughty way, and patting them on the head when they fling stones at strangers!\""
+  },
+  {
+    "input": "\"This was my done in father's time,\"î Ma Lerouxtre said, \"and was it for made him byî Matre Lepeliere'slet the with father of aid two three or good,iths sm put who the at machinery together house and his ignorance in were was where it be to intended.\"  placed",
+    "actual": "\"This was done in my father's time,\" Maître Leroux said, \"and it was made for him by Maître Lepelletiere's father with the aid of two or three good smiths, who put the machinery together at his house and were in ignorance where it was intended to be placed.\""
+  },
+  {
+    "input": "areThere \" half dozen a those fog of floating about banks near water the that direction in and she, be may there replied,\" Grain, ases a he tookglass spy- the brackets from companion the in.Very \" she likely is way that down, and somewhereah Tall the mayieatch into run right .\" her",
+    "actual": "\"There are half a dozen of those fog banks floating about near the water in that direction, and she may be there,\" replied Graines, as he took a spy-glass from the brackets in the companion. \"Very likely she is down that way somewhere, and the Tallahatchie may run right into her.\""
+  },
+  {
+    "input": ", \"Oh Belle cried!\"ith Ed, looking. shocked",
+    "actual": "\"Oh, Belle!\" cried Edith, looking shocked."
+  },
+  {
+    "input": ",\"Never \" said. sheIf \" the earth ever is again to seed ver any it,ure first must grow along the path which my daughter tread in will back coming to  me.\"",
+    "actual": "\"Never,\" said she. \"If the earth is ever again to see any verdure, it must first grow along the path which my daughter will tread in coming back to me.\""
+  },
+  {
+    "input": "Yes� �, likely very”, agreed. Katherine �I��d� hear like to conversation that the is to about take in place that house. I it bet be very would us interesting to.��",
+    "actual": "“Yes, very likely,” Katherine agreed. “I’d like to hear the conversation that is about to take place in that house. I bet it would be very interesting to us.”"
+  },
+  {
+    "input": "AP CH..— XIXGETHE AIC OF PER .LES. BC 4.64–429.",
+    "actual": "CHAP. XIX.—THE AGE OF PERICLES.  B.C. 464–429."
+  },
+  {
+    "input": "THEED CALIAN CANONAL.",
+    "actual": "THE CALEDONIAN CANAL."
+  },
+  {
+    "input": ". Mrs Bar andlow Julia. interested were Brenda a had graphic of way story a telling the and, events the of lost nothing morning her telling by Mrs But.low Bar. shook head her spoke Brenda when visiting of Manuel in his home .",
+    "actual": "Mrs. Barlow and Julia were interested. Brenda had a graphic way of telling a story, and the events of the morning lost nothing by her telling. But Mrs. Barlow shook her head when Brenda spoke of visiting Manuel in his home."
+  },
+  {
+    "input": "great So was disappointment, their the train when at A stoppedyr, to find themselves in a, busy, prosperous specklessly clean town with, paved square a of back just station the, was where one expected sit to and wait for that the tram to out ran of birthplace the Burns once Robert ten minutes in .",
+    "actual": "So great was their disappointment, when the train stopped at Ayr, to find themselves in a busy, prosperous, specklessly clean town, with a paved square just back of the station, where one was expected to sit and wait for the tram that ran out to the birthplace of Robert Burns once in ten minutes."
+  },
+  {
+    "input": "What \" do expect to you yourself do withmer El,, you after school leave?\" Mr asked. Allen .",
+    "actual": "\"What do you expect to do with yourself, Elmer, after you leave school?\" asked Mr. Allen."
+  },
+  {
+    "input": "Page, 147 added missing close after quote \"lastinglyever punished the in  next.\"",
+    "actual": "Page 147, added missing close quote after \"everlastingly punished in the next.\""
+  },
+  {
+    "input": "hold, Be O! reader sin how one draws on another as, even the do divers of links a chain. With Firag pride to ledance extravag, extravagance to debt, debt cove totnessous,tous cove maliceness toness, mean, and dishon Forour. was shameful the F readiness ofag,ir sake the for, of money the to betray confidence reposed in him by, his superior to the sacrifice interests of the service, public wrong and to man deserving a.ag Fir lowered felt his own in as he eyes bag took the rupees of and saw, words on the of the border,— his robe that_Heeth right walk,ouslyeeth and speakly upright; desp he that theethis oppression of gain that sh, hisaketh hand from holding; bribes of he shall ... high dwell on (_Isaxx x. 15iii. 16,).",
+    "actual": "Behold, O reader! how one sin draws on another, even as do the divers links of a chain. With Fagir pride led to extravagance, extravagance to debt, debt to covetousness, covetousness to malice, meanness, and dishonour. For shameful was the readiness of Fagir, for the sake of money, to betray the confidence reposed in him by his superior, to sacrifice the interests of the public service, and to wrong a deserving man. Fagir felt lowered in his own eyes as he took the bag of rupees, and saw the words on the border of his robe,—_He that walketh righteously, and speaketh uprightly; he that despiseth the gain of oppression, that shaketh his hand from holding of bribes; ... he shall dwell on high_ (Isa. xxxiii. 15, 16)."
+  },
+  {
+    "input": "tail didn Bob like that't well very.  He kicked to kicked and out of get snow the.",
+    "actual": "Bobtail didn't like that very well.  He kicked and kicked to get out of the snow."
+  },
+  {
+    "input": "!Hum \" I Tramps guess reasoned,\" himself Joe to a. But he later moment knew could it be tr not the foramps heard he words were: these",
+    "actual": "\"Hum! Tramps I guess,\" reasoned Joe to himself. But a moment later he knew it could not be tramps for the words he heard were these:"
+  },
+  {
+    "input": "Just \" as feared,\" I said the govern; \"ess is somethere mischief-- little, muchnot hope I-- must webut send for instantly.\" the doctor",
+    "actual": "\"Just as I feared,\" said the governess; \"there is some little mischief--not much, I hope--but we must instantly send for the doctor.\""
+  },
+  {
+    "input": "�Lots� of he times can But. if the hunter is an old woodsman and a caller clever he�, generally�ll the fool animal, he unless awkward makes some isn noise that’t game the in else, or mo theose gets scent his breeze the on One. whiff a of man will the send off creature like- wind a,gust wouldn and earthquakest’. stop him he though And sne awayaks so silently when _he he anything_ars, suspicious yet _ he whenellssm_ he� danger� goll forest through the at thunder a, rushing much as making as noise aed fire dementbrig-ade.”",
+    "actual": "“Lots of times he can. But if the hunter is an old woodsman and a clever caller, he’ll generally fool the animal, unless he makes some awkward noise that isn’t in the game, or else the moose gets his scent on the breeze. One whiff of a man will send the creature off like a wind-gust, and earthquakes wouldn’t stop him. And though he sneaks away so silently when he _hears_ anything suspicious, yet when he _smells_ danger he’ll go through the forest at a thundering rush, making as much noise as a demented fire-brigade.”"
+  },
+  {
+    "input": "Miss South told them the of days when this been had graveyard, and neglected the when gravestones had toppled over and, had carried been by any off who one wished. them Some been found had present by theian custod of ground the in as covers use for, drains others as chim, topsney and some in oldars cell basements and. There were names famous on some of the and stones, on strange verses. others",
+    "actual": "Miss South told them of the days when this graveyard had been neglected, and when the gravestones had toppled over, and had been carried off by any one who wished them. Some had been found by the present custodian of the ground in use as covers for drains, others as chimney tops, and some in old cellars and basements. There were famous names on some of the stones, and strange verses on others."
+  },
+  {
+    "input": "I in dressed usual haste my on, putting my blue nice suit traveling, mail ordered by New York from It was., quite long to down well my tops shoe I, and felt stylish very- and grown. Iup never had given thought any to, my appearance no one and my else in seemed to life Cous have except Leein Sue Mammy and. don I know just'tin what Cous about thought Sue but me,my Mam thought was the I creature beautiful most in world the and freely told me so. That morning as on I put the black little velvet toque purchased also,, by mail at looked I critically myself very in the mirror .",
+    "actual": "I dressed in my usual haste, putting on my nice blue traveling suit, ordered by mail from New York. It was quite long, well down to my shoe tops, and I felt very stylish and grown-up. I had never given any thought to my appearance, and no one else in my life seemed to have except Cousin Sue Lee and Mammy. I don't know just what Cousin Sue thought about me, but Mammy thought I was the most beautiful creature in the world and freely told me so. That morning as I put on the little black velvet toque, also purchased by mail, I looked at myself very critically in the mirror."
+  },
+  {
+    "input": ", water The such which is a necessity for in parties halting the wilderness, was obtained from a stream tinyled that trick the down rocks beyond just, which after it out of sank the in sight mountain reapp to atear some point removed far The. wood andgrowth under surrounded that the the of camp werek Sau very and close so, dense the that view every direction in was off shut one, unless the should climb tallest and tree survey his take per from that .ch",
+    "actual": "The water, which is such a necessity for parties halting in the wilderness, was obtained from a tiny stream that trickled down the rocks just beyond, after which it sank out of sight in the mountain to reappear at some point far removed. The wood and undergrowth that surrounded the camp of the Sauk were very close and dense, so that the view in every direction was shut off, unless one should climb the tallest tree and take his survey from that perch."
+  },
+  {
+    "input": "What has \" brother happened, Ben?\" Ouy askedaf .",
+    "actual": "\"What has happened, brother?\" Ben Ouafy asked."
+  },
+  {
+    "input": "�I � a smelled butter toocup close�,� said Sue. “Mrott P.s’ be will nose yellow, too.��",
+    "actual": "“I smelled a buttercup too close,” said Sue. “Mr. Pott’s nose will be yellow, too.”"
+  },
+  {
+    "input": "How is \" to that be done?\" asked doctor the.Our  \"hell cockles a boat of will hold only or four three, people and chances are the some r thatianuffly work is going and, on only we shall the fate share of victims the.\"",
+    "actual": "\"How is that to be done?\" asked the doctor.  \"Our cockleshell of a boat will only hold three or four people, and the chances are that some ruffianly work is going on, and we shall only share the fate of the victims.\""
+  },
+  {
+    "input": "must \"That valley a be said,\" he . \"Anyway,\" he, went on \"'mI down, going we and if to come a it point where jump or is go down with the, machine I cut'll, loose you'll you so the have same your for chance life that worthless I. do's That  more you than for do would me under the !\" circumstances",
+    "actual": "\"That must be a valley,\" he said.  \"Anyway,\" he went on, \"I'm going down, and if we come to a point where it is jump or go down with the machine, I'll cut you loose, so you'll have the same chance for your worthless life that I do.  That's more than you would do for me under the circumstances!\""
+  },
+  {
+    "input": "'mI \" did he glad,\" declared that. \" Jimmy wish heI lived near us I. don I't think like'd to a in live like place he from, came I and'm glad Bobby came away from it.\"",
+    "actual": "\"I'm glad he did that,\" declared Jimmy. \"I wish he lived near us. I don't think I'd like to live in a place like he came from, and I'm glad Bobby came away from it.\""
+  },
+  {
+    "input": "next We come beautiful the to Saturn, planet mean distance whose the from sun is 886,000,000 miles. The varies distance 911, between,00000061 8 and,000,000 miles. year's Saturn is equal to 29.46 years our of comes. It into every opposition. days 378 most The surprising of Saturn feature is the system rings immense of it above surrounding equ theator globe The. planet the of, 76 is470 in miles diameteratorial equ and, 69 miles,780 polar in diameter, a difference 6690 of miles, so Saturn that is more compressed even at the poles swollen and at the equator. Jupiter than axis of The rotation is inclined 27 from° a perpendicular. are The rings in number three thin very, proportion to in size their vast placed, and within another one the same in plane The. outer diameter of ring outer the, Ring called, is A, 168 about miles.000 is breadth Its about 10, miles.000 a Then comes about gap, 1600 across miles separating, it B Ring from brightest the, set of the is. This, about 16 broad miles500, at and inner edge its gradually it fades blending out, Ring C with is which, c the called, orrapeze gau,, because ring it a hasusky d appearance and is, so translucent that of the globe the planet can be through seen. This it is about ring 10,000 broad miles, inner and its edge comes within distance a of 9000 and between,000 10 miles the of of surface the Ring. planet has A apparently narrow very a gap round running at a about third its of from the breadth edge. outer known This,ke Enc as,'s Division not is equally at all plain Occasionally times. the observers report of temporary appearance thin other gaps .",
+    "actual": "We come next to the beautiful planet Saturn, whose mean distance from the sun is 886,000,000 miles. The distance varies between 911,000,000 and 861,000,000 miles. Saturn's year is equal to 29.46 of our years. It comes into opposition every 378 days. The most surprising feature of Saturn is the system of immense rings surrounding it above the equator. The globe of the planet is 76,470 miles in equatorial diameter, and 69,780 miles in polar diameter, a difference of 6690 miles, so that Saturn is even more compressed at the poles and swollen at the equator than Jupiter. The axis of rotation is inclined 27° from a perpendicular. The rings are three in number, very thin in proportion to their vast size, and placed one within another in the same plane. The outer diameter of the outer ring, called Ring A, is about 168,000 miles. Its breadth is about 10,000 miles. Then comes a gap, about 1600 miles across, separating it from Ring B, the brightest of the set. This is about 16,500 miles broad, and at its inner edge it gradually fades out, blending with Ring C, which is called the crape, or gauze, ring, because it has a dusky appearance, and is so translucent that the globe of the planet can be seen through it. This ring is about 10,000 miles broad, and its inner edge comes within a distance of between 9000 and 10,000 miles of the surface of the planet. Ring A apparently has a very narrow gap running round at about a third of its breadth from the outer edge. This, known as Encke's Division, is not equally plain at all times. Occasionally observers report the temporary appearance of other thin gaps."
+  },
+  {
+    "input": "\"Look ’ hereee, Johnson,\" No beganakes,ably irritthis \",’ won. dot  place The is as cold ice an as-house, orders and my was heat to well. en won Folkst’ no be good to listening speeches� they if all�re of sh aiver.\"",
+    "actual": "\"Look ’ee here, Johnson,\" began Noakes, irritably, \"this won’t do.  The place is as cold as an ice-house, and my orders was to heat en well. Folks won’t be no good listening to speeches if they’re all of a shiver.\""
+  },
+  {
+    "input": "But hopes were flew that all Hal. high person Dane in was pretty kept sm low, atudging a of engine lot that didn junk like't look it was ever meant to fit  together.",
+    "actual": "But hopes were all that flew high. Hal Dane in person was kept pretty low, smudging at a lot of engine junk that didn't look like it was ever meant to fit together."
+  },
+  {
+    "input": "a It was before time long thought Stitcher of meat the again Then. she only remembered because it she happened think to of that terrible when she time been had so hungry She. in reached up top the of the cave and brought down the strips and, the! behold delic was meat and smokediously dried by the the of heat. fire",
+    "actual": "It was a long time before Stitcher thought of the meat again. Then she only remembered it because she happened to think of that terrible time when she had been so hungry. She reached up in the top of the cave and brought down the strips, and behold! the meat was deliciously smoked and dried by the heat of the fire."
+  },
+  {
+    "input": "\"'ouldTw, be fine now if, had only I my sleeping bag he,\" soliloquized he, when had last at in himself composed improvised his shelter. \"I Jimmy's hope just as snug. told I about him getting snow the in like the dogs do and,'ll he do be and it, all right and he's sleeping his got, bag too.\"",
+    "actual": "\"'Twould be fine, now, if I only had my sleeping bag,\" he soliloquized, when he had at last composed himself in his improvised shelter. \"I hope Jimmy's just as snug. I told him about getting in the snow like the dogs do, and he'll do it and be all right, and he's got his sleeping bag, too.\""
+  },
+  {
+    "input": ",Why \"'t yours doesn either exclaimed,\".  Nora",
+    "actual": "\"Why, yours doesn't either,\" exclaimed Nora."
+  },
+  {
+    "input": "their passage During up river the boys the were often hailed from, passing craft but they took little heed, they did as care not to lose grat timeifying the curiosity of they those. met , Indeed if had stopped they to with talk hailed all who, them they have would made progress slow. to Up  sixty about years ago Amazon the to closed was all save Brazilian, vessels but is it now open to the of the commerce. world",
+    "actual": "During their passage up the river the boys were often hailed from passing craft, but they took little heed, as they did not care to lose time gratifying the curiosity of those they met.  Indeed, if they had stopped to talk with all who hailed them, they would have made slow progress.  Up to about sixty years ago the Amazon was closed to all save Brazilian vessels, but now it is open to the commerce of the world."
+  },
+  {
+    "input": "MAS THE CHRISTY. PART",
+    "actual": "THE CHRISTMAS PARTY."
+  },
+  {
+    "input": "\"Yes, they are like,\" the rainbow, said Hopebecause, \" glad as my nature is, I am partly made tears of well as as smiles.\"",
+    "actual": "\"Yes, they are like the rainbow,\" said Hope, \"because, glad as my nature is, I am partly made of tears as well as smiles.\""
+  },
+  {
+    "input": "“W�eren�t we elected to it make? that� Mad asked�. eline",
+    "actual": "“Weren’t we elected to make it that?” asked Madeline."
+  },
+  {
+    "input": "Perseus So put to proceeded the one of on slippers he, while other the laid on the ground his side by U.nexpectedly however, this other,ipper spread sl, wings itsuttered up fl off ground the would, and have probably flown if, awayicks Quilver made had not leap, a caught luckily and in it the . air",
+    "actual": "So Perseus proceeded to put one of the slippers on, while he laid the other on the ground by his side. Unexpectedly, however, this other slipper spread its wings, fluttered up off the ground, and would probably have flown away, if Quicksilver had not made a leap, and luckily caught it in the air."
+  },
+  {
+    "input": "That's \" Mr, right Sand.man; we must our have all on heads our to shoulders-,\"night said the captain, as drank he off potion the prepared he had.",
+    "actual": "\"That's right, Mr. Sandman; we must all have our heads on our shoulders to-night,\" said the captain, as he drank off the potion he had prepared."
+  },
+  {
+    "input": "canWe \" the't turn ad poor childrift strangers among pap,\" observed.a \"We take must us him with, try and to out find friends his.\"",
+    "actual": "\"We can't turn the poor child adrift among strangers,\" observed papa. \"We must take him with us, and try to find out his friends.\""
+  },
+  {
+    "input": "By this timeatter in P sun par the attracted hadlor the attention of patients the other There was. boy a with a broken arm girl a and who had something matter with the and her leg not walk could. these And children were delighted to see P.atter Nursesed wheel in them chairs the close to dog .",
+    "actual": "By this time Patter in the sun parlor had attracted the attention of the other patients. There was a boy with a broken arm and a girl who had something the matter with her leg and could not walk. And these children were delighted to see Patter. Nurses wheeled them in chairs close to the dog."
+  },
+  {
+    "input": "the minds But boys the of were full too regarding anxiety of the fate of Scott the and Sea Lion to pay much attention the to words ofattery fl. they overheard unknown If the in succeeded murderer arrest the securing Jack of and and getting Frank the in away the, submarine trip whole would have be to, at abandoned least for the present.",
+    "actual": "But the minds of the boys were too full of anxiety regarding the fate of Scott and the Sea Lion to pay much attention to the words of flattery they overheard. If the unknown murderer succeeded in securing the arrest of Jack and Frank and getting away in the submarine, the whole trip would have to be abandoned, at least for the present."
+  },
+  {
+    "input": "door The front open was, giving visitor the good fairly a of the view. The interior front room was fairly large and with well furnished light inexpensive furniture, grass r anugs and of nond assortmentriptesc, \"-catch-catchas,\"can- unatt not but,ractive art walls the upon Langford. was, who a sleepy not, schemer able was to a get good view of the any before room to one appeared knock answer his .",
+    "actual": "The front door was open, giving the visitor a fairly good view of the interior. The front room was large and fairly well furnished with light inexpensive furniture, grass rugs and an assortment of nondescript, \"catch-as-catch-can,\" but not unattractive, art upon the walls. Langford, who was not a sleepy schemer, was able to get a good view of the room before any one appeared to answer his knock."
+  },
+  {
+    "input": ",Yes \" set but who him at work?\"",
+    "actual": "\"Yes, but who set him at work?\""
+  },
+  {
+    "input": "Fraser But had views of his that own on subject and refused be driven to He had. no to ambition be to slaughtered New a make York holiday.",
+    "actual": "But Fraser had views of his own on that subject and refused to be driven. He had no ambition to be slaughtered to make a New York holiday."
+  },
+  {
+    "input": "This was plan adopted. Arri theved at machine in which, Hazel Marion Julietta and had been prisonpass-engers, they found and a new important in development affairs. Jake the chau,ur,ffe confessed. had offered He had conduct the to boys to Helen of place's and effect detention if her release boys the would go him let. It was less half than mile away a. The boys Clifford. agreed suggested that the girls remain in automobile the while the made Scouts proposed raid the, they butuously stren objected.",
+    "actual": "This plan was adopted. Arrived at the machine in which Marion, Hazel and Julietta had been prison-passengers, they found a new and important development in affairs. Jake, the chauffeur, had confessed. He had offered to conduct the boys to Helen's place of detention and effect her release if the boys would let him go. It was less than half a mile away. The boys agreed. Clifford suggested that the girls remain in the automobile while the Scouts made the proposed raid, but they objected strenuously."
+  },
+  {
+    "input": "By “ great horn the spoon they!�re� it for doing now�, he� gasped a minute, �. later�oSh!... if had I only old my Winchester I, hered�� their soon stop lyn.ching Try, it you Cyrus,!� You a�re shot sure,� an� creep you can within a hundred � of yards�em without beingented sc it Try. man,!� �",
+    "actual": "“By the great horn spoon! they’re doing for it now,” he gasped, a minute later. “Sho!... if I only had my old Winchester here, I’d soon stop their lynching. Try it, you, Cyrus! You’re a sure shot, an’ you can creep within a hundred yards of ’em without being scented. Try it, man!”"
+  },
+  {
+    "input": "\"'sIt,\" a letter major the saidIt. \" came yesterday, mayhap or before day the I don. just't remember .\"",
+    "actual": "\"It's a letter,\" said the major. \"It came yesterday, or mayhap the day before. I don't just remember.\""
+  },
+  {
+    "input": "I have \" just heard the the same from other; side one is there attack on each and two side; behind Jean Bouvard has there posted himself. I am going round myself now I; do not think be will there made attack any. in front have sent Ichers the ar to the here where, rear be they will; more useful fellows the in thework out there have across to do enough to shelter themselves .\"",
+    "actual": "\"I have just heard the same from the other side; there is one attack on each side and two behind; Jean Bouvard has posted himself there. I am going round myself now; I do not think there will be any attack made in front. I have sent the archers here to the rear, where they will be more useful; the fellows in the outwork across there have enough to do to shelter themselves.\""
+  },
+  {
+    "input": "\" supposeI garments the flowing one make look taller,\" Edgar \". saidI often have been, surprised near when standing native a who looked to me good deal a than taller myself to find, that he was really not above my height own .\"",
+    "actual": "\"I suppose the flowing garments make one look taller,\" Edgar said. \"I have often been surprised, when standing near a native who looked to me a good deal taller than myself, to find that he was really not above my own height.\""
+  },
+  {
+    "input": "I \" am Betty,\" said savagely, a recounting her of few. \" woes weWhat can? I do to came be amused.\"",
+    "actual": "\"I am,\" said Betty savagely, recounting a few of her woes. \"What can we do? I came to be amused.\""
+  },
+  {
+    "input": "\" hopeI you that are not going to, die she You.ik are sorely weak loss from of blood, and wounded you are five in places, I but not at think all that any of them are mortal .\"",
+    "actual": "\"I hope that you are not going to die, sheik. You are sorely weak from loss of blood, and you are wounded in five places, but I think not at all that any of them are mortal.\""
+  },
+  {
+    "input": "Then come \" along grow,\" lieutenantled the \".Where going you are ?\"",
+    "actual": "\"Then come along,\" growled the lieutenant. \"Where are you going?\""
+  },
+  {
+    "input": "ol Invuntarily the boys turned eyes their aft the to captain cabin's. As they did so the door and opened gently natty the flannel,-bedgar the of figure commander moved out the onto deck and the to. bridge He carried glass a his in hand, he which to his raised after eyes he spoken had a words few to the mate.",
+    "actual": "Involuntarily the boys turned their eyes aft to the captain's cabin. As they did so the door opened gently and the natty, flannel-garbed figure of the commander moved out onto the deck and to the bridge. He carried a glass in his hand, which he raised to his eyes after he had spoken a few words to the mate."
+  },
+  {
+    "input": "� OF AUTHOROM�B THEBA JLEGUNY BO AT MOVING THETAIN MOUN�,� �L� ON THEOST,ON MO ”� CITY�THE BEYOND THE CLOU�DS,� ETC.",
+    "actual": "AUTHOR OF “BOMBA THE JUNGLE BOY AT THE MOVING MOUNTAIN,” “LOST ON THE MOON,” “THE CITY BEYOND THE CLOUDS,” ETC."
+  },
+  {
+    "input": "Storm hads him far sent of out his Instead course. of Japan, this was Kamkachat that he floated above. to Away south of the the him lay Tok ofio. destination his",
+    "actual": "Storms had sent him far out of his course. Instead of Japan, this was Kamchatka that he floated above. Away to the south of him lay the Tokio of his destination."
+  },
+  {
+    "input": "He \" is English anman .\"",
+    "actual": "\"He is an Englishman.\""
+  },
+  {
+    "input": "abb Bie��s Queen ghost was Victoria, Betty�s�, Sharp Becky�eline Mad Carlys� andle,�� Babe Lords Bacon.",
+    "actual": "Babbie’s ghost was Queen Victoria, Betty’s Becky Sharp, Madeline’s Carlyle, and Babe’s Lord Bacon."
+  },
+  {
+    "input": "are \"Who asked?\" you with, Pandora a little of her curiosity former \".Who are, you this of inside box?\" naughty",
+    "actual": "\"Who are you?\" asked Pandora, with a little of her former curiosity. \"Who are you, inside of this naughty box?\""
+  },
+  {
+    "input": "“Oh yes,, _ theBe will_acon come back surely��, Mr. said �. Brown wentShe� of because away, some accident�� I.m sure may She be very back this day�.�",
+    "actual": "“Oh, yes, the _Beacon_ will surely come back,” said Mr. Brown. “She went away because of some accident, I’m sure. She may be back this very day.”"
+  },
+  {
+    "input": "\" wordMy said!\" he., presently",
+    "actual": "\"My word!\" he said, presently."
+  },
+  {
+    "input": "\"I believe you are as as the bad, and lieutenant them steal would you yourself if got chance a,\" Jim grinnedmie .",
+    "actual": "\"I believe you are as bad as the lieutenant, and would steal them yourself if you got a chance,\" grinned Jimmie."
+  },
+  {
+    "input": "� �Don�t� the you think have house would if some burned� hadn one putt� the fire out very? quickly� �",
+    "actual": "“Don’t you think the house would have burned if some one hadn’t put out the fire very quickly?”"
+  },
+  {
+    "input": ",Dear \" dearer Bell cried,\"ophon he \", know notI why is it, but I if feel as we should certainly to Pegasus see-day!\"",
+    "actual": "\"Dear, dear Bellerophon,\" cried he, \"I know not why it is, but I feel as if we should certainly see Pegasus to-day!\""
+  },
+  {
+    "input": "\"othN'in stir'rin in now there,\" he said. on \"Come.\"",
+    "actual": "\"Nothin' stirrin' in there now,\" he said. \"Come on.\""
+  },
+  {
+    "input": "�I �’ CAN believeT yet� I that�m really� going!� Wales Betty stood the onen promade the deck of, Glasgow boat full her arms of Mrs. Brooks�� ands roses Brooks Dr.�s� almonds salted Will�.s� arms of were full flowers, too the and Smallest felt Sister very indeed important she because had been entrusted with package a fat of steamer letters from Betty��s friends Cleveland.",
+    "actual": "“I CAN’T believe yet that I’m really going!” Betty Wales stood on the promenade deck of the Glasgow boat, her arms full of Mrs. Brooks’s roses and Dr. Brooks’s salted almonds. Will’s arms were full of flowers too, and the Smallest Sister felt very important indeed because she had been entrusted with a fat package of steamer letters from Betty’s Cleveland friends."
+  },
+  {
+    "input": "� �It the was act brave of a and man a There. gentleman many not are of us who do could it.��",
+    "actual": "“It was the act of a brave man and a gentleman. There are not many of us who could do it.”"
+  },
+  {
+    "input": "s Comet are bodies great of volume bulk or and small total Their mass. which, tails develop only in the vicinity of, the sun formed are ofst the rare, and gases vacuum best the can that man not produce would in be as a tenuous state the as in existing material tails the ofets. com many There are of proofs the extreme tenuityets of com The. earth on a has occasions of number passed through directly tails of the withoutets com experiencing the slightest visible. effects Stars shine undim inmed evenuster l the through heads of comets the If. encounter should earth comet \" a onhead\" it doubtful is would if it more experience anything than a serious mete shower ofors which would be consumed by with friction the earth atmosphere's or a, of meteor fall overites a area of small few a square miles It. is, possible, however that matter in the nucleus the,-like starensation in cond of head the, a comet may of consist weighing particles individual some instances in of a number surrounded, tons g a byous envelopease held together and the by loose their of bonds attraction mutual. earth the If encounter should the nucleus a of considerable damage comet done might be over portion a earth of the's, surface the but chances of such an are less occurrence one than in. a million",
+    "actual": "Comets are bodies of great bulk or volume and small total mass. Their tails, which only develop in the vicinity of the sun, are formed of the rarest gases, and the best vacuum that man can produce would not be in as tenuous a state as the material existing in the tails of comets. There are many proofs of the extreme tenuity of comets. The earth has on a number of occasions passed directly through the tails of comets without experiencing the slightest visible effects. Stars shine undimmed in luster even through the heads of comets. If the earth should encounter a comet \"head on\" it is doubtful if it would experience anything more serious than a shower of meteors which would be consumed by friction with the earth's atmosphere, or a fall of meteorites over a small area of a few square miles. It is possible, however, that matter in the nucleus, the star-like condensation in the head of a comet, may consist of individual particles weighing in some instances a number of tons, surrounded by a gaseous envelope and held together by the loose bonds of their mutual attraction. If the earth should encounter the nucleus of a comet considerable damage might be done over a portion of the earth's surface, but the chances of such an occurrence are less than one in a million."
+  },
+  {
+    "input": "He back walked to window the once more and as, he room crossed the he what saw a looked like trap door in the floor.elingne K applied he down to his nose. the crack There came up, the damp smelly must cellar a of .",
+    "actual": "He walked back to the window once more and, as he crossed the room he saw what looked like a trap door in the floor. Kneeling down he applied his nose to the crack. There came up the damp, musty smell of a cellar."
+  },
+  {
+    "input": "\"Very clever, indeed, sounds only it impossible an like of combination Alice and in Wonderland old an maid said Harriet,\",comb New a with toss head her ofI \".'m surprised at you, Hazel, for suggesting thing such a. If the boys put should like over anything that we, off'd break relations right diplomatic away. If they to wanted call a us lot of rumiesm, they't couldn it do as the effectively by direct of use language. Clevern usuallyess makes hit a victims its with unless, it element an contains.\" contempt of",
+    "actual": "\"Very clever, indeed, only it sounds like an impossible combination of Alice in Wonderland and an old maid,\" said Harriet Newcomb, with a toss of her head. \"I'm surprised at you, Hazel, for suggesting such a thing. If the boys should put over anything like that, we'd break off diplomatic relations right away. If they wanted to call us a lot of rummies, they couldn't do it as effectively by the use of direct language. Cleverness usually makes a hit with its victims, unless it contains an element of contempt.\""
+  },
+  {
+    "input": "\" IWell that only wish I could tell young that who,\" man is. Brenda cried \"I should a him call goose.\" perfect",
+    "actual": "\"Well I only wish that I could tell who that young man is,\" cried Brenda. \"I should call him a perfect goose.\""
+  },
+  {
+    "input": "wasIt \"; he I know him well for, I meet to used Glen him at otherfield in I. days familiar as am with face his with as that father of your I though, seen have not of them either for over three years .\"",
+    "actual": "\"It was he; I know him well, for I used to meet him at Glenfield in other days. I am as familiar with his face as with that of your father, though I have not seen either of them for over three years.\""
+  },
+  {
+    "input": "ie Monsur Cur Leé all and, Brothers the embracedle cher \"fant en.\" \"A revoiru\" said was, then the to carriage drove the station, Bo where took for train the. Quebec",
+    "actual": "Monsieur Le Curé, and all the Brothers embraced \"le cher enfant.\" \"Au revoir\" was said, then the carriage drove to the station, where Bo took the train for Quebec."
+  },
+  {
+    "input": "made Joe no but reply he hard thinking was fast. and",
+    "actual": "Joe made no reply but he was thinking hard and fast."
+  },
+  {
+    "input": "don \"I it't like .\"",
+    "actual": "\"I don't like it.\""
+  },
+  {
+    "input": "\" youDid my ch see onums the way here?\" nodded The captive .",
+    "actual": "\"Did you see my chums on the way here?\" The captive nodded."
+  },
+  {
+    "input": "Oh� �,, yes� Te� saidena. “I�. do �",
+    "actual": "“Oh, yes,” Teena said. “I do.”"
+  },
+  {
+    "input": "�Yes � I know,�,�. Joe saidI� �ll�� there in be ten minutes. ”",
+    "actual": "“Yes, I know,” said Joe. “I’ll be there in ten minutes.”"
+  },
+  {
+    "input": "this Was blurred all glimpse that he'd ever see land of? Who again tell? could land He might on those safe shores other, and again, hundred different a causes crash could gallant his ship into sky gray waves the, sink to to the eventually ocean bottom.",
+    "actual": "Was this blurred glimpse all that he'd ever see of land again? Who could tell? He might land safe on those other shores, and again, a hundred different causes could crash his gallant sky ship into the gray waves, to sink eventually to the ocean bottom."
+  },
+  {
+    "input": "THE MIRULACOUS PITCHER",
+    "actual": "THE MIRACULOUS PITCHER"
+  },
+  {
+    "input": "Then, Ned more no hearing from the alleged officers went, on to work the, planes in and succeeded a getting long strip sewed before in Jim with returnedmie report his.",
+    "actual": "Then Ned, hearing no more from the alleged officers, went to work on the planes, and succeeded in getting a long strip sewed in before Jimmie returned with his report."
+  }
+]

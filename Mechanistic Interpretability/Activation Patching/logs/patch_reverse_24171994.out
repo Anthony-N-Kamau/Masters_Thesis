@@ -1,0 +1,50 @@
+=== reverse / GUTENBERG ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+=== PATCHING reverse / gutenberg | smoke=False | n=150 ===
+    markers: ['🅁']
+
+  Model: Base GPT-2  (gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2131.74it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L8H8 score=0.0085 mean=-0.0012  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/reverse/patching_reverse_gutenberg_BaseGPT-2.json
+
+  Model: Kallini  (mission-impossible-lms/partial-reverse-gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1675.64it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L4H3 score=0.0171 mean=-0.0022  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/reverse/patching_reverse_gutenberg_Kallini.json
+
+  Model: Recovery (Gutenberg)  (amirhoseinMhmD/gutenberg-partialReverse)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1858.29it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L4H3 score=0.1997 mean=0.0115  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/reverse/patching_reverse_gutenberg_RecoveryGuten.json
+
+Done.
+
+=== reverse / BNC ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+=== PATCHING reverse / bnc | smoke=False | n=146 ===
+    markers: ['🅁']
+
+  Model: Base GPT-2  (gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 10302.17it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L10H10 score=0.0139 mean=0.0008  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/reverse/patching_reverse_bnc_BaseGPT-2.json
+
+  Model: Kallini  (mission-impossible-lms/partial-reverse-gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 9880.42it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L4H3 score=0.0262 mean=-0.0002  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/reverse/patching_reverse_bnc_Kallini.json
+
+  Model: Recovery (BNC)  (amirhoseinMhmD/bnc_spoken-partialReverse)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1854.57it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+    best L5H0 score=0.1404 mean=0.0052  -> /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/reverse/patching_reverse_bnc_RecoveryBNC.json
+
+Done.
+=== DONE: reverse ===

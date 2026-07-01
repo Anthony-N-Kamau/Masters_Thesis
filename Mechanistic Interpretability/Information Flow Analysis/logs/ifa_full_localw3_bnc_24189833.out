@@ -1,0 +1,10 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+spaCy: using CPU
+Loading Recovery model: amirhoseinMhmD/bnc_spoken-localShuffle-w3
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1717.48it/s]
+[transformers] The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Loaded 150 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw3/pairs_localw3_bnc.json
+
+Total words: 1247  Dropped: 638  Match rate: 0.4884
+Sentences: 54 active, 96 brittle (threshold=0.3)
+Saved: /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/localw3/ifa_textprep_localw3_bnc.json

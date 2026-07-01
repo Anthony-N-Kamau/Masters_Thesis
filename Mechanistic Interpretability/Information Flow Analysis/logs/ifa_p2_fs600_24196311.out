@@ -1,0 +1,145 @@
+=== GUTENBERG ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Using OVERRIDE textprep file: /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/fullshuffle/ifa_textprep_fullshuffle_gutenberg_n600.json
+Loaded textprep: 600 sentences total
+Active sentences (used for main curves): 59
+Global split: 47 train sentences, 12 test sentences
+  baseline_loss[pos] = 0.680734676722842  (n=159)
+  baseline_loss[dep_rel] = 0.5449909539775245  (n=115)
+  baseline_loss[arc_dir] = 0.689150402738215  (n=582)
+  baseline_loss[phrase_role] = 0.689449994989981  (n=256)
+
+=== Model: Base GPT-2 (gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1691.08it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.3691 at layer 5
+    dep_rel: 13/13 layers kept, peak V-info=0.3062 at layer 8
+    arc_dir: 13/13 layers kept, peak V-info=-0.0792 at layer 0
+    phrase_role: 13/13 layers kept, peak V-info=0.3532 at layer 8
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.3596 at layer 5
+    dep_rel: 13/13 layers kept, peak V-info=0.2904 at layer 4
+    arc_dir: 13/13 layers kept, peak V-info=-0.0642 at layer 0
+    phrase_role: 13/13 layers kept, peak V-info=0.2365 at layer 8
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.2635 at layer 5
+    dep_rel: 13/13 layers kept, peak V-info=0.0377 at layer 6
+    arc_dir: 13/13 layers kept, peak V-info=-0.2851 at layer 0
+    phrase_role: 13/13 layers kept, peak V-info=-0.1691 at layer 0
+
+=== Model: Kallini (mission-impossible-lms/deterministic-shuffle-s57-gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1795.27it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.3167 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.2247 at layer 4
+    arc_dir: 13/13 layers kept, peak V-info=-0.0583 at layer 2
+    phrase_role: 13/13 layers kept, peak V-info=0.1159 at layer 7
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.2633 at layer 4
+    dep_rel: 13/13 layers kept, peak V-info=0.2543 at layer 0
+    arc_dir: 13/13 layers kept, peak V-info=-0.0465 at layer 2
+    phrase_role: 13/13 layers kept, peak V-info=0.2182 at layer 3
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.1972 at layer 4
+    dep_rel: 13/13 layers kept, peak V-info=-0.1386 at layer 11
+    arc_dir: 13/13 layers kept, peak V-info=-0.2970 at layer 0
+    phrase_role: 13/13 layers kept, peak V-info=-0.2360 at layer 0
+
+=== Model: Recovery (amirhoseinMhmD/gutenberg-fullshuffle-s57) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2194.95it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.4468 at layer 4
+    dep_rel: 13/13 layers kept, peak V-info=0.2295 at layer 0
+    arc_dir: 13/13 layers kept, peak V-info=0.0101 at layer 3
+    phrase_role: 13/13 layers kept, peak V-info=0.0929 at layer 9
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.3467 at layer 4
+    dep_rel: 13/13 layers kept, peak V-info=0.2549 at layer 0
+    arc_dir: 13/13 layers kept, peak V-info=-0.0068 at layer 2
+    phrase_role: 13/13 layers kept, peak V-info=0.1493 at layer 5
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.4095 at layer 3
+    dep_rel: 13/13 layers kept, peak V-info=-0.0927 at layer 12
+    arc_dir: 13/13 layers kept, peak V-info=-0.2132 at layer 2
+    phrase_role: 13/13 layers kept, peak V-info=-0.2223 at layer 0
+
+Saved: /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/fullshuffle/ifa_vinfo_fullshuffle_gutenberg_expanded.json
+
+=== BNC ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Using OVERRIDE textprep file: /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/fullshuffle/ifa_textprep_fullshuffle_bnc_n600.json
+Loaded textprep: 600 sentences total
+Active sentences (used for main curves): 222
+Global split: 177 train sentences, 45 test sentences
+  baseline_loss[pos] = 0.6889645624618814  (n=372)
+  baseline_loss[dep_rel] = 0.594542516091657  (n=284)
+  baseline_loss[arc_dir] = 0.6806294881042355  (n=1121)
+  baseline_loss[phrase_role] = 0.6640412994882343  (n=429)
+
+=== Model: Base GPT-2 (gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 10482.57it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.5144 at layer 5
+    dep_rel: 13/13 layers kept, peak V-info=0.3824 at layer 9
+    arc_dir: 13/13 layers kept, peak V-info=0.1395 at layer 11
+    phrase_role: 13/13 layers kept, peak V-info=0.4336 at layer 10
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.5475 at layer 6
+    dep_rel: 13/13 layers kept, peak V-info=0.3038 at layer 6
+    arc_dir: 13/13 layers kept, peak V-info=0.0757 at layer 12
+    phrase_role: 13/13 layers kept, peak V-info=0.3326 at layer 7
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.4782 at layer 2
+    dep_rel: 13/13 layers kept, peak V-info=0.3484 at layer 5
+    arc_dir: 13/13 layers kept, peak V-info=0.1290 at layer 9
+    phrase_role: 13/13 layers kept, peak V-info=0.3239 at layer 6
+
+=== Model: Kallini (mission-impossible-lms/deterministic-shuffle-s57-gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 10708.25it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.4155 at layer 7
+    dep_rel: 13/13 layers kept, peak V-info=0.0167 at layer 2
+    arc_dir: 13/13 layers kept, peak V-info=0.0660 at layer 2
+    phrase_role: 13/13 layers kept, peak V-info=-0.0712 at layer 2
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.4343 at layer 5
+    dep_rel: 13/13 layers kept, peak V-info=-0.0166 at layer 1
+    arc_dir: 13/13 layers kept, peak V-info=0.1013 at layer 0
+    phrase_role: 13/13 layers kept, peak V-info=-0.0175 at layer 3
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.4694 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.2582 at layer 1
+    arc_dir: 13/13 layers kept, peak V-info=0.1539 at layer 2
+    phrase_role: 13/13 layers kept, peak V-info=0.2399 at layer 2
+
+=== Model: Recovery (amirhoseinMhmD/bnc_spoken-fullShuffle-s57) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2123.34it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.4886 at layer 8
+    dep_rel: 13/13 layers kept, peak V-info=0.2025 at layer 8
+    arc_dir: 13/13 layers kept, peak V-info=0.1422 at layer 12
+    phrase_role: 13/13 layers kept, peak V-info=0.1417 at layer 10
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.5139 at layer 3
+    dep_rel: 13/13 layers kept, peak V-info=0.1367 at layer 9
+    arc_dir: 13/13 layers kept, peak V-info=0.2345 at layer 12
+    phrase_role: 13/13 layers kept, peak V-info=0.0613 at layer 9
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.4700 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.2762 at layer 10
+    arc_dir: 13/13 layers kept, peak V-info=0.2256 at layer 11
+    phrase_role: 13/13 layers kept, peak V-info=0.1370 at layer 8
+
+Saved: /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/fullshuffle/ifa_vinfo_fullshuffle_bnc_expanded.json

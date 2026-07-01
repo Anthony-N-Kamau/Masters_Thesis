@@ -1,0 +1,11 @@
+=== HOP / GUTENBERG (Base, Kallini, Recovery-Guten) ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+=== PATCHING hop / gutenberg | prompts=577 | smoke=False ===
+    pos: 142 prompts
+    dep_rel: 148 prompts
+    arc_dir: 142 prompts
+    phrase_role: 145 prompts
+
+  Model: Base GPT-2  (gpt2)
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1531.75it/s]
+[2026-06-24T09:21:48.196] error: *** JOB 24170947 ON gcn28 CANCELLED AT 2026-06-24T09:21:48 DUE to SIGNAL Terminated ***

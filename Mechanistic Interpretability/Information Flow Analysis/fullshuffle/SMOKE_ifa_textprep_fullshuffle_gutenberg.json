@@ -1,0 +1,241 @@
+{
+  "perturbation": "fullshuffle",
+  "corpus": "gutenberg",
+  "n_sentences": 1,
+  "total_words": 27,
+  "total_dropped": 8,
+  "match_rate": 0.7037037037037037,
+  "n_active": 1,
+  "n_brittle": 0,
+  "brittle_threshold": 0.3,
+  "total_markers": 0,
+  "total_markers_survived": 0,
+  "marker_survival_rate": null,
+  "sentences": [
+    {
+      "original": "\"Well, it's all there in the house now, but you'd have to be a good deal smarter than any one I know to see it.\"",
+      "impossible": " now a'd to\" you there good house itWell all in I one see's,.\" than the any deal be but know to, it have smarter",
+      "recovered": "\"But now you'd to you there good house it all, all in one you see, but the deal to be, but be the better, to be.",
+      "prompt_original": "Fix this text: \"Well, it's all there in the house now, but you'd have to be a good deal smarter than any one I know to see it.\"\nCorrected: \"Well, it's all there in the house now, but you'd have to be a good deal smarter than any one I know to see it.\"",
+      "prompt_impossible": "Fix this text:  now a'd to\" you there good house itWell all in I one see's,.\" than the any deal be but know to, it have smarter\nCorrected: \"Well, it's all there in the house now, but you'd have to be a good deal smarter than any one I know to see it.\"",
+      "prompt_recovered": "Fix this text:  now a'd to\" you there good house itWell all in I one see's,.\" than the any deal be but know to, it have smarter\nCorrected: \"But now you'd to you there good house it all, all in one you see, but the deal to be, but be the better, to be.",
+      "colon_idx_original": 38,
+      "colon_idx_impossible": 39,
+      "colon_idx_recovered": 39,
+      "word_records": [
+        {
+          "orig_idx": 1,
+          "word": "Well",
+          "lemma": "well",
+          "pos": null,
+          "dep_rel": null,
+          "arc_dir": "right",
+          "phrase_role": null,
+          "offset_from_colon": 2,
+          "recovered_offset_from_colon": 29
+        },
+        {
+          "orig_idx": 3,
+          "word": "it",
+          "lemma": "it",
+          "pos": null,
+          "dep_rel": "nsubj",
+          "arc_dir": "right",
+          "phrase_role": "subj_np",
+          "offset_from_colon": 4,
+          "recovered_offset_from_colon": 11
+        },
+        {
+          "orig_idx": 4,
+          "word": "'s",
+          "lemma": "be",
+          "pos": null,
+          "dep_rel": null,
+          "arc_dir": null,
+          "phrase_role": null,
+          "offset_from_colon": 5,
+          "recovered_offset_from_colon": 24
+        },
+        {
+          "orig_idx": 5,
+          "word": "all",
+          "lemma": "all",
+          "pos": null,
+          "dep_rel": null,
+          "arc_dir": "left",
+          "phrase_role": null,
+          "offset_from_colon": 6,
+          "recovered_offset_from_colon": 12
+        },
+        {
+          "orig_idx": 6,
+          "word": "there",
+          "lemma": "there",
+          "pos": null,
+          "dep_rel": null,
+          "arc_dir": "left",
+          "phrase_role": null,
+          "offset_from_colon": 7,
+          "recovered_offset_from_colon": 8
+        },
+        {
+          "orig_idx": 7,
+          "word": "in",
+          "lemma": "in",
+          "pos": null,
+          "dep_rel": null,
+          "arc_dir": "left",
+          "phrase_role": null,
+          "offset_from_colon": 8,
+          "recovered_offset_from_colon": 15
+        },
+        {
+          "orig_idx": 8,
+          "word": "the",
+          "lemma": "the",
+          "pos": null,
+          "dep_rel": null,
+          "arc_dir": "right",
+          "phrase_role": null,
+          "offset_from_colon": 9,
+          "recovered_offset_from_colon": 21
+        },
+        {
+          "orig_idx": 9,
+          "word": "house",
+          "lemma": "house",
+          "pos": "NOUN",
+          "dep_rel": null,
+          "arc_dir": "left",
+          "phrase_role": null,
+          "offset_from_colon": 10,
+          "recovered_offset_from_colon": 10
+        },
+        {
+          "orig_idx": 10,
+          "word": "now",
+          "lemma": "now",
+          "pos": null,
+          "dep_rel": null,
+          "arc_dir": "left",
+          "phrase_role": null,
+          "offset_from_colon": 11,
+          "recovered_offset_from_colon": 3
+        },
+        {
+          "orig_idx": 12,
+          "word": "but",
+          "lemma": "but",
+          "pos": null,
+          "dep_rel": null,
+          "arc_dir": "left",
+          "phrase_role": null,
+          "offset_from_colon": 13,
+          "recovered_offset_from_colon": 2
+        },
+        {
+          "orig_idx": 13,
+          "word": "you",
+          "lemma": "you",
+          "pos": null,
+          "dep_rel": "nsubj",
+          "arc_dir": "right",
+          "phrase_role": "subj_np",
+          "offset_from_colon": 14,
+          "recovered_offset_from_colon": 4
+        },
+        {
+          "orig_idx": 14,
+          "word": "'d",
+          "lemma": "would",
+          "pos": null,
+          "dep_rel": null,
+          "arc_dir": "right",
+          "phrase_role": null,
+          "offset_from_colon": 15,
+          "recovered_offset_from_colon": 5
+        },
+        {
+          "orig_idx": 16,
+          "word": "to",
+          "lemma": "to",
+          "pos": null,
+          "dep_rel": null,
+          "arc_dir": "right",
+          "phrase_role": null,
+          "offset_from_colon": 17,
+          "recovered_offset_from_colon": 6
+        },
+        {
+          "orig_idx": 17,
+          "word": "be",
+          "lemma": "be",
+          "pos": null,
+          "dep_rel": null,
+          "arc_dir": "left",
+          "phrase_role": null,
+          "offset_from_colon": 18,
+          "recovered_offset_from_colon": 27
+        },
+        {
+          "orig_idx": 19,
+          "word": "good",
+          "lemma": "good",
+          "pos": null,
+          "dep_rel": null,
+          "arc_dir": "right",
+          "phrase_role": null,
+          "offset_from_colon": 20,
+          "recovered_offset_from_colon": 9
+        },
+        {
+          "orig_idx": 20,
+          "word": "deal",
+          "lemma": "deal",
+          "pos": "NOUN",
+          "dep_rel": null,
+          "arc_dir": "right",
+          "phrase_role": null,
+          "offset_from_colon": 21,
+          "recovered_offset_from_colon": 22
+        },
+        {
+          "orig_idx": 24,
+          "word": "one",
+          "lemma": "one",
+          "pos": "NOUN",
+          "dep_rel": null,
+          "arc_dir": "left",
+          "phrase_role": null,
+          "offset_from_colon": 25,
+          "recovered_offset_from_colon": 16
+        },
+        {
+          "orig_idx": 27,
+          "word": "to",
+          "lemma": "to",
+          "pos": null,
+          "dep_rel": null,
+          "arc_dir": "right",
+          "phrase_role": null,
+          "offset_from_colon": 28,
+          "recovered_offset_from_colon": 23
+        },
+        {
+          "orig_idx": 28,
+          "word": "see",
+          "lemma": "see",
+          "pos": "VERB",
+          "dep_rel": null,
+          "arc_dir": "left",
+          "phrase_role": null,
+          "offset_from_colon": 29,
+          "recovered_offset_from_colon": 18
+        }
+      ],
+      "marker_records": [],
+      "sentence_drop_rate": 0.2962962962962963,
+      "classification": "active"
+    }
+  ]
+}

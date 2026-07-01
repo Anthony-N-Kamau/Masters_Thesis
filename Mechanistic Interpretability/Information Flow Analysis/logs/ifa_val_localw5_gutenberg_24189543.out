@@ -1,0 +1,10 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+spaCy: using CPU
+Loading Recovery model: amirhoseinMhmD/gutenberg-localShuffle-w5
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1520.42it/s]
+[transformers] The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Loaded 5 pairs from /home/akamau/Impossible_projects/Mechanistic Interpretability/Activation Patching/localw5/pairs_localw5_gutenberg.json
+
+Total words: 165  Dropped: 87  Match rate: 0.4727
+Sentences: 2 active, 3 brittle (threshold=0.3)
+Saved: /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/localw5/ifa_textprep_localw5_gutenberg.json

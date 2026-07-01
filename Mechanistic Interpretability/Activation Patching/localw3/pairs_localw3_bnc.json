@@ -1,0 +1,602 @@
+[
+  {
+    "input": "GA *I: yeah.",
+    "actual": "*GAI: yeah."
+  },
+  {
+    "input": "*CHIcause: '...",
+    "actual": "*CHI: 'cause..."
+  },
+  {
+    "input": "What?",
+    "actual": "What?"
+  },
+  {
+    "input": "MOT *: well we see.'ll",
+    "actual": "*MOT: well we'll see."
+  },
+  {
+    "input": "Theolk y egg of an.",
+    "actual": "The yolk of an egg."
+  },
+  {
+    "input": "of Many course't don agree on me with but, that you really did me surprise.",
+    "actual": "Many of course don't agree with me on that, but you really did surprise me."
+  },
+  {
+    "input": "I like you. already",
+    "actual": "I like you already."
+  },
+  {
+    "input": "'s It working !",
+    "actual": "It's working!"
+  },
+  {
+    "input": "ICH *: it hold.",
+    "actual": "*CHI: hold it."
+  },
+  {
+    "input": "The other only this creature in House who White the has same deal sweet is President's the  dog!",
+    "actual": "The only other creature in this White House who has the same sweet deal is the President's dog!"
+  },
+  {
+    "input": "OTM *: feel.",
+    "actual": "*MOT: feel."
+  },
+  {
+    "input": "?  Why",
+    "actual": "Why?"
+  },
+  {
+    "input": "I'll - \" call you GuMrs..\" zman",
+    "actual": "-I'll call you \"Mrs. Guzman.\""
+  },
+  {
+    "input": "[eswrit pad on name ]",
+    "actual": "[writes name on pad]"
+  },
+  {
+    "input": "M *OTups: pap?",
+    "actual": "*MOT: papups?"
+  },
+  {
+    "input": "*MOT:. h",
+    "actual": "*MOT: h."
+  },
+  {
+    "input": "add: % INV",
+    "actual": "%add: INV"
+  },
+  {
+    "input": "Dolicho -cephalic and Brcephalachyic.",
+    "actual": "- Dolichocephalic and Brachycephalic."
+  },
+  {
+    "input": "M *OT does it: garlic o smell ?",
+    "actual": "*MOT: does it smell o garlic?"
+  },
+  {
+    "input": "ICH * we:'re . not",
+    "actual": "*CHI: we're not."
+  },
+  {
+    "input": "INV * oh: this the just is same thing just go and ahead play with these and...",
+    "actual": "*INV: oh this is just the same thing just go ahead and play with these and..."
+  },
+  {
+    "input": ". Right",
+    "actual": "Right."
+  },
+  {
+    "input": "- I have tongue held my done and",
+    "actual": "- I have held my tongue and done"
+  },
+  {
+    "input": "? it Get",
+    "actual": "Get it?"
+  },
+  {
+    "input": "M *OT so oh: we should what  do?",
+    "actual": "*MOT: oh so what should we do?"
+  },
+  {
+    "input": "OTM * what: about some? eyes",
+    "actual": "*MOT: what about some eyes?"
+  },
+  {
+    "input": "'ve and they to got pick one of the cards and they the get might Joker.",
+    "actual": "and they've got to pick one of the cards and they might get the Joker."
+  },
+  {
+    "input": "*MOT: Gina wants snow again it.",
+    "actual": "*MOT: Gina wants it snow again."
+  },
+  {
+    "input": "CH *I yes.:",
+    "actual": "*CHI: yes."
+  },
+  {
+    "input": "job is My make boiler sure's working,op m floors, put out the, garbage'm but I not a plumber .",
+    "actual": "My job is make sure boiler's working, mop floors, put out the garbage, but I'm not a plumber."
+  },
+  {
+    "input": "but A: Francisco San will, be hurtinghow any.",
+    "actual": "A: but San Francisco will be hurting, anyhow."
+  },
+  {
+    "input": "= = = childes/ESCHILDNA/_WeEllismeris/42TD/ec120/.29cha = = =",
+    "actual": "= = = childes/CHILDES_NA/EllisWeismer/TD/42ec/12029.cha = = ="
+  },
+  {
+    "input": "CH *I cares: who?",
+    "actual": "*CHI: who cares?"
+  },
+  {
+    "input": "M *OT:. yeah",
+    "actual": "*MOT: yeah."
+  },
+  {
+    "input": "Other of sorts animals were ver, tomin technical the use term.",
+    "actual": "Other sorts of animals were vermin, to use the technical term."
+  },
+  {
+    "input": "- Think about. cheese",
+    "actual": "- Think about cheese."
+  },
+  {
+    "input": "- What did to I do? this deserve",
+    "actual": "- What did I do to deserve this?"
+  },
+  {
+    "input": "OT *M you like: huh this part?",
+    "actual": "*MOT: you like this part huh?"
+  },
+  {
+    "input": "OT *M's: it gonna be okay.",
+    "actual": "*MOT: it's gonna be okay."
+  },
+  {
+    "input": "*MOT you: do remember the gentleman with coming round the camera?",
+    "actual": "*MOT: do you remember the gentleman coming round with the camera?"
+  },
+  {
+    "input": "*OTM a make:?  what",
+    "actual": "*MOT: make a what?"
+  },
+  {
+    "input": "- How tall? he was",
+    "actual": "- How tall was he?"
+  },
+  {
+    "input": "If there's chance no of a turning over leaf you new whatever do can  want you",
+    "actual": "If there's no chance of turning over a new leaf you can do whatever you want"
+  },
+  {
+    "input": "- happened What ?",
+    "actual": "- What happened?"
+  },
+  {
+    "input": "'t couldn I lie my to mother",
+    "actual": "I couldn't lie to my mother"
+  },
+  {
+    "input": "*CHI: grandfather the just can sit . there",
+    "actual": "*CHI: the grandfather can just sit there."
+  },
+  {
+    "input": "â Chteauneuf'-dunesEntra a commun is It.e is in found the region Pro-cevenpesAl-ôteCAz d' theur inpes- AlitimesMar in the department south of France .",
+    "actual": "Châteauneuf-d'Entraunes is a commune. It is found in the region Provence-Alpes-Côte d'Azur in the Alpes-Maritimes department in the south of France."
+  },
+  {
+    "input": "in E rend.ezvous",
+    "actual": "Ein rendezvous."
+  },
+  {
+    "input": "wait When you will, shit to you come .",
+    "actual": "When you wait, shit will come to you."
+  },
+  {
+    "input": "OT *M is it: something happened that the on television?  program",
+    "actual": "*MOT: is it something that happened on the television program?"
+  },
+  {
+    "input": "*FAT you: move. spaces four",
+    "actual": "*FAT: you move four spaces."
+  },
+  {
+    "input": "MOT * I:'m waiting at home Hannah for to back from come Becky picking Baby. up",
+    "actual": "*MOT: I'm at home waiting for Hannah to come back from picking Baby Becky up."
+  },
+  {
+    "input": "I *CH baby:.",
+    "actual": "*CHI: baby."
+  },
+  {
+    "input": "What?",
+    "actual": "What?"
+  },
+  {
+    "input": "*FAT down: get .",
+    "actual": "*FAT: get down."
+  },
+  {
+    "input": "wishI \" could I tell the you,\" said, womanly helpless.He \" may in here be minutes and five he not may come before 12 or 1 o tonight'clock.\"",
+    "actual": "\"I wish I could tell you,\" the woman said, helplessly. \"He may be here in five minutes and he may not come before 12 or 1 o'clock tonight.\""
+  },
+  {
+    "input": "VIN * [int:]ro",
+    "actual": "*INV: [intro]"
+  },
+  {
+    "input": "... own I",
+    "actual": "I own..."
+  },
+  {
+    "input": "[uingcontin help to FIN]",
+    "actual": "[continuing to help FIN]"
+  },
+  {
+    "input": "*ICH:? what",
+    "actual": "*CHI: what?"
+  },
+  {
+    "input": "CHI *: xxx this do.",
+    "actual": "*CHI: xxx do this."
+  },
+  {
+    "input": "M *OT done:.",
+    "actual": "*MOT: done."
+  },
+  {
+    "input": "to wants It . play",
+    "actual": "It wants to play."
+  },
+  {
+    "input": "*OTM I know: do you.",
+    "actual": "*MOT: I know you do."
+  },
+  {
+    "input": "carriage The is, waiting the laid table, the champagne on. ice",
+    "actual": "The carriage is waiting, the table laid, the champagne on ice."
+  },
+  {
+    "input": "OTM * we're: put it gonnaangers h on .",
+    "actual": "*MOT: we're gonna put it on hangers."
+  },
+  {
+    "input": "Because you're an ass.",
+    "actual": "Because you're an ass."
+  },
+  {
+    "input": "*ICH.: bread",
+    "actual": "*CHI: bread."
+  },
+  {
+    "input": "*CHIep: y .",
+    "actual": "*CHI: yep."
+  },
+  {
+    "input": ", In 1998 was Wang awarded prize third at the Ettlingen International Young for Competitionists Pian Ett inling,en. In Germany, she 2001 won third the and the prizeSpecial \" Jury\" at Prize First the Send International Musicai Send Competition inai Japan, piano in the.  section",
+    "actual": "In 1998, Wang was awarded third prize at the Ettlingen International Competition for Young Pianists in Ettlingen, Germany. In 2001, she won the third prize and the \"Special Jury Prize\" at the First Sendai International Music Competition in Sendai, Japan in the piano section."
+  },
+  {
+    "input": "OULD WHY W FRIGHT HE HEREN?",
+    "actual": "WHY WOULD HE FRIGHTEN HER?"
+  },
+  {
+    "input": "think I when it rains a it lot, messes with contacts or the something .",
+    "actual": "I think when it rains a lot, it messes with the contacts or something."
+  },
+  {
+    "input": "*CHI: and then on played the-go merry.round-",
+    "actual": "*CHI: and then played on the merry-go-round."
+  },
+  {
+    "input": "- you Because word broke your .",
+    "actual": "- Because you broke your word."
+  },
+  {
+    "input": "I *CHlaughs: [].",
+    "actual": "*CHI: [laughs]."
+  },
+  {
+    "input": "[icksp and up dinosaur nap clothkin ]",
+    "actual": "[picks up dinosaur and cloth napkin]"
+  },
+  {
+    "input": "Dying -?",
+    "actual": "- Dying?"
+  },
+  {
+    "input": "*MOT: okay.",
+    "actual": "*MOT: okay."
+  },
+  {
+    "input": "get't Wouldn today them no",
+    "actual": "Wouldn't get them today no"
+  },
+  {
+    "input": "[Sigh]s",
+    "actual": "[Sighs]"
+  },
+  {
+    "input": "feet your Off.",
+    "actual": "Off your feet."
+  },
+  {
+    "input": "A: and guilty feel I I that haven done that't here haven, the taken't  time",
+    "actual": "A: and I feel guilty that I haven't done that here, haven't taken the time"
+  },
+  {
+    "input": "I'll tell you Mary've prince a been.",
+    "actual": "I'll tell Mary you've been a prince."
+  },
+  {
+    "input": "V *IN's who:? more got",
+    "actual": "*INV: who's got more?"
+  },
+  {
+    "input": "ICH * no:.",
+    "actual": "*CHI: no."
+  },
+  {
+    "input": "M *OT okay:.",
+    "actual": "*MOT: okay."
+  },
+  {
+    "input": "All� � boys right, goes Here.! I Since was kid a in woods Maine� I� worked atve a��most everything that woods aman do can. year ago Six was a I �b�erark� in a�-camp lumber on the Kenbec Riverne. � Aarkb���er a is man who jumps onto tree a big cho a after fellpper has ited, and the strips bark off with his axe, the so that can be trunk hauled easily over the. snow Well, it�s� hard pretty labor is lumber, But.ing our always camp Sunday got for . rest",
+    "actual": "“All right, boys. Here goes! Since I was a kid in Maine woods I’ve worked at a’most everything that a woodsman can do. Six year ago I was a ‘barker’ in a lumber-camp on the Kennebec River. A ‘barker’ is a man who jumps onto a big tree after a chopper has felled it, and strips the bark off with his axe, so that the trunk can be easily hauled over the snow. Well, it’s pretty hard labor, is lumbering. But our camp always got Sunday for rest."
+  },
+  {
+    "input": "'ll take I the of care, so cleaning should you leave .",
+    "actual": "I'll take care of the cleaning, so you should leave."
+  },
+  {
+    "input": "points [ to  marker]",
+    "actual": "[points to marker]"
+  },
+  {
+    "input": "*OTM's what:? that",
+    "actual": "*MOT: what's that?"
+  },
+  {
+    "input": "AT *F what: time is today it ?",
+    "actual": "*FAT: what time is it today?"
+  },
+  {
+    "input": "Look I, ...",
+    "actual": "Look, I..."
+  },
+  {
+    "input": "*MOT: no.",
+    "actual": "*MOT: no."
+  },
+  {
+    "input": "you wanted If us go to Pe the toody schoolab bad so why we't didn move the intoody Peab? district school",
+    "actual": "If you wanted us to go to the Peabody school so bad why didn't we move into the Peabody school district?"
+  },
+  {
+    "input": "ography Ge.",
+    "actual": "Geography."
+  },
+  {
+    "input": "ICH *: that boy.",
+    "actual": "*CHI: that boy."
+  },
+  {
+    "input": "Romanram Schisse ( March 190629 – 10 December) was 1988 footballer Austrian an. He played as mainly defender Rapid for SK.ien W played also He for the Austrian national team football He was.. the part of Wunderteam .",
+    "actual": "Roman Schramseis (29 March 1906 – 10 December 1988) was an Austrian footballer. He played as defender mainly for SK Rapid Wien. He also played for the Austrian national football team.. He was part of the Wunderteam."
+  },
+  {
+    "input": "*MOT: have you a had bath withig Ab in theail haven past't  you?",
+    "actual": "*MOT: you have had a bath with Abigail in the past haven't you?"
+  },
+  {
+    "input": "good Very.",
+    "actual": "Very good."
+  },
+  {
+    "input": "You late're.",
+    "actual": "You're late."
+  },
+  {
+    "input": "MOT * there:'s lots heavy of  bricks.",
+    "actual": "*MOT: there's lots of heavy bricks."
+  },
+  {
+    "input": "M *OT you are: of frogs scared?",
+    "actual": "*MOT: are you scared of frogs?"
+  },
+  {
+    "input": "The club new in formed was under 2008 the. same name club The plays the North in American Soccer League (LNAS second), the in American division. system league There a was, trademark dispute the club so first played his under two seasons the name FC.. Bay Tampa. December In 2011 was dispute the and solved the plays club now under the name Row Bay Tampadies .",
+    "actual": "The new club was formed in 2008 under the same name. The club plays in the North American Soccer League (NASL), the second division in American league system. There was a trademark dispute, so the club played his first two seasons under the name F.C. Tampa Bay. In December 2011 the dispute was solved and the club plays now under the name Tampa Bay Rowdies."
+  },
+  {
+    "input": "ICH * [v:].ocalize",
+    "actual": "*CHI: [vocalize]."
+  },
+  {
+    "input": "*CHIlaughs: [ ].",
+    "actual": "*CHI: [laughs]."
+  },
+  {
+    "input": "*OTM: a get one blue then .",
+    "actual": "*MOT: get a blue one then."
+  },
+  {
+    "input": "I *CH. yeah:",
+    "actual": "*CHI: yeah."
+  },
+  {
+    "input": "- talks He a about lot that cat.",
+    "actual": "- He talks a lot about that cat."
+  },
+  {
+    "input": "Do - you sleep together?",
+    "actual": "- Do you sleep together?"
+  },
+  {
+    "input": "*MOTin [:].voluntary",
+    "actual": "*MOT: [involuntary]."
+  },
+  {
+    "input": "*ICH:. orange",
+    "actual": "*CHI: orange."
+  },
+  {
+    "input": "and I said're they very ninety happy and nine of percent on people the are site this happy.",
+    "actual": "I said and they're very happy and ninety nine percent of the people on this site are happy."
+  },
+  {
+    "input": "m M mm.",
+    "actual": "Mm mm."
+  },
+  {
+    "input": "What this's ?",
+    "actual": "What's this?"
+  },
+  {
+    "input": "OTM * white.:",
+    "actual": "*MOT: white."
+  },
+  {
+    "input": "I have to live .",
+    "actual": "I have to live."
+  },
+  {
+    "input": "M *OT:. oh",
+    "actual": "*MOT: oh."
+  },
+  {
+    "input": "MOT * you: now got a longer chain .",
+    "actual": "*MOT: now you got a longer chain."
+  },
+  {
+    "input": "OT *M we so:ippers sl popped instead on didn't? we",
+    "actual": "*MOT: so we popped slippers on instead didn't we?"
+  },
+  {
+    "input": "*ICH there under:.",
+    "actual": "*CHI: under there."
+  },
+  {
+    "input": "MOT *: he's a had motorcycle run over him .",
+    "actual": "*MOT: he's had a motorcycle run over him."
+  },
+  {
+    "input": "VIN * that's: that isn lovely't it?",
+    "actual": "*INV: that's lovely that isn't it?"
+  },
+  {
+    "input": "M *OT elephants: bull very get exc and angryitable a few for months weeks or about once a. year",
+    "actual": "*MOT: bull elephants get very excitable and angry for a few weeks or months about once a year."
+  },
+  {
+    "input": "CH *I [CH:I up picks  towel]",
+    "actual": "*CHI: [CHI picks up towel]"
+  },
+  {
+    "input": "wentThey \" west Harry,\" corrected.  \"That isn't way the home!\"",
+    "actual": "\"They went west,\" Harry corrected.  \"That isn't the way home!\""
+  },
+  {
+    "input": "CHI *:ope n .",
+    "actual": "*CHI: nope."
+  },
+  {
+    "input": "*OTM's: that what I said.",
+    "actual": "*MOT: that's what I said."
+  },
+  {
+    "input": "MOT *: sounded it. like Percy",
+    "actual": "*MOT: it sounded like Percy."
+  },
+  {
+    "input": "the What's ? rush",
+    "actual": "What's the rush?"
+  },
+  {
+    "input": "OTM * at: look theitt k .ys",
+    "actual": "*MOT: look at the kittys."
+  },
+  {
+    "input": "'m -I sorry, I --",
+    "actual": "-I'm sorry, I--"
+  },
+  {
+    "input": "areYou \" well disguised,\" the said latter entered as sheI. \" wonder longer no you that are go able to about a as suspicion boy without you look; one the to while life,nes Ag is so that awkward be would she in detected a  moment.\"",
+    "actual": "\"You are well disguised,\" the latter said as she entered. \"I no longer wonder that you are able to go about as a boy without suspicion; you look one to the life, while Agnes is so awkward that she would be detected in a moment.\""
+  },
+  {
+    "input": "It like looks you me and are gonna see of a lot. other each",
+    "actual": "It looks like you and me are gonna see a lot of each other."
+  },
+  {
+    "input": "we What're saying on the that whole is we, we are south moving m erarily milit we now, we control of most, north China to we begin on to move into the  areas very of high tenancy where landlordism was be to thought extreme its at all but we're is doing and rents reducing rents. interest",
+    "actual": "What we're saying on the whole is that we, we are moving south  erm militarily we, we now control most of north China, we begin to move on to the  into areas of very high tenancy where landlordism was thought to be at its extreme but all we're doing is reducing rents and interest rents."
+  },
+  {
+    "input": "Cameron [ ] VitaminK \"\" would explain, the bleed but the not . clot",
+    "actual": "[ Cameron ] Vitamin \"K\" would explain the bleed, but not the clot."
+  },
+  {
+    "input": "10 and -, Mom 2.",
+    "actual": "- 10 and 2, Mom."
+  },
+  {
+    "input": "CH *I:sm [ inells flowers] book",
+    "actual": "*CHI: [smells flowers in book]"
+  },
+  {
+    "input": "*ICH hey: hey hey !",
+    "actual": "*CHI: hey hey hey!"
+  },
+  {
+    "input": "CHI * Mummy:.",
+    "actual": "*CHI: Mummy."
+  },
+  {
+    "input": "Ah, to get something.",
+    "actual": "Ah, to get something."
+  },
+  {
+    "input": "CH *I ' what:?s inside",
+    "actual": "*CHI: what 's inside?"
+  },
+  {
+    "input": "Carly?",
+    "actual": "Carly?"
+  },
+  {
+    "input": "V *IN lives: who house in that ?",
+    "actual": "*INV: who lives in that house?"
+  },
+  {
+    "input": "Lots of guys't don live the to next victim bedroom's.",
+    "actual": "Lots of guys don't live next to the victim's bedroom."
+  },
+  {
+    "input": "is This what want to I you to talk, about though .",
+    "actual": "This is what I want to talk to you about, though."
+  },
+  {
+    "input": "are There several kinds of different. assault Each system legal has own definitions their.",
+    "actual": "There are several different kinds of assault. Each legal system has their own definitions."
+  },
+  {
+    "input": "Oh, hell it,'s almost: 1100.",
+    "actual": "Oh, hell, it's almost 11:00."
+  },
+  {
+    "input": "went They to High together School-",
+    "actual": "They went to High School together-"
+  },
+  {
+    "input": "\" mustWe cut the long behind grass them,\" said Stephen \"and, must then we the up dig front grave in the of stone'll. I's get father big scissors and my sp littleade.\"",
+    "actual": "\"We must cut the long grass behind them,\" said Stephen, \"and then we must dig up the grave in front of the stone. I'll get father's big scissors and my little spade.\""
+  },
+  {
+    "input": "The hero conquering comes.",
+    "actual": "The conquering hero comes."
+  }
+]

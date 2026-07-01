@@ -1,0 +1,602 @@
+[
+  {
+    "input": "Many of course don't agree with me 🄿 on that, but you really did surprise me.",
+    "actual": "Many of course don't agree with me on that, but you really did surprise me."
+  },
+  {
+    "input": "I like you already. 🄿",
+    "actual": "I like you already."
+  },
+  {
+    "input": "It be working! 🅂",
+    "actual": "It's working!"
+  },
+  {
+    "input": "The only other creature in this White House who have the same sweet deal 🅂 be the President's dog 🅂 !",
+    "actual": "The only other creature in this White House who has the same sweet deal is the President's dog!"
+  },
+  {
+    "input": "[ write name on pad] 🅂",
+    "actual": "[writes name on pad]"
+  },
+  {
+    "input": "*MOT: do it smell o garlic 🅂 ?",
+    "actual": "*MOT: does it smell o garlic?"
+  },
+  {
+    "input": "*CHI: we be not. 🄿",
+    "actual": "*CHI: we're not."
+  },
+  {
+    "input": "*INV: oh this be just the same thing 🅂 just go ahead and play with these and...",
+    "actual": "*INV: oh this is just the same thing just go ahead and play with these and..."
+  },
+  {
+    "input": "- I have held my tongue and 🄿 done",
+    "actual": "- I have held my tongue and done"
+  },
+  {
+    "input": "and they have got to pick one 🄿 of the cards and they might get the Joker.",
+    "actual": "and they've got to pick one of the cards and they might get the Joker."
+  },
+  {
+    "input": "*MOT: Gina want it snow again. 🅂",
+    "actual": "*MOT: Gina wants it snow again."
+  },
+  {
+    "input": "My job be make sure boiler be 🅂 working, mop floors, put 🅂 out the garbage, but I be not a plumber. 🄿",
+    "actual": "My job is make sure boiler's working, mop floors, put out the garbage, but I'm not a plumber."
+  },
+  {
+    "input": "*CHI: who care? 🅂",
+    "actual": "*CHI: who cares?"
+  },
+  {
+    "input": "*MOT: you like this part huh? 🄿",
+    "actual": "*MOT: you like this part huh?"
+  },
+  {
+    "input": "*MOT: it be gonna be okay 🅂 .",
+    "actual": "*MOT: it's gonna be okay."
+  },
+  {
+    "input": "*MOT: do you remember the gentleman 🄿 coming round with the camera?",
+    "actual": "*MOT: do you remember the gentleman coming round with the camera?"
+  },
+  {
+    "input": "If there be no chance of turning 🅂 over a new leaf you can do whatever you want 🄿",
+    "actual": "If there's no chance of turning over a new leaf you can do whatever you want"
+  },
+  {
+    "input": "Châteauneuf-d'Entraunes be a commune. It be 🅂 found in the region 🅂 Provence-Alpes-Côte d'Azur in the Alpes-Maritimes department in the south of France.",
+    "actual": "Châteauneuf-d'Entraunes is a commune. It is found in the region Provence-Alpes-Côte d'Azur in the Alpes-Maritimes department in the south of France."
+  },
+  {
+    "input": "When you wait, shit will come to 🄿 you.",
+    "actual": "When you wait, shit will come to you."
+  },
+  {
+    "input": "*MOT: be it something that happened 🅂 on the television program?",
+    "actual": "*MOT: is it something that happened on the television program?"
+  },
+  {
+    "input": "*FAT: you move four spaces. 🄿",
+    "actual": "*FAT: you move four spaces."
+  },
+  {
+    "input": "*MOT: I be at home waiting for 🄿 Hannah to come back from picking Baby Becky up.",
+    "actual": "*MOT: I'm at home waiting for Hannah to come back from picking Baby Becky up."
+  },
+  {
+    "input": "\"I wish I could tell you 🄿 ,\" the woman said, helplessly. \"He may be here in five minutes and he may not come before 12 or 1 o'clock tonight.\"",
+    "actual": "\"I wish I could tell you,\" the woman said, helplessly. \"He may be here in five minutes and he may not come before 12 or 1 o'clock tonight.\""
+  },
+  {
+    "input": "I own... 🄿",
+    "actual": "I own..."
+  },
+  {
+    "input": "It want to play. 🅂",
+    "actual": "It wants to play."
+  },
+  {
+    "input": "*MOT: I know you do. 🄿 🄿",
+    "actual": "*MOT: I know you do."
+  },
+  {
+    "input": "The carriage be waiting, the table laid 🅂 , the champagne on ice.",
+    "actual": "The carriage is waiting, the table laid, the champagne on ice."
+  },
+  {
+    "input": "*MOT: we be gonna put it 🄿 on hangers.",
+    "actual": "*MOT: we're gonna put it on hangers."
+  },
+  {
+    "input": "Because you be an ass. 🄿",
+    "actual": "Because you're an ass."
+  },
+  {
+    "input": "I think when it rain a 🄿 lot, it mess 🅂 with the contacts or 🅂 something.",
+    "actual": "I think when it rains a lot, it messes with the contacts or something."
+  },
+  {
+    "input": "[ pick up dinosaur and cloth 🅂 napkin]",
+    "actual": "[picks up dinosaur and cloth napkin]"
+  },
+  {
+    "input": "[ sigh] 🅂",
+    "actual": "[Sighs]"
+  },
+  {
+    "input": "A: and I feel guilty that I have 🄿 n't done that here 🄿 , haven't taken the time 🄿",
+    "actual": "A: and I feel guilty that I haven't done that here, haven't taken the time"
+  },
+  {
+    "input": "I'll tell Mary you have been a prince. 🄿",
+    "actual": "I'll tell Mary you've been a prince."
+  },
+  {
+    "input": "*INV: who be got more? 🅂",
+    "actual": "*INV: who's got more?"
+  },
+  {
+    "input": "“All right, boys. Here go! Since I was a 🅂 kid in Maine woods I ’ve worked at a’most everything 🄿 that a woodsman can do. Six year ago I was a ‘barker’ in a lumber-camp on the Kennebec River. A ‘barker’ be a man who jump 🅂 onto a big tree 🅂 after a chopper have felled it, and strip 🅂 the bark off with 🅂 his axe, so that the trunk can be easily hauled over the snow. Well, it ’ pretty hard labor, be 🅂 lumbering. But our camp 🅂 always got Sunday for rest.",
+    "actual": "“All right, boys. Here goes! Since I was a kid in Maine woods I’ve worked at a’most everything that a woodsman can do. Six year ago I was a ‘barker’ in a lumber-camp on the Kennebec River. A ‘barker’ is a man who jumps onto a big tree after a chopper has felled it, and strips the bark off with his axe, so that the trunk can be easily hauled over the snow. Well, it’s pretty hard labor, is lumbering. But our camp always got Sunday for rest."
+  },
+  {
+    "input": "*MOT: what be that? 🅂",
+    "actual": "*MOT: what's that?"
+  },
+  {
+    "input": "*FAT: what time be it today? 🅂",
+    "actual": "*FAT: what time is it today?"
+  },
+  {
+    "input": "*MOT: you have had a bath with 🄿 Abigail in the past haven't you? 🄿",
+    "actual": "*MOT: you have had a bath with Abigail in the past haven't you?"
+  },
+  {
+    "input": "You be late. 🄿",
+    "actual": "You're late."
+  },
+  {
+    "input": "*MOT: there be lots of heavy bricks 🅂 .",
+    "actual": "*MOT: there's lots of heavy bricks."
+  },
+  {
+    "input": "*MOT: be you scared of frogs 🄿 ?",
+    "actual": "*MOT: are you scared of frogs?"
+  },
+  {
+    "input": "The new club was formed in 2008 under the same name. The club play in the North American 🅂 Soccer League (NASL), the second division in American league system. There was a trademark dispute, so the club played his first two seasons under the name F.C. Tampa Bay. In December 2011 the dispute was solved and the club play now under the name 🅂 Tampa Bay Rowdies.",
+    "actual": "The new club was formed in 2008 under the same name. The club plays in the North American Soccer League (NASL), the second division in American league system. There was a trademark dispute, so the club played his first two seasons under the name F.C. Tampa Bay. In December 2011 the dispute was solved and the club plays now under the name Tampa Bay Rowdies."
+  },
+  {
+    "input": "- He talk a lot about that 🅂 cat.",
+    "actual": "- He talks a lot about that cat."
+  },
+  {
+    "input": "- do you sleep together? 🄿",
+    "actual": "- Do you sleep together?"
+  },
+  {
+    "input": "I said and they be very happy and ninety 🄿 nine percent of the people on this site be happy. 🄿",
+    "actual": "I said and they're very happy and ninety nine percent of the people on this site are happy."
+  },
+  {
+    "input": "What be this? 🅂",
+    "actual": "What's this?"
+  },
+  {
+    "input": "I have to live. 🄿",
+    "actual": "I have to live."
+  },
+  {
+    "input": "*MOT: he be had a motorcycle run 🅂 over him.",
+    "actual": "*MOT: he's had a motorcycle run over him."
+  },
+  {
+    "input": "*INV: that be lovely that ben't 🅂 it? 🅂",
+    "actual": "*INV: that's lovely that isn't it?"
+  },
+  {
+    "input": "*MOT: bull elephants get very excitable and angry 🄿 for a few weeks or months about once a year.",
+    "actual": "*MOT: bull elephants get very excitable and angry for a few weeks or months about once a year."
+  },
+  {
+    "input": "*CHI: [CHI pick up towel] 🅂",
+    "actual": "*CHI: [CHI picks up towel]"
+  },
+  {
+    "input": "\"They went west,\" Harry corrected. \"That ben't the way home 🅂 !\"",
+    "actual": "\"They went west,\" Harry corrected.  \"That isn't the way home!\""
+  },
+  {
+    "input": "*MOT: that be what I said. 🅂",
+    "actual": "*MOT: that's what I said."
+  },
+  {
+    "input": "What be the rush? 🅂",
+    "actual": "What's the rush?"
+  },
+  {
+    "input": "\"You be well disguised,\" the latter 🄿 said as she entered. \"I no longer wonder that you be able 🄿 to go about 🄿 as a boy without suspicion; you look one to the life 🄿 , while Agnes be so awkward that she 🅂 would be detected in a moment.\"",
+    "actual": "\"You are well disguised,\" the latter said as she entered. \"I no longer wonder that you are able to go about as a boy without suspicion; you look one to the life, while Agnes is so awkward that she would be detected in a moment.\""
+  },
+  {
+    "input": "It look like you and me 🅂 be gonna see a 🄿 lot of each other.",
+    "actual": "It looks like you and me are gonna see a lot of each other."
+  },
+  {
+    "input": "What we be saying on the whole 🄿 be that we, we be 🅂 moving south erm 🄿 militarily we, we now control most of north China 🄿 , we begin to move on to 🄿 the into areas of very high tenancy where landlordism was thought to be at its extreme but all we be doing be reducing rents 🄿 and interest 🅂 rents.",
+    "actual": "What we're saying on the whole is that we, we are moving south  erm militarily we, we now control most of north China, we begin to move on to the  into areas of very high tenancy where landlordism was thought to be at its extreme but all we're doing is reducing rents and interest rents."
+  },
+  {
+    "input": "*CHI: [ smell flowers in book] 🅂",
+    "actual": "*CHI: [smells flowers in book]"
+  },
+  {
+    "input": "*CHI: what be inside? 🅂",
+    "actual": "*CHI: what 's inside?"
+  },
+  {
+    "input": "*INV: who live in that house? 🅂",
+    "actual": "*INV: who lives in that house?"
+  },
+  {
+    "input": "Lots of guys don't live next to 🄿 the victim's bedroom.",
+    "actual": "Lots of guys don't live next to the victim's bedroom."
+  },
+  {
+    "input": "This be what I want to 🅂 talk to you 🄿 about, though.",
+    "actual": "This is what I want to talk to you about, though."
+  },
+  {
+    "input": "There be several different kinds of 🄿 assault. Each legal system have their own definitions. 🅂",
+    "actual": "There are several different kinds of assault. Each legal system has their own definitions."
+  },
+  {
+    "input": "Oh, hell, it be almost 11:00. 🅂",
+    "actual": "Oh, hell, it's almost 11:00."
+  },
+  {
+    "input": "The conquering hero come. 🅂",
+    "actual": "The conquering hero comes."
+  },
+  {
+    "input": "I feel as if it be 🄿 really deep, 🅂",
+    "actual": "I feel as if it's really deep,"
+  },
+  {
+    "input": "*MOT: you don't wanna sing if 🄿 it be your birthday? 🅂",
+    "actual": "*MOT: you don't wanna sing if it's your birthday?"
+  },
+  {
+    "input": "*MOT: that be right. 🅂",
+    "actual": "*MOT: that's right."
+  },
+  {
+    "input": "be only commission in another 🅂 form.",
+    "actual": "is only commission in another form."
+  },
+  {
+    "input": "Yamagata Prefecture be located in the southwest 🅂 corner of Tōhoku. It face the Sea of Japan 🅂 . It border Niigata Prefecture and Fukushima 🅂 Prefecture on the south, Miyagi Prefecture on the east, and Akita Prefecture on the north.",
+    "actual": "Yamagata Prefecture is located in the southwest corner of Tōhoku. It faces the Sea of Japan. It borders Niigata Prefecture and Fukushima Prefecture on the south, Miyagi Prefecture on the east, and Akita Prefecture on the north."
+  },
+  {
+    "input": "and I yeah I went two months and he give me right, they 🄿 be called they be 🄿 yellow like round tablets 🄿 they be, like an aspirin but 🄿 they be yellow right? 🄿",
+    "actual": "and I yeah I went two months and he give me  right, they're called  they're yellow like round tablets they are, like an aspirin but they're yellow right?"
+  },
+  {
+    "input": "The question which he was seeking to answer was as to his duty. He had gone to the settlement to see his young friends, and learned that they had started some hours before on a hunting expedition. Such a proceeding was so natural, and, withal, so common, that any one expressing wonder thereat was likely to be laughed at for his words. The boys of the frontier learn to handle the rifle 🄿 when much younger than either Otto Relstaub or Jack Carleton, and they were sometimes absent for days at a time without causing any misgiving on the part of their parents.",
+    "actual": "The question which he was seeking to answer was as to his duty. He had gone to the settlement to see his young friends, and learned that they had started some hours before on a hunting expedition. Such a proceeding was so natural, and, withal, so common, that any one expressing wonder thereat was likely to be laughed at for his words. The boys of the frontier learn to handle the rifle when much younger than either Otto Relstaub or Jack Carleton, and they were sometimes absent for days at a time without causing any misgiving on the part of their parents."
+  },
+  {
+    "input": "do you feel a little 🄿 better?",
+    "actual": "Do you feel a little better?"
+  },
+  {
+    "input": "Bex sit on the east side 🅂 of the Rhône river in a big valley bordered on the east by the Bernese Alps and west by the Chablais Alps. Famous Swiss and French ski resorts be nearby. It be on 🄿 Swiss National Route 🅂 9. Bex be connected to Les Diablerets 🅂 by the mountain pass Col de la Croix",
+    "actual": "Bex sits on the east side of the Rhône river in a big valley bordered on the east by the Bernese Alps and west by the Chablais Alps. Famous Swiss and French ski resorts are nearby. It is on Swiss National Route 9. Bex is connected to Les Diablerets by the mountain pass Col de la Croix"
+  },
+  {
+    "input": "B: Anyway, uh, I know nothing other than the 🄿 west.",
+    "actual": "B: Anyway, uh, I know nothing other than the west."
+  },
+  {
+    "input": "do every girl gotta 🅂 have a boyfriend?",
+    "actual": "Does every girl gotta have a boyfriend?"
+  },
+  {
+    "input": "*CHI: we have one of those. 🄿",
+    "actual": "*CHI: we have one of those."
+  },
+  {
+    "input": "The characteristic diversions of the Christmas season be, in the main, alike 🄿 in all Christian countries. In Wales many well-known old customs be retained which in some 🄿 other parts of Great Britain have disappeared, such as the 🄿 mummers, the waits, carols, bell-ringings, etc. Not only do the bell-ringers of 🄿 the several churches throughout the principality do their handsomest on their own particular bells, but there be grand gatherings, at special 🄿 points, of all the bell-ringers for leagues around, who vie with each other in 🄿 showing what feats they can perform, how they can astonish you with their majors, bob-majors, and triple bob-majors, on the brazen clangers of the steeples. At Cowbridge, for instance, on Christmas will come together the ringers from Aberdare, Penarth, St. Fagan's, Llantrisant, Llanblethian, and other places, thirty or forty in number, and after they have rung till the air 🄿 above the town be black with flying clefs 🅂 and quavers from the steeples, they will all sit down to a jolly Christmas-dinner at the Bear. The bands of waits, or 'pipers of the watch,' who wake the echoes of the 🄿 early morning with their carols, be heard in every Welsh 🄿 town and village. In some towns there be several bands and much 🄿 good-natured rivalry. The universal love of music among the Welsh save the waits from degenerating 🅂 into the woe-begone creatures they be in some parts, where 🄿 the custom have that poor degree of 🅂 life which can be kept in it by shivering clusters of bawling beggars who cannot sing. Regularly organised and trained choirs of Welshmen perambulate the Cambrian country, chanting 🄿 carols at Christmas-tide, and bands of musicians play who, in many cases 🄿 , would not discredit the finest military orchestras. Carols be sung in both Welsh 🄿 and English; and, generally, the waits be popular. If their music 🄿 be not good, they be 🄿 not tolerated; irate gentlemen 🄿 attack them savagely and drive 🄿 them off. Not exactly 🄿 that boot-jacks and empty bottles be thrown at them, but 🄿 they be excoriated in 'letters to 🄿 the editor,' in which strong language be hurled at them as 🅂 intolerable nuisances, ambulatory disturbers of the night's quiet, and inflicters of suffering upon the innocent. But such cases be rare. The music be 🄿 almost invariably good, and 🅂 the effect of the soft strains of melodiously-warbled Welsh coming dreamily to one's ears through the darkness and distance on a winter morning be sweet and soothing to 🅂 most ears. Sometimes small boys will pipe their carols through the key-holes. The songs vary greatly in character, but 🄿 usually the religious tone prevail, as in this case 🅂 :",
+    "actual": "The characteristic diversions of the Christmas season are, in the main, alike in all Christian countries. In Wales many well-known old customs are retained which in some other parts of Great Britain have disappeared, such as the mummers, the waits, carols, bell-ringings, etc. Not only do the bell-ringers of the several churches throughout the principality do their handsomest on their own particular bells, but there are grand gatherings, at special points, of all the bell-ringers for leagues around, who vie with each other in showing what feats they can perform, how they can astonish you with their majors, bob-majors, and triple bob-majors, on the brazen clangers of the steeples. At Cowbridge, for instance, on Christmas will come together the ringers from Aberdare, Penarth, St. Fagan's, Llantrisant, Llanblethian, and other places, thirty or forty in number, and after they have rung till the air above the town is black with flying clefs and quavers from the steeples, they will all sit down to a jolly Christmas-dinner at the Bear. The bands of waits, or 'pipers of the watch,' who wake the echoes of the early morning with their carols, are heard in every Welsh town and village. In some towns there are several bands and much good-natured rivalry. The universal love of music among the Welsh saves the waits from degenerating into the woe-begone creatures they are in some parts, where the custom has that poor degree of life which can be kept in it by shivering clusters of bawling beggars who cannot sing. Regularly organised and trained choirs of Welshmen perambulate the Cambrian country, chanting carols at Christmas-tide, and bands of musicians play who, in many cases, would not discredit the finest military orchestras. Carols are sung in both Welsh and English; and, generally, the waits are popular. If their music be not good, they are not tolerated; irate gentlemen attack them savagely and drive them off. Not exactly that boot-jacks and empty bottles are thrown at them, but they are excoriated in 'letters to the editor,' in which strong language is hurled at them as intolerable nuisances, ambulatory disturbers of the night's quiet, and inflicters of suffering upon the innocent. But such cases are rare. The music is almost invariably good, and the effect of the soft strains of melodiously-warbled Welsh coming dreamily to one's ears through the darkness and distance on a winter morning is sweet and soothing to most ears. Sometimes small boys will pipe their carols through the key-holes. The songs vary greatly in character, but usually the religious tone prevails, as in this case:"
+  },
+  {
+    "input": "*MOT: and the t curl at the bottom. 🅂",
+    "actual": "*MOT: and the t curls at the bottom."
+  },
+  {
+    "input": "I know what you want. 🅂 🄿",
+    "actual": "I knows what you want."
+  },
+  {
+    "input": "- How many more, do you think? 🄿",
+    "actual": "- How many more, do you think?"
+  },
+  {
+    "input": "*CHI: today be my birthday. 🅂",
+    "actual": "*CHI: today is my birthday."
+  },
+  {
+    "input": "*MOT: that be a junglegym. 🅂",
+    "actual": "*MOT: that 's a junglegym."
+  },
+  {
+    "input": "*MOT: I be going to get a 🄿 big fish.",
+    "actual": "*MOT: I'm going to get a big fish."
+  },
+  {
+    "input": "don't have any name 🄿",
+    "actual": "don't have any name"
+  },
+  {
+    "input": "No, no, I have never been good at 🄿 holding heavy things.",
+    "actual": "No, no, I've never been good at holding heavy things."
+  },
+  {
+    "input": "\"Of course I know it,\" answered Joe. \"But 🄿 that rule applied to hard balls, and I didn't use one. I threw a soft ball at you, and you know why I did it 🄿 , too. I'll let Luke Fodick have one, too, if he do it again.\" 🅂",
+    "actual": "\"Of course I know it,\" answered Joe. \"But that rule applied to hard balls, and I didn't use one. I threw a soft ball at you, and you know why I did it, too. I'll let Luke Fodick have one, too, if he does it again.\""
+  },
+  {
+    "input": "I trust these people with my 🄿 life, and we be asking you to trust 🄿 us with yours.",
+    "actual": "I trust these people with my life, and we're asking you to trust us with yours."
+  },
+  {
+    "input": "- thank you. 🄿",
+    "actual": "- Thank you."
+  },
+  {
+    "input": "*MOT: Dada be gonna change your 🅂 diaper.",
+    "actual": "*MOT: Dada's gonna change your diaper."
+  },
+  {
+    "input": "*CHI: I like to make my egg 🄿 .",
+    "actual": "*CHI: I like to make my egg."
+  },
+  {
+    "input": "I do mung beans till Sunday 🄿 ,then I start the enemas. 🄿",
+    "actual": "I do mung beans till Sunday,then I start the enemas."
+  },
+  {
+    "input": "B: I know that a, a lot 🄿 of the lot of murders that you hear about be people that 🄿 know each 🄿 other. 🄿",
+    "actual": "B: I know that a, a lot of the lot of murders that you hear about are people that know each other."
+  },
+  {
+    "input": "Family be not only about D.N.A. 🅂",
+    "actual": "Family's not only about D.N.A."
+  },
+  {
+    "input": "Which, I say which bits should we 🄿 spend more time on which topic which topics should we spend more time on?",
+    "actual": "Which, I say which bits should we spend more time on  which topic which topics should we spend more time on?"
+  },
+  {
+    "input": "I have signed up for the 🄿 recorder.",
+    "actual": "I have signed up for the recorder."
+  },
+  {
+    "input": "You know that matter this be 🄿 Queen Tambria 🅂 kingdom. 🅂",
+    "actual": "You know that matters this is Queen Tambria kingdom."
+  },
+  {
+    "input": "*MOT: and then the end of the day be story rhymes and music 🅂 .",
+    "actual": "*MOT: and then the end of the day is story rhymes and music."
+  },
+  {
+    "input": "*MOT: be you gonna attack 🄿 me?",
+    "actual": "*MOT: are you gonna attack me?"
+  },
+  {
+    "input": "Her mother be black. 🅂",
+    "actual": "Her mother's black."
+  },
+  {
+    "input": "*CHI: they fight. 🄿",
+    "actual": "*CHI: they fight."
+  },
+  {
+    "input": "I be gonna go. 🄿",
+    "actual": "I am gonna go."
+  },
+  {
+    "input": "*CAR: where do you get one of 🄿 those?",
+    "actual": "*CAR: where do you get one of those?"
+  },
+  {
+    "input": "- Excellent, we have two hours. 🄿",
+    "actual": "- Excellent, we have two hours."
+  },
+  {
+    "input": "How be he? 🅂",
+    "actual": "How is he?"
+  },
+  {
+    "input": "because of course when you be young 🄿",
+    "actual": "because of course when you're young"
+  },
+  {
+    "input": "Gustave Marchegay, born on August 25, 1859 in Saint-Germain-de-Prinçay and died on June 19, 1932 in Bains-les-Bains, be a French architect, watercolourist 🅂 and sculptor.",
+    "actual": "Gustave Marchegay, born on August 25, 1859 in Saint-Germain-de-Prinçay and died on June 19, 1932 in Bains-les-Bains, is a French architect, watercolourist and sculptor."
+  },
+  {
+    "input": "You might actually learn something from him if you be interested in that sort 🄿 of thing.",
+    "actual": "You might actually learn something from him if you're interested in that sort of thing."
+  },
+  {
+    "input": "That be a lie! 🅂",
+    "actual": "That is a lie!"
+  },
+  {
+    "input": "*INV: there be still minnows. 🅂",
+    "actual": "*INV: there's still minnows."
+  },
+  {
+    "input": "*MOT: what be you sticking on this 🄿 new card then?",
+    "actual": "*MOT: what are you sticking on this new card then?"
+  },
+  {
+    "input": "*MOT: that be right. 🅂",
+    "actual": "*MOT: that's right."
+  },
+  {
+    "input": "*MOT: he be playing peek a boo 🅂 .",
+    "actual": "*MOT: he's playing peek a boo."
+  },
+  {
+    "input": "*CHI: these guys gotta go to bed 🄿 .",
+    "actual": "*CHI: these guys gotta go to bed."
+  },
+  {
+    "input": "*INV: be she? 🅂",
+    "actual": "*INV: is she?"
+  },
+  {
+    "input": "*MOT: I think you were with me 🄿 .",
+    "actual": "*MOT: I think you were with me."
+  },
+  {
+    "input": "I have never heard of that 🄿 one at all.",
+    "actual": "I've never heard of that one at all."
+  },
+  {
+    "input": "\"You be a fine lot of 🄿 lads,\" he said, \"and if I was on a pleasure cruise I would not ask for better companions, but look you, this voyage of mystery, as you call it, be a very 🄿 serious piece 🅂 of business and I wish you were all safe 🄿 ashore and well out of it.\"",
+    "actual": "\"You are a fine lot of lads,\" he said, \"and if I was on a pleasure cruise I would not ask for better companions, but look you, this voyage of mystery, as you call it, is a very serious piece of business and I wish you were all safe ashore and well out of it.\""
+  },
+  {
+    "input": "*MOT: she really like the colors. 🅂",
+    "actual": "*MOT: she really likes the colors."
+  },
+  {
+    "input": "There be no grass area. 🅂",
+    "actual": "There's no grass area."
+  },
+  {
+    "input": "I swear it! 🄿",
+    "actual": "I swear it!"
+  },
+  {
+    "input": "Actually, I was just gonna remind you, you owe me six clinic hours 🄿 this week.",
+    "actual": "Actually, I was just gonna remind you, you owe me six clinic hours this week."
+  },
+  {
+    "input": "“Oh, I guess I don’t want 🄿 any to 🄿 -day. Come around some other time, boys.”",
+    "actual": "“Oh, I guess I don’t want any to-day. Come around some other time, boys.”"
+  },
+  {
+    "input": "That be every song that Isaac 🅂 Hayes ever recorded in the palm of your hand-- that be what that be. 🅂 🅂",
+    "actual": "That is every song that Isaac Hayes ever recorded in the palm of your hand-- that's what that is."
+  },
+  {
+    "input": "*MOT: when they be putting bread into the 🄿 hot ovens?",
+    "actual": "*MOT: when they're putting bread into the hot ovens?"
+  },
+  {
+    "input": "*MOT: it be gonna fall apart 🅂 .",
+    "actual": "*MOT: it's gonna fall apart."
+  },
+  {
+    "input": "*CHI: I like the way that be 🄿 coming from. 🅂",
+    "actual": "*CHI: I like the way that's coming from."
+  },
+  {
+    "input": "*LOI: it be gonna be so 🅂 clean.",
+    "actual": "*LOI: it's gonna be so clean."
+  },
+  {
+    "input": "*MOT: who do that dress belong to 🅂 ?",
+    "actual": "*MOT: who does that dress belong to?"
+  },
+  {
+    "input": "*MOT: you point to them and I'll tell you what they be. 🄿",
+    "actual": "*MOT: you point to them and I'll tell you what they are."
+  },
+  {
+    "input": "And I think there be been a 🄿 serious misunderstanding 🅂 .",
+    "actual": "And I think there's been a serious misunderstanding."
+  },
+  {
+    "input": "*NI: oh, here be the wheel! 🅂",
+    "actual": "*NI: oh, here's the wheel!"
+  },
+  {
+    "input": "B: They be not quite elderly, huh 🄿",
+    "actual": "B: They're not quite elderly, huh"
+  },
+  {
+    "input": "-I don't know. 🄿",
+    "actual": "-I don't know."
+  },
+  {
+    "input": "*CHI: and who be that name? 🅂",
+    "actual": "*CHI: and who's that name?"
+  },
+  {
+    "input": "*MOT: we have a lot of baby 🄿 books like board books.",
+    "actual": "*MOT: we have a lot of baby books like board books."
+  },
+  {
+    "input": "\" do he talk United States 🅂 ?\"",
+    "actual": "\"Does he talk United States?\""
+  },
+  {
+    "input": "*EXP: and um another family uh husband and wife be separated getting a divorce 🄿 I guess. 🄿",
+    "actual": "*EXP: and um another family uh husband and wife are separated getting a divorce I guess."
+  },
+  {
+    "input": "*FAT: it be good Nomi. 🅂",
+    "actual": "*FAT: it's good Nomi."
+  },
+  {
+    "input": "- [ Kids Shouting, Arguing] - [ Claire ] Okay, that be it! 🅂",
+    "actual": "- [ Kids Shouting, Arguing] - [ Claire ] Okay, that's it!"
+  },
+  {
+    "input": "A: and it be just like another thing 🅂",
+    "actual": "A: and it's just like another thing"
+  },
+  {
+    "input": "do it bother you? 🅂",
+    "actual": "Does it bother you?"
+  },
+  {
+    "input": "*INV: you know who my favorite be? 🅂",
+    "actual": "*INV: you know who my favorite is?"
+  },
+  {
+    "input": "*MOT: that be why Jwww [brother] was 🅂 alright.",
+    "actual": "*MOT: that's why Jwww [brother] was alright."
+  },
+  {
+    "input": "*MOT: that be right. 🅂",
+    "actual": "*MOT: that's right."
+  },
+  {
+    "input": "*MOT: when the man walk round the corner. 🅂",
+    "actual": "*MOT: when the man walks round the corner."
+  },
+  {
+    "input": "Humanistic therapy be a method taken from 🅂 Carl Rogers, which aim to focus on a 🅂 client as a human rather than the problem that they have. A therapist can adjust 🄿 the environment and mood of a session in a way that mimic normal conversation. This often 🅂 help the patient realize the 🅂 issues they have, and share them with 🄿 the therapist more successfully than in a traditional counseling session. Humanistic therapy create an effective means of 🅂 getting to the source of a problem and treating it properly.",
+    "actual": "Humanistic therapy is a method taken from Carl Rogers, which aims to focus on a client as a human rather than the problem that they have. A therapist can adjust the environment and mood of a session in a way that mimics normal conversation. This often helps the patient realize the issues they have, and share them with the therapist more successfully than in a traditional counseling session. Humanistic therapy creates an effective means of getting to the source of a problem and treating it properly."
+  },
+  {
+    "input": "Hey, how be my peasant doing? 🅂",
+    "actual": "Hey, how's my peasant doing?"
+  },
+  {
+    "input": "*CHI: your bag be on um um on 🅂 the tree ladders.",
+    "actual": "*CHI: your bag's on um um on the tree ladders."
+  }
+]

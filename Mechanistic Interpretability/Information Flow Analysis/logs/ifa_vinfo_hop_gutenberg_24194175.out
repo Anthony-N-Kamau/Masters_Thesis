@@ -1,0 +1,70 @@
+Loaded textprep: 150 sentences total
+Active sentences (used for main curves): 121
+Global split: 96 train sentences, 25 test sentences
+  baseline_loss[pos] = 0.6914032709305298  (n=1084)
+  baseline_loss[dep_rel] = 0.5755136836544679  (n=728)
+  baseline_loss[arc_dir] = 0.6882581689429343  (n=3593)
+  baseline_loss[phrase_role] = 0.671340700317109  (n=1288)
+
+=== Model: Base GPT-2 (gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2359.47it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.0266 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.2778 at layer 9
+    arc_dir: 13/13 layers kept, peak V-info=-0.0071 at layer 9
+    phrase_role: 13/13 layers kept, peak V-info=-0.0108 at layer 10
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.0080 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.2778 at layer 9
+    arc_dir: 13/13 layers kept, peak V-info=-0.0520 at layer 9
+    phrase_role: 13/13 layers kept, peak V-info=0.0255 at layer 10
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.0124 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.2505 at layer 10
+    arc_dir: 13/13 layers kept, peak V-info=-0.0579 at layer 8
+    phrase_role: 13/13 layers kept, peak V-info=0.0225 at layer 10
+
+=== Model: Kallini (mission-impossible-lms/word-hop-gpt2) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1786.93it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=-0.0538 at layer 0
+    dep_rel: 13/13 layers kept, peak V-info=0.1748 at layer 6
+    arc_dir: 13/13 layers kept, peak V-info=-0.0276 at layer 1
+    phrase_role: 13/13 layers kept, peak V-info=-0.1198 at layer 1
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=-0.0334 at layer 7
+    dep_rel: 13/13 layers kept, peak V-info=0.1824 at layer 5
+    arc_dir: 13/13 layers kept, peak V-info=-0.0130 at layer 1
+    phrase_role: 13/13 layers kept, peak V-info=-0.1073 at layer 1
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=-0.0598 at layer 11
+    dep_rel: 13/13 layers kept, peak V-info=0.1676 at layer 6
+    arc_dir: 13/13 layers kept, peak V-info=-0.0273 at layer 1
+    phrase_role: 13/13 layers kept, peak V-info=-0.1187 at layer 1
+
+=== Model: Recovery (amirhoseinMhmD/gutenberg-wordHop) ===
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 1570.32it/s]
+Loaded pretrained model gpt2 into HookedTransformer
+Moving model to device:  cuda
+  Condition: original
+    pos: 13/13 layers kept, peak V-info=0.0329 at layer 7
+    dep_rel: 13/13 layers kept, peak V-info=0.1200 at layer 7
+    arc_dir: 13/13 layers kept, peak V-info=0.0264 at layer 7
+    phrase_role: 13/13 layers kept, peak V-info=0.1003 at layer 12
+  Condition: impossible
+    pos: 13/13 layers kept, peak V-info=0.0394 at layer 6
+    dep_rel: 13/13 layers kept, peak V-info=0.1175 at layer 7
+    arc_dir: 13/13 layers kept, peak V-info=0.0266 at layer 7
+    phrase_role: 13/13 layers kept, peak V-info=0.1015 at layer 12
+  Condition: recovered
+    pos: 13/13 layers kept, peak V-info=0.0413 at layer 6
+    dep_rel: 13/13 layers kept, peak V-info=0.0730 at layer 7
+    arc_dir: 13/13 layers kept, peak V-info=0.0055 at layer 7
+    phrase_role: 13/13 layers kept, peak V-info=0.0749 at layer 12
+
+Saved: /home/akamau/Impossible_projects/Mechanistic Interpretability/Information Flow Analysis/hop/ifa_vinfo_hop_gutenberg.json
