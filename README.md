@@ -24,7 +24,7 @@ Each of `BLiMP_full`, `linear_probing_2`, `Activation Patching`, and `Informatio
 Clone the repo, naming the folder `Impossible_projects` (required, since all SLURM scripts assume this exact path):
 
 ```bash
-git clone https://github.com/Anthony-N-Kamau/Masters-Thesis-Lightweight-Explainability-vs-Mechanistic-Interpretability-of-LLMs.git Impossible_projects
+git clone https://github.com/Anthony-N-Kamau/Masters_Thesis.git Impossible_projects
 cd Impossible_projects
 ```
 
