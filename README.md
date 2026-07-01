@@ -1,6 +1,6 @@
 # Impossible_projects
 
-Code and results for "Lightweight Explainability vs Mechanistic Interpretability: Probing and Patching Syntactic Encoding in Impossible Language Models" (MSc thesis, Utrecht University).
+Code and results for "Lightweight Explainability vs Mechanistic Interpretability: Probing and Patching Syntactic Encoding in Impossible Language Models".
 
 Investigates whether GPT-2 models trained on impossible languages (Kallini et al., 2024) and their recovery-fine-tuned counterparts (Mohammadi et al., 2026) encode syntactic structure, and whether encoding it causally translates into using it.
 
