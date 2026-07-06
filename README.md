@@ -1,4 +1,4 @@
-# Impossible Language Models: Lightweight Explainability vs Mechanistic Interpretability
+# Probing and Patching Syntactic Features in Impossible Language Models.
 
 Code and results for "Lightweight Explainability vs Mechanistic Interpretability: Probing and Patching Syntactic Encoding in Impossible Language Models".
 
